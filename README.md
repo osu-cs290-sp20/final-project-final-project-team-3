@@ -2,7 +2,7 @@ Our plan is to make a website that contains all the legends from League of Legen
 The main page will have all of the legends on it. As a user clicks on the legend it'll go to a dedicated webpage for that legend.
 This webpage displays all the information of that Legend also providing pictures of the legend and their skills.
 
-All the LoL that exist in the game are listed down below:
+All the LoL that exist in the game are listed down below (147 Champions Counted):
 
 Aatrox 
 | Ahri
