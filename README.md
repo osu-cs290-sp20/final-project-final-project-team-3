@@ -152,3 +152,9 @@ Aatrox
 | Zilean
 | Zoe
 | Zyra
+
+
+For now we'll do the Marksman which contains 27 Champions:
+Aphelios | Ashe | Azir | Caitlyn | Corki | Draven | Ezreal | Graves | Jayce
+Jhin | Jinx | Kai'sa | Kalista | Kennen | Kindred | Kog'maw | Lucian | Miss Fortune
+Quinn | Senna | Sivir | Teemo | Tristana | Twitch | Varus | Vayne | Xayah
