@@ -2,6 +2,12 @@ Our plan is to make a website that contains all the legends from League of Legen
 The main page will have all of the legends on it. As a user clicks on the legend it'll go to a dedicated webpage for that legend.
 This webpage displays all the information of that Legend also providing pictures of the legend and their skills.
 
+Our steps to completion:
+Step 1: Make the Champion Template
+Step 2: Split 7 Champions to three people and 6 Champions and Main Page to one person
+Step 3: Profit (Copy Paste info)
+
+
 All the LoL that exist in the game are listed down below (147 Champions Counted):
 
 Aatrox 
