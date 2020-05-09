@@ -5,7 +5,7 @@ This webpage displays all the information of that Legend also providing pictures
 All the LoL that exist in the game are listed down below:
 
 Aatrox 
-  Ahri
+| Ahri
 Akali
 Alistar
 Amumu
