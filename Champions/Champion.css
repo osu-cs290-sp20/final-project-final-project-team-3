@@ -1,7 +1,12 @@
-.nav {
+.border /*Configures containers with borders. Usefully to make borders uniform*/{
+    border-width: medium;
+    border-style: solid;
+    margin: 0px 0px 0px 0px;
+}
+.nav /*This is the container for All Champions return button*/{
     padding-top: 10px;
     padding-bottom: 10px;
-    background-color: #3E3D3D;
+    background-color: #3E3D3D;/*This is the container's background color*/
     display: block;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -9,8 +14,8 @@
 
 
 }
-.return {
-    color: #FFFFFF;
+.return /*This is the text container for 'All Champions' return button*/{
+    color: #FFFFFF;/*Default text color for 'All Champions'*/
     text-decoration: none;
     font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
     font-weight: 700;
@@ -18,50 +23,108 @@
     text-align: center;
     display: block;
 }
-.return:hover {
+.return:hover /*This will turn All Champions text when mouse hovers it*/{
     color: #DFB816;
 }
 body {
-    margin-top: 0px;
-    margin-right: 0px;
-    margin-left: 0px;
-    margin-bottom: 0px;
-    padding-top: 0px;
-    padding-right: 0px;
-    padding-bottom: 0px;
-    padding-left: 0px;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
 }
-#ChampionInfo {
-    padding-top: 5%;
-    padding-left: 13%;
+#ChampionInfo /*This is the container for Champion Name, Champion Lore, and Champion's Picture*/{
+    display: grid;
+    grid-template-areas: 'menu main main main main main main'
+		'menu footer footer footer footer footer footer'
+		'menu footer footer footer footer footer footer'
+		'menu footer footer footer footer footer footer'
+		'menu footer footer footer footer footer footer'
+		'menu footer footer footer footer footer footer'
+		'menu footer footer footer footer footer footer'
+		'menu footer footer footer footer footer footer'
+		'menu footer footer footer footer footer footer'
+		'menu footer footer footer footer footer footer'
+		'menu footer footer footer footer footer footer';
+    margin-top: 100px;
+    margin-right: 200px;
+    margin-left: 200px;
+    margin-bottom: 50px;
 }
-.image {
-    border-width: medium;
-    border-style: solid;
+
+.image /*This is the Champion's Image*/{
     float: none;
     width: 250px;
-    height: auto;
-
-
+    height: 300px;
+    grid-area: menu;
+    padding-top: 0px;
+    margin-top: 0px;
+    object-fit: cover;
 }
-.Name {
+.Name /*This is the Champion's Name Container and Text*/{
     text-align: center;
     float: none;
     clear: none;
-    -webkit-box-sizing: content-box;
-    -moz-box-sizing: content-box;
-    box-sizing: content-box;
     display: inline-block;
+    grid-area: main;
+    height: 40px;
+	
+	font-family: default;
 }
 
-.Lore {
+
+.Lore /*This is the container and text for the Champion's Lore*/{
     display: inline-block;
+    grid-area: footer;
+    padding: 10px 10px 10px 10px;
+}
+.Moves-Container #passive-container {
 
 }
-
-.moves {
+#passive-container .border #passive {
+    font-weight: 600;
+    font-size: xx-large;
+    text-align: center;
+    line-height: 275%;
 }
-.border {
-    border-width: medium;
-    border-style: solid;
+
+
+#ChampionMove /*This is the container for Champion's Move Set*/{
+    margin: 40px 200px 20px 200px;
+    text-align: center;
+
+}
+.Moves-Container .move {
+    display: grid;
+    grid-template-areas: 'menu main main main main main main';
+    margin-top: 0px;
+    margin-right: 200px;
+    margin-left: 200px;
+    margin-bottom: 0px;
+}
+
+.Moves-Container .move .key {
+    grid-area: menu;
+    width: 175px;
+}
+.move .key .keystroke {
+    margin: 20px 0px 20px 0px;
+    text-align: center;
+    font-weight: 800;
+    font-size: 100px;
+}
+.Moves-Container .move .description {
+    grid-area: main;
+}
+.move-name   {
+    text-decoration: underline;
+    text-align: center;
+    margin: 0px 0px 0px 0px;
+    font-size: x-large;
+}
+.move .description .move-desc {
+    margin: 0px 0px 0px 0px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    line-height: 122%;
+
 }
