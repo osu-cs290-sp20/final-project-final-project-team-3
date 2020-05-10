@@ -75,10 +75,10 @@ body {
     grid-area: footer;
     padding: 10px 10px 10px 10px;
 }
-.Moves-Container #passive-container {
+.Moves-Container #passive-container /*This is the Passive Move Container*/{
 
 }
-#passive-container .border #passive {
+#passive-container .border #passive /*This is the 'Passive' text*/{
     font-weight: 600;
     font-size: xx-large;
     text-align: center;
@@ -91,7 +91,7 @@ body {
     text-align: center;
 
 }
-.Moves-Container .move {
+.Moves-Container .move /*This is the container for all of the Champion's Moves*/{
     display: grid;
     grid-template-areas: 'menu main main main main main main';
     margin-top: 0px;
@@ -100,26 +100,26 @@ body {
     margin-bottom: 0px;
 }
 
-.Moves-Container .move .key {
+.Moves-Container .move .key /*This is the Container for the move's key Ex. Q W E R Containers*/{
     grid-area: menu;
     width: 175px;
 }
-.move .key .keystroke {
+.move .key .keystroke /*This is the Move's Key text Ex. 'Q' 'W' 'E' 'R'*/{
     margin: 20px 0px 20px 0px;
     text-align: center;
     font-weight: 800;
     font-size: 100px;
 }
-.Moves-Container .move .description {
+.Moves-Container .move .description /*This is the Move's Description Container*/{
     grid-area: main;
 }
-.move-name   {
+.move-name   /*This is the 'Move's Name' text*/{
     text-decoration: underline;
     text-align: center;
     margin: 0px 0px 0px 0px;
     font-size: x-large;
 }
-.move .description .move-desc {
+.move .description .move-desc /*This is the Move's Description Text*/{
     margin: 0px 0px 0px 0px;
     padding-top: 10px;
     padding-right: 10px;
