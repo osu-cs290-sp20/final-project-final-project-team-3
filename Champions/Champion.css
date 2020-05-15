@@ -30,13 +30,12 @@ body {
     margin: 0px 0px 0px 0px;
     padding: 0px 0px 0px 0px;
 	color:white;
-	background-color: black;
+	background-image: url("Champion-Images/LeagueBckGrnd.jpg");
 }
 #ChampionInfo /*This is the container for Champion Name, Champion Lore, and Champion's Picture*/{
 	font-family: Roboto;
 	color: white;
-	background-color: black;
-    display: grid;
+	display: grid;
     grid-template-areas: 'menu main main main main main main'
 		'menu footer footer footer footer footer footer'
 		'menu footer footer footer footer footer footer'
@@ -70,8 +69,7 @@ body {
     display: inline-block;
     grid-area: main;
     height: 40px;
-	
-	font-family: default;
+	font-family: Roboto;
 }
 
 
