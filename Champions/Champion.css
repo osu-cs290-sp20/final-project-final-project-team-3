@@ -72,6 +72,7 @@ body {
     height: 40px;
 	font-family: Roboto;
 	background-image: url("Champion-Images/bck-grnd-color.PNG");
+	background: rgba(0,0,0,0.6);
 }
 
 
@@ -80,9 +81,11 @@ body {
     grid-area: footer;
     padding: 10px 10px 10px 10px;
 	background-image: url("Champion-Images/bck-grnd-color.PNG");
+	background: rgba(0,0,0,0.7);
 }
 .Moves-Container #passive-container /*This is the Passive Move Container*/{
-
+	background-image: url("Champion-Images/bck-grnd-color.PNG");
+	background: rgba(0,0,0,0.7);
 }
 #passive-container .border #passive /*This is the 'Passive' text*/{
     font-weight: 600;
@@ -96,7 +99,7 @@ body {
     margin: 40px 200px 20px 200px;
     text-align: center;
 	background-image: url("Champion-Images/bck-grnd-color.PNG");
-
+	background: rgba(0,0,0,0.7);
 }
 .Moves-Container .move /*This is the container for all of the Champion's Moves*/{
     display: grid;
@@ -110,6 +113,8 @@ body {
 .Moves-Container .move .key /*This is the Container for the move's key Ex. Q W E R Containers*/{
     grid-area: menu;
     width: 175px;
+	background-image: url("Champion-Images/bck-grnd-color.PNG");
+	background: rgba(0,0,0,0.7);
 }
 .move .key .keystroke /*This is the Move's Key text Ex. 'Q' 'W' 'E' 'R'*/{
     margin: 20px 0px 20px 0px;
@@ -126,6 +131,7 @@ body {
     margin: 0px 0px 0px 0px;
     font-size: x-large;
 	background-image: url("Champion-Images/bck-grnd-color.PNG");
+	background: rgba(0,0,0,0.7);
 }
 .move .description .move-desc /*This is the Move's Description Text*/{
     margin: 0px 0px 0px 0px;
@@ -135,4 +141,5 @@ body {
     padding-left: 10px;
     line-height: 122%;
 	background-image: url("Champion-Images/bck-grnd-color.PNG");
+	background: rgba(0,0,0,0.7);
 }
