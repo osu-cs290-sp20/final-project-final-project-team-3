@@ -31,6 +31,7 @@ body {
     padding: 0px 0px 0px 0px;
 	color:white;
 	background-image: url("Champion-Images/LeagueBckGrnd.jpg");
+	background-size: cover;
 }
 #ChampionInfo /*This is the container for Champion Name, Champion Lore, and Champion's Picture*/{
 	font-family: Roboto;
@@ -70,6 +71,7 @@ body {
     grid-area: main;
     height: 40px;
 	font-family: Roboto;
+	background-image: url("Champion-Images/bck-grnd-color.PNG");
 }
 
 
@@ -77,6 +79,7 @@ body {
     display: inline-block;
     grid-area: footer;
     padding: 10px 10px 10px 10px;
+	background-image: url("Champion-Images/bck-grnd-color.PNG");
 }
 .Moves-Container #passive-container /*This is the Passive Move Container*/{
 
@@ -92,6 +95,7 @@ body {
 #ChampionMove /*This is the container for Champion's Move Set*/{
     margin: 40px 200px 20px 200px;
     text-align: center;
+	background-image: url("Champion-Images/bck-grnd-color.PNG");
 
 }
 .Moves-Container .move /*This is the container for all of the Champion's Moves*/{
@@ -121,6 +125,7 @@ body {
     text-align: center;
     margin: 0px 0px 0px 0px;
     font-size: x-large;
+	background-image: url("Champion-Images/bck-grnd-color.PNG");
 }
 .move .description .move-desc /*This is the Move's Description Text*/{
     margin: 0px 0px 0px 0px;
@@ -129,5 +134,5 @@ body {
     padding-bottom: 10px;
     padding-left: 10px;
     line-height: 122%;
-
+	background-image: url("Champion-Images/bck-grnd-color.PNG");
 }
