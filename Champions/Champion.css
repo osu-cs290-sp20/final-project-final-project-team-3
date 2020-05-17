@@ -102,7 +102,7 @@ body {
 	background: rgba(0,0,0,0.7);
 }
 .Moves-Container .move /*This is the container for all of the Champion's Moves*/{
-    display: grid;
+    display: flex;
     grid-template-areas: 'menu main main main main main main';
     margin-top: 0px;
     margin-right: 200px;
@@ -124,6 +124,8 @@ body {
 }
 .Moves-Container .move .description /*This is the Move's Description Container*/{
     grid-area: main;
+    min-width: 83%;
+    max-width: 83%;
 }
 .move-name   /*This is the 'Move's Name' text*/{
     text-decoration: underline;
