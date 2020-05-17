@@ -92,7 +92,14 @@ body {
     font-size: xx-large;
     text-align: center;
     line-height: 275%;
+    padding-right: 50px;
+    padding-left: 50px;
 }
+#passiveborder {
+    min-width: 80%;
+    padding-left: 0px;
+}
+
 
 
 #ChampionMove /*This is the container for Champion's Move Set*/{
