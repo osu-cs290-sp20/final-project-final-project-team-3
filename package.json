@@ -19,6 +19,7 @@
   "homepage": "https://github.com/osu-cs290-sp20/final-project-final-project-team-3#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "express-handlebars": "^4.0.4",
     "handlebars": "^4.7.6",
     "node": "^14.3.0"
   },
