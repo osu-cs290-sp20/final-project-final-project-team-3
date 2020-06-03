@@ -1,44 +1,29 @@
 // JSON Document
 {
 	"aatrox": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
+		"name": "Aatrox",
+		"image": " ", 
+		"lore": " ",    
 		"moves": [
 			"passive": "Champion's Passive Move Description 
 
-						Cooldown Time: # Seconds 
-						*Damage Per Lvl: ##/##/##/## 
-						Target Range: ### 
-						*Applies Buffs/Debuffs: 
+						Cooldown Time: # Seconds
 						Mana Cost: ###",
 			"q": "Champion's Move Description
 			
 					Cooldown Time: # Seconds 
-					*Damage Per Lvl: ##/##/##/## 
-					Target Range: ### 
-					*Applies Buffs/Debuffs: 
 					Mana Cost: ###",
 			"w": "Champion's Move Description 
 			
 					Cooldown Time: # Seconds 
-					*Damage Per Lvl: ##/##/##/## 
-					Target Range: ### 
-					*Applies Buffs/Debuffs: 
 					Mana Cost: ###",
 			"e": "Champion's Move Description 
 			
-					Cooldown Time: # Seconds 
-					*Damage Per Lvl: ##/##/##/## 
-					Target Range: ### 
-					*Applies Buffs/Debuffs: 
+					Cooldown Time: # Seconds
 					Mana Cost: ###",
 			"r": "Champion's Move Description 
 			
 					Cooldown Time: # Seconds 
-					*Damage Per Lvl: ##/##/##/## 
-					Target Range: ### 
-					*Applies Buffs/Debuffs: 
 					Mana Cost: ###"
 		]
 	},

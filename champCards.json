@@ -144,77 +144,50 @@
 		"image": "fiora.jpg",
 		"html": "fiora.html"
 	},
-	"Fizz":{ 
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
+	{ 
+		"name": "Fizz",
+		"image": "fizz.jpg",
+		"html": "fizz.html"
 	},
-	"Galio":{ 
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
+	{ 
+		"name": "Galio",
+		"image": "galio.jpg",
+		"html": "galio.html"
 	},
-	"Gangplank":{ 
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
+	{ 
+		"name": "Gangplank",
+		"image": "gangplank.jpg",
+		"html": "gangplank.html"
 	},
-	"Garen":{ 
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
+	{ 
+		"name": "Garen",
+		"image": "garen.jpg",
+		"html": "garen.html"
 	},
-	"Gnar":{ 
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
+	{ 
+		"name": "Gnar",
+		"image": "gnar.jpg",
+		"html": "gnar.html"
 	},
-	"Gragas":{ 
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
+	{ 
+		"name": "Gragas",
+		"image": "gragas.jpg",
+		"html": "gragas.html"
 	},
-	"Graves":{ 
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
+	{ 
+		"name": "Graves",
+		"image": "graves.jpg",
+		"html": "graves.html"
 	},
-	"Hecarim":{ 
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
+	{ 
+		"name": "Hecarim",
+		"image": "hecarim.jpg",
+		"html": "hecarim.html"
 	},
-	"Heimerdinger":{ 
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
+	{ 
+		"name": "Heimerdinger",
+		"image": "heimerdinger.jpg",
+		"html": "heimerdinger.html"
 	},
 	"Illaoi":{ 
 		"name": "",
