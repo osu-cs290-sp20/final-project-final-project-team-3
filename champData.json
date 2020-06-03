@@ -5,7 +5,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"ahri": {
@@ -13,7 +13,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"alistar": {
@@ -21,7 +21,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"amumu": {
@@ -29,7 +29,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"anivia": {
@@ -37,7 +37,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"annie": {
@@ -45,23 +45,30 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"aphelios": {
-		"name": " ",
+		"name": "Aphelios",
 		"image": " ",
-		"lore": " ",
+		"lore": "Emerging from moonlight's shadow with weapons drawn, Aphelios kills the enemies of his faith in
+				     brooding silence—speaking only through the certainty of his aim, and the firing of each gun. Though fueled
+						 by a poison that renders him mute, he is guided by his sister Alune. From her distant temple sanctuary, she
+						 pushes an arsenal of moonstone weapons into his hands. For as long as the moon shines overhead,
+						 Aphelios will never be alone.",
 		"moves": [
-			
+
 		]
 	},
 	"ashe": {
-		"name": " ",
+		"name": "Ashe",
 		"image": " ",
-		"lore": " ",
+		"lore": "Iceborn warmother of the Avarosan tribe, Ashe commands the most populous horde in the north.
+		         Stoic, intelligent, and idealistic, yet uncomfortable with her role as leader, she taps into the ancestral
+						 magics of her lineage to wield a bow of True Ice. With her people's belief that she is the mythological hero
+						 Avarosa reincarnated, Ashe hopes to unify the Freljord once more by retaking their ancient, tribal lands.",
 		"moves": [
-			
+
 		]
 	},
 	"aurelion sol": {
@@ -69,15 +76,18 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"azir": {
-		"name": " ",
+		"name": "Azir",
 		"image": " ",
-		"lore": " ",
+		"lore": "Azir was a mortal emperor of Shurima in a far distant age, a proud man who stood at the cusp of
+		         immortality. His hubris saw him betrayed and murdered at the moment of his greatest triumph, but
+						 now, millennia later, he has been reborn as an Ascended being of immense power. With his buried
+						 city risen from the sand, Azir seeks to restore Shurima to its former glory.",
 		"moves": [
-			
+
 		]
 	},
 	"bard": {
@@ -85,7 +95,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"blitzcrank": {
@@ -93,7 +103,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"brand": {
@@ -101,7 +111,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Braum": {
@@ -109,15 +119,19 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Caitlyn": {
-		"name": " ",
+		"name": "Caitlyn",
 		"image": " ",
-		"lore": " ",
+		"lore": "Renowned as its finest peacekeeper, Caitlyn is also Piltover's best shot at ridding the city of its elusive
+		         criminal elements. She is often paired with Vi, acting as a cool counterpoint to her partner's more
+						 impetuous nature. Even though she carries a one-of-a-kind hextech rifle, Caitlyn's most powerful weapon is
+						 her superior intellect, allowing her to lay elaborate traps for any lawbreakers foolish enough to operate in
+						 the City of Progress.",
 		"moves": [
-			
+
 		]
 	},
 	"Camille": {
@@ -125,7 +139,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Cassiopeia": {
@@ -133,23 +147,28 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Cho'Gath": {
-		"name": " ",
+		"name": "",
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Corki": {
-		"name": " ",
+		"name": "Corki",
 		"image": " ",
-		"lore": " ",
+		"lore": "The yordle pilot Corki loves two things above all others: flying, and his glamorous mustache... though
+		         not necessarily in that order. After leaving Bandle City, he settled in Piltover and fell in love with the
+						 wondrous machines he found there. He dedicated himself to the development of flying contraptions,
+						 leading an aerial defense force of seasoned veterans known as the Screaming Yipsnakes. Calm under fire,
+						 Corki patrols the skies around his adopted home, and has never encountered a problem that a good missile
+						 barrage couldn't solve.",
 		"moves": [
-			
+
 		]
 	},
 	"Darius": {
@@ -157,7 +176,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Diana": {
@@ -165,7 +184,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Dr. Mundo": {
@@ -173,279 +192,313 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Draven": {
-		"name": " ",
+		"name": "Draven",
 		"image": " ",
-		"lore": " ",
+		"lore": "In Noxus, warriors known as Reckoners face one another in arenas where blood is spilled and strength
+		         tested—but none has ever been as celebrated as Draven. A former soldier, he found that the crowds
+						 uniquely appreciated his flair for the dramatic, and his unparalleled skill with his spinning axes. Addicted to
+						 the spectacle of his own brash perfection, Draven has sworn to defeat whomever he must to ensure that his
+						 name is chanted throughout the empire forever more.",
 		"moves": [
-			
+
 		]
 	},
-	"Ekko":{ 
+	"Ekko":{
 		"name": " ",
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
-	"Elise":{ 
+	"Elise":{
 		"name": " ",
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
-	"Evelynn":{ 
+	"Evelynn":{
 		"name": " ",
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
-	"Ezreal":{ 
-		"name": " ",
+	"Ezreal":{
+		"name": "Ezreal",
 		"image": " ",
-		"lore": " ",
+		"lore": "A dashing adventurer, unknowingly gifted in the magical arts, Ezreal raids long-lost catacombs, tangles
+		         with ancient curses, and overcomes seemingly impossible odds with ease. His courage and bravado
+						 knowing no bounds, he prefers to improvise his way out of any situation, relying partially on his wits, but
+						 mostly on his mystical Shuriman gauntlet, which he uses to unleash devastating arcane blasts. One thing
+						 is for sure—whenever Ezreal is around, trouble isn't too far behind. Or ahead. Probably everywhere.",
 		"moves": [
-			
+
 		]
 	},
-	"Fiddlesticks":{ 
+	"Fiddlesticks":{
 		"name": " ",
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
-	"Fiora":{ 
+	"Fiora":{
 		"name": " ",
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
-	"Fizz":{ 
+	"Fizz":{
 		"name": " ",
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
-	"Galio":{ 
+	"Galio":{
 		"name": " ",
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
-	"Gangplank":{ 
+	"Gangplank":{
 		"name": " ",
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
-	"Garen":{ 
+	"Garen":{
 		"name": " ",
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
-	"Gnar":{ 
+	"Gnar":{
 		"name": " ",
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
-	"Gragas":{ 
+	"Gragas":{
 		"name": " ",
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
-	"Graves":{ 
-		"name": " ",
+	"Graves":{
+		"name": "Graves",
 		"image": " ",
-		"lore": " ",
+		"lore": "Malcolm Graves is a renowned mercenary, gambler, and thief—a wanted man in every city and empire he
+		         has visited. Even though he has an explosive temper, he possesses a strict sense of criminal honor, often
+						 enforced at the business end of his double-barreled shotgun Destiny. In recent years, he has reconciled a
+						 troubled partnership with Twisted Fate, and together they have prospered once more in the turmoil of
+						 Bilgewater's criminal underbelly.",
 		"moves": [
-			
+
 		]
 	},
-	"Hecarim":{ 
+	"Hecarim":{
 		"name": " ",
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
-	"Heimerdinger":{ 
+	"Heimerdinger":{
 		"name": " ",
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
-	"Illaoi":{ 
+	"Illaoi":{
 		"name": " ",
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
-	"Irelia":{ 
+	"Irelia":{
 		"name": " ",
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
-	"Ivern":{ 
+	"Ivern":{
 		"name": " ",
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
-	"Janna":{ 
+	"Janna":{
 		"name": " ",
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
-	"Jarvan IV":{ 
+	"Jarvan IV":{
 		"name": " ",
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
-	"Jax":{ 
+	"Jax":{
 		"name": " ",
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
-	"Jayce":{ 
-		"name": " ",
+	"Jayce":{
+		"name": "Jayce",
 		"image": " ",
-		"lore": " ",
+		"lore": "Jayce is a brilliant inventor who has pledged his life to the defense of Piltover and its unyielding pursuit of
+		         progress. With his transforming hextech hammer in hand, Jayce uses his strength, courage, and
+						 considerable intelligence to protect his hometown. While revered throughout the city as a hero, he hasn't
+						 taken well to the attention heroism brings. Still, Jayce's heart is in the right place, and even those who
+						 envy his natural skills are grateful for his protection in the City of Progress.",
 		"moves": [
-			
+
 		]
 	},
-	"Jhin":{ 
-		"name": " ",
+	"Jhin":{
+		"name": "Jhin",
 		"image": " ",
-		"lore": " ",
+		"lore": "Jhin is a meticulous criminal psychopath who believes murder is art. Once an Ionian prisoner, but freed by
+		         shadowy elements within Ionia's ruling council, the serial killer now works as their cabal's assassin. Using
+						 his gun as his paintbrush, Jhin creates works of artistic brutality, horrifying victims and onlookers. He
+						 gains a cruel pleasure from putting on his gruesome theater, making him the ideal choice to send the most
+						 powerful of messages: terror.",
 		"moves": [
-			
+
 		]
 	},
-	"Jinx":{ 
-		"name": " ",
+	"Jinx":{
+		"name": "Jinx",
 		"image": " ",
-		"lore": " ",
+		"lore": "A manic and impulsive criminal from Zaun, Jinx lives to wreak havoc without care for the consequences. With
+		         an arsenal of deadly weapons, she unleashes the loudest blasts and brightest explosions to leave a trail
+						 of mayhem and panic in her wake. Jinx despises boredom, and gleefully brings her own chaotic brand
+						 of pandemonium wherever she goes.",
 		"moves": [
-			
+
 		]
 	},
-	"Kai'Sa":{ 
-		"name": " ",
+	"Kai'Sa":{
+		"name": "Kai'Sa",
 		"image": " ",
-		"lore": " ",
+		"lore": "Claimed by the Void when she was only a child, Kai'Sa managed to survive through sheer tenacity and
+		         strength of will. Her experiences have made her a deadly hunter and, to some, the harbinger of a future
+						 they would rather not live to see. Having entered into an uneasy symbiosis with a living Void carapace, the
+						 time will soon come when she must decide whether to forgive those mortals who would call her a monster,
+						 and defeat the coming darkness together… or simply to forget, as the Void consumes the world that left her behind.",
 		"moves": [
-			
+
 		]
 	},
-	"Kalista":{ 
-		"name": " ",
+	"Kalista":{
+		"name": "Kalista",
 		"image": " ",
-		"lore": " ",
+		"lore": "A specter of wrath and retribution, Kalista is the undying spirit of vengeance, an armored nightmare
+		         summoned from the Shadow Isles to hunt deceivers and traitors. The betrayed may cry out in blood to be
+						 avenged, but Kalista only answers those willing to pay with their very souls. Those who become the
+						 focus of Kalista's wrath should make their final peace, for any pact sealed with this grim hunter can
+						 only end with the cold, piercing fire of her soul-spears.",
 		"moves": [
-			
+
 		]
 	},
-	"Karma":{ 
+	"Karma":{
 		"name": " ",
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
-	"Karthus":{ 
+	"Karthus":{
 		"name": " ",
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
-	"Kassadin":{ 
+	"Kassadin":{
 		"name": " ",
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
-	"Katarina":{ 
+	"Katarina":{
 		"name": " ",
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
-	"Kayle":{ 
+	"Kayle":{
 		"name": " ",
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
-	"Kayn":{ 
+	"Kayn":{
 		"name": " ",
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Kennen": {
-		"name": " ",
+		"name": "Kennen",
 		"image": " ",
-		"lore": " ",
+		"lore": "More than just the lightning-quick enforcer of Ionian balance, Kennen is the only yordle member of the
+		         Kinkou. Despite his small, furry stature, he is eager to take on any threat with a whirling storm of
+						 shuriken and boundless enthusiasm. Alongside his master Shen, Kennen patrols the spirit realm,
+						 employing devastating electrical energy to strike down his enemies.",
 		"moves": [
-			
+
 		]
 	},
 	"Kha'Zix": {
@@ -453,15 +506,18 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Kindred": {
-		"name": " ",
+		"name": "Kindred",
 		"image": " ",
-		"lore": " ",
+		"lore": "Separate, but never parted, Kindred represents the twin essences of death. Lamb's bow offers a swift
+		         release from the mortal realm for those who accept their fate. Wolf hunts down those who run from their
+						 end, delivering violent finality within his crushing jaws. Though interpretations of Kindred's nature
+						 vary across Runeterra, every mortal must choose the true face of their death.",
 		"moves": [
-			
+
 		]
 	},
 	"Kled": {
@@ -469,15 +525,18 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Kog'Maw": {
-		"name": " ",
+		"name": "Kog'Maw",
 		"image": " ",
-		"lore": " ",
+		"lore": "Belched forth from a rotting Void incursion deep in the wastelands of Icathia, Kog'Maw is an inquisitive
+		         yet putrid creature with a caustic, gaping mouth. This particular Void-spawn needs to gnaw and drool
+						 on anything within reach to truly understand it. Though not inherently evil, Kog'Maw's beguiling
+						 naiveté is dangerous, as it often precedes a feeding frenzy—not for sustenance, but to satisfy its unending curiosity.",
 		"moves": [
-			
+
 		]
 	},
 	"LeBlanc": {
@@ -485,7 +544,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Lee Sin": {
@@ -493,7 +552,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Leona": {
@@ -501,7 +560,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Lissandra": {
@@ -509,15 +568,18 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Lucian": {
-		"name": " ",
+		"name": "Lucian",
 		"image": " ",
-		"lore": " ",
+		"lore": "Lucian, a Sentinel of Light, is a grim hunter of undying spirits, pursuing them relentlessly and
+		         annihilating them with his twin relic pistols. After the wraith Thresh slew his wife, Lucian embarked on the
+						 path of vengeance—but even with her return to life, his rage is undiminished. Merciless and single-
+						 minded, Lucian will stop at nothing to protect the living from the long-dead horrors of the Black Mist.",
 		"moves": [
-			
+
 		]
 	},
 	"Lulu": {
@@ -525,7 +587,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Lux": {
@@ -533,7 +595,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Malphite": {
@@ -541,7 +603,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Malzahar": {
@@ -549,7 +611,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Maokai": {
@@ -557,7 +619,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Master Yi": {
@@ -565,15 +627,19 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Miss Fortune": {
-		"name": " ",
+		"name": "Miss Fortune",
 		"image": " ",
-		"lore": " ",
+		"lore": "A Bilgewater captain famed for her looks but feared for her ruthlessness, Sarah Fortune paints a stark
+		         figure among the hardened criminals of the port city. As a child, she witnessed the reaver king Gangplank
+						 murder her family—an act she brutally avenged years later, blowing up his flagship while he was still
+						 aboard. Those who underestimate her will face a beguiling and unpredictable opponent… and, likely, a
+						 bullet or two in their guts.",
 		"moves": [
-			
+
 		]
 	},
 	"Mordekaiser": {
@@ -581,7 +647,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Morgana": {
@@ -589,7 +655,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Nami": {
@@ -597,7 +663,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Nasus": {
@@ -605,7 +671,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Nautilus": {
@@ -613,7 +679,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Neeko": {
@@ -621,7 +687,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Nidalee": {
@@ -629,7 +695,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Nocturne": {
@@ -637,7 +703,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Nunu and Willump": {
@@ -645,7 +711,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Olaf": {
@@ -653,7 +719,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Orianna": {
@@ -661,7 +727,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Ornn": {
@@ -669,7 +735,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Pantheon": {
@@ -677,7 +743,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Poppy": {
@@ -685,7 +751,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Pyke": {
@@ -693,7 +759,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Qiyana": {
@@ -701,15 +767,19 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Quinn": {
-		"name": " ",
+		"name": "Quinn",
 		"image": " ",
-		"lore": " ",
+		"lore": "Quinn is an elite ranger-knight of Demacia, who undertakes dangerous missions deep in enemy
+		         territory. She and her legendary eagle, Valor, share an unbreakable bond, and their foes are often slain
+				     before they realize they are fighting not one, but two of the kingdom's greatest heroes. Nimble and
+						 acrobatic when required, Quinn takes aim with her crossbow while Valor marks their elusive targets
+						 from above, making them a deadly pair on the battlefield.",
 		"moves": [
-			
+
 		]
 	},
 	"Rakan": {
@@ -717,7 +787,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Rammus": {
@@ -725,7 +795,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Rek'Sai": {
@@ -733,7 +803,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Renekton": {
@@ -741,7 +811,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Rengar": {
@@ -749,7 +819,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Riven": {
@@ -757,7 +827,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Rumble": {
@@ -765,7 +835,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Ryze": {
@@ -773,7 +843,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Sejuani": {
@@ -781,15 +851,20 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Senna": {
-		"name": " ",
+		"name": "Senna",
 		"image": " ",
-		"lore": " ",
+		"lore": "Cursed from childhood to be haunted by the supernatural Black Mist, Senna joined a sacred
+		         order known as the Sentinels of Light, and fiercely fought back—only to be killed, her soul imprisoned
+						 in a lantern by the cruel wraith Thresh. But refusing to lose hope, within the lantern Senna learned to
+						 use the Mist, and reemerged to new life, forever changed. Now wielding darkness along with light,
+						 Senna seeks to end the Black Mist by turning it against itself—with every blast of her relic weapon,
+						 redeeming the souls lost within.",
 		"moves": [
-			
+
 		]
 	},
 	"Sett": {
@@ -797,7 +872,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Shaco": {
@@ -805,7 +880,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Shen": {
@@ -813,7 +888,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Shyvana": {
@@ -821,7 +896,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Singed": {
@@ -829,7 +904,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Sion": {
@@ -837,15 +912,20 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Sivir": {
-		"name": " ",
+		"name": "Sivir",
 		"image": " ",
-		"lore": " ",
+		"lore": "Sivir is a renowned fortune hunter and mercenary captain who plies her trade in the deserts of
+		         Shurima. Armed with her legendary jeweled crossblade, she has fought and won countless
+						 battles for those who can afford her exorbitant price. Known for her fearless resolve and endless
+						 ambition, she prides herself on recovering buried treasures from the perilous tombs of Shurima—for a
+						 generous bounty. With ancient forces stirring the very bones of Shurima, Sivir finds herself torn
+						 between conflicting destinies.",
 		"moves": [
-			
+
 		]
 	},
 	"Skarner": {
@@ -853,7 +933,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Sona": {
@@ -861,7 +941,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Soraka": {
@@ -869,7 +949,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Swain": {
@@ -877,7 +957,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Sylas": {
@@ -885,7 +965,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Syndra": {
@@ -893,7 +973,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Tahm Kench": {
@@ -901,7 +981,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Taliyah": {
@@ -909,7 +989,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Talon": {
@@ -917,7 +997,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Taric": {
@@ -925,15 +1005,19 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Teemo": {
-		"name": " ",
+		"name": "Teemo",
 		"image": " ",
-		"lore": " ",
+		"lore": "Undeterred by even the most dangerous and threatening of obstacles, Teemo scouts the world
+		         with boundless enthusiasm and a cheerful spirit. A yordle with an unwavering sense of morality, he
+						 takes pride in following the Bandle Scout's Code, sometimes with such eagerness that he is unaware
+						 of the broader consequences of his actions. Though some say the existence of the Scouts is
+						 questionable, one thing is for certain: Teemo's conviction is nothing to be trifled with.",
 		"moves": [
-			
+
 		]
 	},
 	"Thresh": {
@@ -941,15 +1025,19 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Tristana": {
-		"name": " ",
+		"name": "Tristina",
 		"image": " ",
-		"lore": " ",
+		"lore": "While many other yordles channel their energy into discovery, invention, or just plain mischief-making,
+		         Tristana was always inspired by the adventures of great warriors. She had heard much about
+						 Runeterra, its factions, and its wars, and believed her kind could become worthy of legend too. Setting
+						 foot in the world for the first time, she took up her trusty cannon Boomer, and now leaps into battle
+						 with steadfast courage and optimism.",
 		"moves": [
-			
+
 		]
 	},
 	"Trundle": {
@@ -957,7 +1045,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Tryndamere": {
@@ -965,7 +1053,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Twisted Fate": {
@@ -973,15 +1061,18 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Twitch": {
-		"name": " ",
+		"name": "Twitch",
 		"image": " ",
-		"lore": " ",
+		"lore": "A Zaunite plague rat by birth, but a connoisseur of filth by passion, Twitch is not afraid to get his paws
+		         dirty. Aiming a chem-powered crossbow at the gilded heart of Piltover, he has vowed to show those in the
+						 city above just how filthy they really are. Always a sneaky sneak, when he's not rooting around in the
+						 Sump, he's digging deep into other people's garbage for discarded treasures… and perhaps a moldy sandwich.",
 		"moves": [
-			
+
 		]
 	},
 	"Udyr": {
@@ -989,7 +1080,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Urgot": {
@@ -997,23 +1088,30 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Varus": {
-		"name": " ",
+		"name": "Varus",
 		"image": " ",
-		"lore": " ",
+		"lore": "One of the ancient darkin, Varus was a deadly killer who loved to torment his foes, driving them almost
+		         to insanity before delivering the killing arrow. He was imprisoned at the end of the Great Darkin War,
+						 but escaped centuries later in the remade flesh of two Ionian hunters—they had unwittingly released
+						 him, cursed to bear the bow containing his bound essence. Varus now seeks out those who trapped
+						 him, in order to enact his brutal vengeance, but the mortal souls within still resist him every step of the way.",
 		"moves": [
-			
+
 		]
 	},
 	"Vayne": {
-		"name": " ",
+		"name": "Vayne",
 		"image": " ",
-		"lore": " ",
+		"lore": "Shauna Vayne is a deadly, remorseless Demacian monster hunter, who has dedicated her life to
+		         finding and destroying the demon that murdered her family. Armed with a wrist-mounted crossbow and a
+						 heart full of vengeance, she is only truly happy when slaying practitioners or creations of the dark arts,
+						 striking from the shadows with a flurry of silver bolts.",
 		"moves": [
-			
+
 		]
 	},
 	"Veigar": {
@@ -1021,7 +1119,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Vel'Koz": {
@@ -1029,7 +1127,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Vi": {
@@ -1037,7 +1135,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Viktor": {
@@ -1045,7 +1143,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Vladimir": {
@@ -1053,7 +1151,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Volibear": {
@@ -1061,7 +1159,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Warwick": {
@@ -1069,7 +1167,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Wukong": {
@@ -1077,15 +1175,18 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Xayah": {
-		"name": " ",
+		"name": "Xayah",
 		"image": " ",
-		"lore": " ",
+		"lore": "Deadly and precise, Xayah is a vastayan revolutionary waging a personal war to save her
+		         people. She uses her speed, guile, and razor-sharp feather blades to cut down anyone who stands in
+						 her way. Xayah fights alongside her partner and lover, Rakan, to protect their dwindling tribe, and
+						 restore their race to her vision of its former glory.",
 		"moves": [
-			
+
 		]
 	},
 	"Xerath": {
@@ -1093,7 +1194,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Xin Zhao": {
@@ -1101,7 +1202,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Yasuo": {
@@ -1109,7 +1210,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Yorick": {
@@ -1117,7 +1218,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Yuumi": {
@@ -1125,7 +1226,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Zac": {
@@ -1133,7 +1234,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Zed": {
@@ -1141,7 +1242,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Ziggs": {
@@ -1149,7 +1250,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Zilean": {
@@ -1157,7 +1258,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Zoe": {
@@ -1165,7 +1266,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	},
 	"Zyra": {
@@ -1173,7 +1274,7 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			
+
 		]
 	}
 }
