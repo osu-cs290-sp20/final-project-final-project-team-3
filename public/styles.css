@@ -1,7 +1,8 @@
 .border /*Configures containers with borders. Usefully to make borders uniform*/{
     border-width: medium;
-    border-style: solid;
+    border-style: ridge;
     margin: 0px 0px 0px 0px;
+    border-color: gold;
 }
 #Title {
     text-align: center;
@@ -9,8 +10,11 @@
     font-size: xx-large;
     font-variant: small-caps;
     font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    color: gold;
     margin-right: 120px;
     margin-left: 120px;
+    background-image: url("/Champions/Champion-Images/bck-grnd-color.PNG");
+    background-size: auto;
 }
 #search {
     text-align: center;
@@ -21,7 +25,7 @@ body {
     margin: 0px 0px 0px 0px;
     padding: 0px 0px 0px 0px;
 	color: black;
-	background-image: url("Champion-Images/LeagueBckGrnd.jpg");
+	background-image: url("/Champions/Champion-Images/LeagueBckGrnd.jpg");
 	background-size: cover;
 }
 body main {
@@ -52,18 +56,15 @@ body main {
 }
 .name {
     text-align: center;
-    padding-top: 0px;
-    padding-right: 0px;
-    padding-bottom: 0px;
-    padding-left: 0px;
-    margin-top: 0px;
-    margin-right: 0px;
-    margin-bottom: 0px;
-    margin-left: 0px;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
     font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
     font-variant: small-caps;
     font-weight: bold;
     font-size: x-large;
+    background-image: url("/Champions/Champion-Images/bck-grnd-color.PNG");
+    background-size: cover;
+    color: gold;
 }
 
 .link{

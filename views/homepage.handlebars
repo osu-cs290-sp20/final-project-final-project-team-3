@@ -1,0 +1,20 @@
+<link href="styles.css" rel="stylesheet" type="text/css">
+	<header>
+		<div class="border" id="Title">
+			Select your Champion!
+		</div>
+		<div id="search">
+			<input type="text" id="search-input" placeholder="Search for your Champion?">
+            <button type="button" id="search-button">Find Them!</button>
+		</div>
+	</header>
+	
+	<body>
+		<main class="legends">
+		
+			{{#each Champions}}
+			{{> championCard}}
+			{{/each}}
+			
+		</main>
+	</body>
