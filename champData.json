@@ -5,11 +5,41 @@
 		"image": " ",
 		"lore": " ",
 		"moves": [
-			"passive": "",
-			"q": "",
-			"w": "",
-			"e": "",
-			"r": ""
+			"passive": "Champion's Passive Move Description 
+
+						Cooldown Time: # Seconds 
+						*Damage Per Lvl: ##/##/##/## 
+						Target Range: ### 
+						*Applies Buffs/Debuffs: 
+						Mana Cost: ###",
+			"q": "Champion's Move Description
+			
+					Cooldown Time: # Seconds 
+					*Damage Per Lvl: ##/##/##/## 
+					Target Range: ### 
+					*Applies Buffs/Debuffs: 
+					Mana Cost: ###",
+			"w": "Champion's Move Description 
+			
+					Cooldown Time: # Seconds 
+					*Damage Per Lvl: ##/##/##/## 
+					Target Range: ### 
+					*Applies Buffs/Debuffs: 
+					Mana Cost: ###",
+			"e": "Champion's Move Description 
+			
+					Cooldown Time: # Seconds 
+					*Damage Per Lvl: ##/##/##/## 
+					Target Range: ### 
+					*Applies Buffs/Debuffs: 
+					Mana Cost: ###",
+			"r": "Champion's Move Description 
+			
+					Cooldown Time: # Seconds 
+					*Damage Per Lvl: ##/##/##/## 
+					Target Range: ### 
+					*Applies Buffs/Debuffs: 
+					Mana Cost: ###"
 		]
 	},
 	"ahri": {
