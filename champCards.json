@@ -189,50 +189,35 @@
 		"image": "heimerdinger.jpg",
 		"html": "heimerdinger.html"
 	},
-	"Illaoi":{ 
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
+	{ 
+		"name": "Illaoi",
+		"image": "illaoi.jpg",
+		"html": "illaoi.html"
 	},
-	"Irelia":{ 
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
+	{ 
+		"name": "Irelia",
+		"image": "irelia.jpg",
+		"html": "irelia.html"
 	},
-	"Ivern":{ 
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
+	{ 
+		"name": "Ivern",
+		"image": "ivern.jpg",
+		"html": "ivern.html"
 	},
-	"Janna":{ 
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
+	{ 
+		"name": "Janna",
+		"image": "janna.jpg",
+		"html": "janna.html"
 	},
-	"Jarvan IV":{ 
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
+	{ 
+		"name": "Jarvan IV",
+		"image": "jarvan_iv.jpg",
+		"html": "jarvan_iv.html"
 	},
-	"Jax":{ 
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
+	{ 
+		"name": "Jax",
+		"image": "jax.jpg",
+		"html": "jax.html"
 		
 			
 		
