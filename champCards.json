@@ -1,0 +1,1154 @@
+[
+	{
+		"name": "Aatrox",
+		"image": "aatrox.jpg",
+		"html": "aatrox.html"
+	},
+	{
+		"name": "Ahri",
+		"image": "ahri.jpg",
+		"html": "ahri.html"
+	},
+	{
+		"name": "Alistar",
+		"image": "alistar.jpg",
+		"html": "alistar.html"
+	},
+	{
+		"name": "Amumu",
+		"image": "amumu.jpg",
+		"html": "amumu.html"
+	},
+	{
+		"name": "Anivia",
+		"image": "anivia.jpg",
+		"html": "anivia.html"
+	},
+	{
+		"name": "Annie",
+		"image": "annie.jpg",
+		"html": "annie.html"
+	},
+	{
+		"name": "Aphelios",
+		"image": "aphelios.jpg",
+		"html": "aphelios.html"
+	},
+	{
+		"name": "Ashe",
+		"image": "ashe.jpg",
+		"html": "ashe.html"
+	},
+	"aurelion sol": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"azir": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"bard": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"blitzcrank": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"brand": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Braum": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Caitlyn": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Camille": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Cassiopeia": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Cho'Gath": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Corki": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Darius": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Diana": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Dr. Mundo": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Draven": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Ekko":{ 
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Elise":{ 
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Evelynn":{ 
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Ezreal":{ 
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Fiddlesticks":{ 
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Fiora":{ 
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Fizz":{ 
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Galio":{ 
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Gangplank":{ 
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Garen":{ 
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Gnar":{ 
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Gragas":{ 
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Graves":{ 
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Hecarim":{ 
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Heimerdinger":{ 
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Illaoi":{ 
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Irelia":{ 
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Ivern":{ 
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Janna":{ 
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Jarvan IV":{ 
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Jax":{ 
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Jayce":{ 
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Jhin":{ 
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Jinx":{ 
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Kai'Sa":{ 
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Kalista":{ 
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Karma":{ 
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Karthus":{ 
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Kassadin":{ 
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Katarina":{ 
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Kayle":{ 
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Kayn":{ 
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Kennen": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Kha'Zix": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Kindred": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Kled": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Kog'Maw": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"LeBlanc": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Lee Sin": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Leona": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Lissandra": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Lucian": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Lulu": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Lux": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Malphite": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Malzahar": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Maokai": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Master Yi": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Miss Fortune": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Mordekaiser": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Morgana": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Nami": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Nasus": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Nautilus": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Neeko": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Nidalee": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Nocturne": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Nunu and Willump": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Olaf": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Orianna": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Ornn": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Pantheon": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Poppy": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Pyke": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Qiyana": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Quinn": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Rakan": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Rammus": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Rek'Sai": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Renekton": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Rengar": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Riven": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Rumble": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Ryze": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Sejuani": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Senna": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Sett": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Shaco": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Shen": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Shyvana": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Singed": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Sion": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Sivir": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Skarner": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Sona": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Soraka": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Swain": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Sylas": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Syndra": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Tahm Kench": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Taliyah": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Talon": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Taric": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Teemo": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Thresh": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Tristana": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Trundle": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Tryndamere": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Twisted Fate": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Twitch": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Udyr": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Urgot": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Varus": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Vayne": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Veigar": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Vel'Koz": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Vi": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Viktor": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Vladimir": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Volibear": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Warwick": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Wukong": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Xayah": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Xerath": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Xin Zhao": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Yasuo": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Yorick": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Yuumi": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Zac": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Zed": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Ziggs": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Zilean": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Zoe": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	},
+	"Zyra": {
+		"name": " ",
+		"image": " ",
+		"html": " ",
+		
+			
+		
+	}
+]
