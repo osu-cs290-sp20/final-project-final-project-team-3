@@ -114,936 +114,624 @@
 		"image": "draven.jpg",
 		"html": "draven.html"
 	},
-	{ 
+	{
 		"name": "Ekko",
 		"image": "ekko.jpg",
 		"html": "ekko.html"
 	},
-	{ 
+	{
 		"name": "Elise",
 		"image": "elise.jpg",
 		"html": "elise.html"
 	},
-	{ 
+	{
 		"name": "Evelynn",
 		"image": "evelynn.jpg",
 		"html": "evelynn.html"
 	},
-	{ 
+	{
 		"name": "Ezreal",
 		"image": "ezreal.jpg",
 		"html": "ezreal.html"
 	},
-	{ 
+	{
 		"name": "Fiddlesticks",
 		"image": "fiddlesticks.jpg",
 		"html": "fiddlesticks.html"
 	},
-	{ 
+	{
 		"name": "Fiora",
 		"image": "fiora.jpg",
 		"html": "fiora.html"
 	},
-	{ 
+	{
 		"name": "Fizz",
 		"image": "fizz.jpg",
 		"html": "fizz.html"
 	},
-	{ 
+	{
 		"name": "Galio",
 		"image": "galio.jpg",
 		"html": "galio.html"
 	},
-	{ 
+	{
 		"name": "Gangplank",
 		"image": "gangplank.jpg",
 		"html": "gangplank.html"
 	},
-	{ 
+	{
 		"name": "Garen",
 		"image": "garen.jpg",
 		"html": "garen.html"
 	},
-	{ 
+	{
 		"name": "Gnar",
 		"image": "gnar.jpg",
 		"html": "gnar.html"
 	},
-	{ 
+	{
 		"name": "Gragas",
 		"image": "gragas.jpg",
 		"html": "gragas.html"
 	},
-	{ 
+	{
 		"name": "Graves",
 		"image": "graves.jpg",
 		"html": "graves.html"
 	},
-	{ 
+	{
 		"name": "Hecarim",
 		"image": "hecarim.jpg",
 		"html": "hecarim.html"
 	},
-	{ 
+	{
 		"name": "Heimerdinger",
 		"image": "heimerdinger.jpg",
 		"html": "heimerdinger.html"
 	},
-	{ 
+	{
 		"name": "Illaoi",
 		"image": "illaoi.jpg",
 		"html": "illaoi.html"
 	},
-	{ 
+	{
 		"name": "Irelia",
 		"image": "irelia.jpg",
 		"html": "irelia.html"
 	},
-	{ 
+	{
 		"name": "Ivern",
 		"image": "ivern.jpg",
 		"html": "ivern.html"
 	},
-	{ 
+	{
 		"name": "Janna",
 		"image": "janna.jpg",
 		"html": "janna.html"
 	},
-	{ 
+	{
 		"name": "Jarvan IV",
 		"image": "jarvan_iv.jpg",
 		"html": "jarvan_iv.html"
 	},
-	{ 
+	{
 		"name": "Jax",
 		"image": "jax.jpg",
 		"html": "jax.html"
-		
-			
-		
-	},
-	"Jayce":{ 
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Jhin":{ 
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Jinx":{ 
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Kai'Sa":{ 
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Kalista":{ 
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Karma":{ 
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Karthus":{ 
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Kassadin":{ 
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Katarina":{ 
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Kayle":{ 
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Kayn":{ 
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Kennen": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Kha'Zix": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Kindred": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Kled": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Kog'Maw": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"LeBlanc": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Lee Sin": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Leona": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Lissandra": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Lucian": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Lulu": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Lux": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Malphite": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Malzahar": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Maokai": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Master Yi": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Miss Fortune": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Mordekaiser": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Morgana": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Nami": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Nasus": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Nautilus": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Neeko": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Nidalee": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Nocturne": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Nunu and Willump": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Olaf": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Orianna": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Ornn": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Pantheon": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Poppy": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Pyke": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Qiyana": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Quinn": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Rakan": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Rammus": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Rek'Sai": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Renekton": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Rengar": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Riven": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Rumble": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Ryze": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Sejuani": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Senna": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Sett": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Shaco": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Shen": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Shyvana": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Singed": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Sion": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Sivir": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Skarner": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Sona": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Soraka": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Swain": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Sylas": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Syndra": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Tahm Kench": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Taliyah": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Talon": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Taric": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Teemo": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Thresh": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Tristana": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Trundle": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Tryndamere": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Twisted Fate": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Twitch": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Udyr": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Urgot": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Varus": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Vayne": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Veigar": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Vel'Koz": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Vi": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Viktor": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Vladimir": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Volibear": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Warwick": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Wukong": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Xayah": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Xerath": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Xin Zhao": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Yasuo": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Yorick": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Yuumi": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Zac": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Zed": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Ziggs": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Zilean": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Zoe": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
-	},
-	"Zyra": {
-		"name": "",
-		"image": ".jpg",
-		"html": ".html"
-		
-			
-		
+	},
+	{
+		"name": "Jayce",
+		"image": "jayce.jpg",
+		"html": "jayce.html"
+	},
+	{
+		"name": "Jhin",
+		"image": "jhin.jpg",
+		"html": "jhin.html"
+	},
+	{
+		"name": "Jinx",
+		"image": "jinx.jpg",
+		"html": "jinx.html"
+	},
+	{
+		"name": "Kai'Sa",
+		"image": "kaisa.jpg",
+		"html": "kaisa.html"
+	},
+	{
+		"name": "Kalista",
+		"image": "kalista.jpg",
+		"html": "kalista.html"
+	},
+	{
+		"name": "Karma",
+		"image": "karma.jpg",
+		"html": "karma.html"
+	},
+	{
+		"name": "Karthus",
+		"image": "karthus.jpg",
+		"html": "karthus.html"
+	},
+	{
+		"name": "Kassadin",
+		"image": "kassadin.jpg",
+		"html": "kassadin.html"
+	},
+	{
+		"name": "Katarina",
+		"image": "katarina.jpg",
+		"html": "katarina.html"
+	},
+	{
+		"name": "Kayle",
+		"image": "kayle.jpg",
+		"html": "kayle.html"
+	},
+	{
+		"name": "Kayn",
+		"image": "kayn.jpg",
+		"html": "kayn.html"
+	},
+	{
+		"name": "Kennen",
+		"image": "kennen.jpg",
+		"html": "kennen.html"
+	},
+	{
+		"name": "Kha'Zix",
+		"image": "khazix.jpg",
+		"html": "khazix.html"
+	},
+	{
+		"name": "Kindred",
+		"image": "kindred.jpg",
+		"html": "kindred.html"
+	},
+	{
+		"name": "Kled",
+		"image": "kled.jpg",
+		"html": "kled.html"
+	},
+	{
+		"name": "Kog'Maw",
+		"image": "kogmaw.jpg",
+		"html": "kogmaw.html"
+	},
+	{
+		"name": "LeBlanc",
+		"image": "leblanc.jpg",
+		"html": "leblanc.html"
+	},
+	{
+		"name": "Lee Sin",
+		"image": "lee sin.jpg",
+		"html": "lee sin.html"
+	},
+	{
+		"name": "Leona",
+		"image": "leona.jpg",
+		"html": "leona.html"
+	},
+	{
+		"name": "Lissandra",
+		"image": "lissandra.jpg",
+		"html": "lissandra.html"
+	},
+	{
+		"name": "lucian",
+		"image": "lucian.jpg",
+		"html": "lucian.html"
+	},
+	{
+		"name": "Lulu",
+		"image": "lulu.jpg",
+		"html": "lulu.html"
+	},
+	{
+		"name": "Lux",
+		"image": "lux.jpg",
+		"html": "lux.html"
+	},
+	{
+		"name": "Malphite",
+		"image": "malphite.jpg",
+		"html": "malphite.html"
+	},
+	{
+		"name": "Malzahar",
+		"image": "malzahar.jpg",
+		"html": "malzahar.html"
+	},
+	{
+		"name": "Maokai",
+		"image": "maokai.jpg",
+		"html": "maokai.html"
+	},
+	{
+		"name": "Master Yi",
+		"image": "master_yi.jpg",
+		"html": "master_yi.html"
+	},
+	{
+		"name": "Miss Fortune",
+		"image": "miss_fortune.jpg",
+		"html": "miss_fortune.html"
+	},
+	{
+		"name": "Mordekaiser",
+		"image": "mordekaiser.jpg",
+		"html": "mordekaiser.html"
+	},
+	{
+		"name": "Morgana",
+		"image": "morgana.jpg",
+		"html": "morgana.html"
+	},
+	{
+		"name": "Nami",
+		"image": "nami.jpg",
+		"html": "nami.html"
+	},
+	{
+		"name": "Nasus",
+		"image": "nasus.jpg",
+		"html": "nasus.html"
+	},
+	{
+		"name": "Nautilus",
+		"image": "nautilus.jpg",
+		"html": "nautilus.html"
+	},
+	{
+		"name": "Neeko",
+		"image": "neeko.jpg",
+		"html": "neeko.html"
+	},
+	{
+		"name": "Nidalee",
+		"image": "nidalee.jpg",
+		"html": "nidalee.html"
+	},
+	{
+		"name": "Nocturne",
+		"image": "nocturne.jpg",
+		"html": "nocturne.html"
+	},
+	{
+		"name": "Nunu and Willump",
+		"image": "nunu_and_willump.jpg",
+		"html": "nunu_and_willump.html"
+	},
+	{
+		"name": "Olaf",
+		"image": "olaf.jpg",
+		"html": "olaf.html"
+	},
+	{
+		"name": "Orianna",
+		"image": "orianna.jpg",
+		"html": "orianna.html"
+	},
+	{
+		"name": "Ornn",
+		"image": "ornn.jpg",
+		"html": "ornn.html"
+	},
+	{
+		"name": "pantheon",
+		"image": "pantheon.jpg",
+		"html": "pantheon.html"
+	},
+	{
+		"name": "Poppy",
+		"image": "poppy.jpg",
+		"html": "poppy.html"
+	},
+	{
+		"name": "Pyke",
+		"image": "pyke.jpg",
+		"html": "pyke.html"
+	},
+	{
+		"name": "Qiyana",
+		"image": "qiyana.jpg",
+		"html": "qiyana.html"
+	},
+	{
+		"name": "Quinn",
+		"image": "quinn.jpg",
+		"html": "quinn.html"
+	},
+	{
+		"name": "Rakan",
+		"image": "rakan.jpg",
+		"html": "rakan.html"
+	},
+	{
+		"name": "Rammus",
+		"image": "rammus.jpg",
+		"html": "rammus.html"
+	},
+	{
+		"name": "Rek'Sai",
+		"image": "reksai.jpg",
+		"html": "reksai.html"
+	},
+	{
+		"name": "Renekton",
+		"image": "renekton.jpg",
+		"html": "renekton.html"
+	},
+	{
+		"name": "Rengar",
+		"image": "rengar.jpg",
+		"html": "rengar.html"
+	},
+	{
+		"name": "Riven",
+		"image": "riven.jpg",
+		"html": "riven.html"
+	},
+	{
+		"name": "Rumble",
+		"image": "rumble.jpg",
+		"html": "rumble.html"
+	},
+	{
+		"name": "Ryze",
+		"image": "ryze.jpg",
+		"html": "ryze.html"
+	},
+	{
+		"name": "Sejuani",
+		"image": "sejuani.jpg",
+		"html": "sejuani.html"
+	},
+	{
+		"name": "Senna",
+		"image": "senna.jpg",
+		"html": "senna.html"
+	},
+	{
+		"name": "Sett",
+		"image": "sett.jpg",
+		"html": "sett.html"
+	},
+	{
+		"name": "Shaco",
+		"image": "shaco.jpg",
+		"html": "shaco.html"
+	},
+	{
+		"name": "Shen",
+		"image": "shen.jpg",
+		"html": "shen.html"
+	},
+	{
+		"name": "Shyvana",
+		"image": "shyvana.jpg",
+		"html": "shyvana.html"
+	},
+	{
+		"name": "Singed",
+		"image": "singed.jpg",
+		"html": "singed.html"
+	},
+	{
+		"name": "Sion",
+		"image": "sion.jpg",
+		"html": "sion.html"
+	},
+	{
+		"name": "Sivir",
+		"image": "sivir.jpg",
+		"html": "sivir.html"
+	},
+	{
+		"name": "Skarner",
+		"image": "skarner.jpg",
+		"html": "skarner.html"
+	},
+	{
+		"name": "Sona",
+		"image": "sona.jpg",
+		"html": "sona.html"
+	},
+	{
+		"name": "Soraka",
+		"image": "soraka.jpg",
+		"html": "soraka.html"
+	},
+	{
+		"name": "Swain",
+		"image": "swain.jpg",
+		"html": "swain.html"
+	},
+	{
+		"name": "Sylas",
+		"image": "sylas.jpg",
+		"html": "sylas.html"
+	},
+	{
+		"name": "Syndra",
+		"image": "syndra.jpg",
+		"html": "syndra.html"
+	},
+	{
+		"name": "Tahm Kench",
+		"image": "tahm_kench.jpg",
+		"html": "tahm_kench.html"
+	},
+	{
+		"name": "Taliyah",
+		"image": "taliyah.jpg",
+		"html": "taliyah.html"
+	},
+	{
+		"name": "Talon",
+		"image": "talon.jpg",
+		"html": "talon.html"
+	},
+	"": {
+		"name": "taric",
+		"image": "taric.jpg",
+		"html": "taric.html"
+	},
+	"": {
+		"name": "Teemo",
+		"image": "teemo.jpg",
+		"html": "teemo.html"
+	},
+	"": {
+		"name": "Thresh",
+		"image": "thresh.jpg",
+		"html": "thresh.html"
+	},
+	"": {
+		"name": "Tristana",
+		"image": "tristana.jpg",
+		"html": "tristana.html"
+	},
+	"": {
+		"name": "Trundle",
+		"image": "trundle.jpg",
+		"html": "trundle.html"
+	},
+	"": {
+		"name": "Tryndamere",
+		"image": "tryndamere.jpg",
+		"html": "tryndamere.html"
+	},
+	"": {
+		"name": "Twisted Fate",
+		"image": "twisted_fate.jpg",
+		"html": "twisted_fate.html"
+	},
+	"": {
+		"name": "Twitch",
+		"image": "twitch.jpg",
+		"html": "twitch.html"
+	},
+	"": {
+		"name": "Udyr",
+		"image": "udyr.jpg",
+		"html": "udyr.html"
+	},
+	"": {
+		"name": "Urgot",
+		"image": "urgot.jpg",
+		"html": "urgot.html"
+	},
+	"": {
+		"name": "Varus",
+		"image": "varus.jpg",
+		"html": "varus.html"
+	},
+	"": {
+		"name": "Vayne",
+		"image": "vayne.jpg",
+		"html": "vayne.html"
+	},
+	"": {
+		"name": "Veigar",
+		"image": "veigar.jpg",
+		"html": "veigar.html"
+	},
+	"": {
+		"name": "Vel'Koz",
+		"image": "velkoz.jpg",
+		"html": "velkoz.html"
+	},
+	"": {
+		"name": "Vi",
+		"image": "vi.jpg",
+		"html": "vi.html"
+	},
+	"": {
+		"name": "Viktor",
+		"image": "viktor.jpg",
+		"html": "viktor.html"
+	},
+	"": {
+		"name": "Vladimir",
+		"image": "vladimir.jpg",
+		"html": "vladimir.html"
+	},
+	"": {
+		"name": "Volibear",
+		"image": "volibear.jpg",
+		"html": "volibear.html"
+	},
+	"": {
+		"name": "Warwick",
+		"image": "warwick.jpg",
+		"html": "warwick.html"
+	},
+	"": {
+		"name": "Wukong",
+		"image": "wukong.jpg",
+		"html": "wukong.html"
+	},
+	"": {
+		"name": "Xayah",
+		"image": "xayah.jpg",
+		"html": "xayah.html"
+	},
+	"": {
+		"name": "Xerath",
+		"image": "xerath.jpg",
+		"html": "xerath.html"
+	},
+	"": {
+		"name": "Xin Zhao",
+		"image": "xin_zhao.jpg",
+		"html": "xin_zhao.html"
+	},
+	"": {
+		"name": "Yasuo",
+		"image": "yasuo.jpg",
+		"html": "yasuo.html"
+	},
+	"": {
+		"name": "Yorick",
+		"image": "yorick.jpg",
+		"html": "yorick.html"
+	},
+	"": {
+		"name": "Yuumi",
+		"image": "yuumi.jpg",
+		"html": "yuumi.html"
+	},
+	"": {
+		"name": "Zac",
+		"image": "zac.jpg",
+		"html": "zac.html"
+	},
+	"": {
+		"name": "Zed",
+		"image": "Zed.jpg",
+		"html": "Zed.html"
+	},
+	"": {
+		"name": "Ziggs",
+		"image": "ziggs.jpg",
+		"html": "ziggs.html"
+	},
+	"": {
+		"name": "Zilean",
+		"image": "zilean.jpg",
+		"html": "zilean.html"
+	},
+	"": {
+		"name": "Zoe",
+		"image": "zoe.jpg",
+		"html": "zoe.html"
+	},
+	"": {
+		"name": "Zyra",
+		"image": "zyra.jpg",
+		"html": "zyra.html"
 	}
 ]
