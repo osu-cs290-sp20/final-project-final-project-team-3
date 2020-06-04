@@ -1,940 +1,1379 @@
 {
 	"aphelios": {
 		"name": "Aphelios",
-		"image": " ",
-		"lore": "Emerging from moonlight's shadow with weapons drawn, Aphelios kills the enemies of his faith in
-				     brooding silence—speaking only through the certainty of his aim, and the firing of each gun. Though fueled
-						 by a poison that renders him mute, he is guided by his sister Alune. From her distant temple sanctuary, she
-						 pushes an arsenal of moonstone weapons into his hands. For as long as the moon shines overhead,
-						 Aphelios will never be alone.",
+		"image": "aphelios.jpg",
+		"lore": "Emerging from moonlight's shadow with weapons drawn, Aphelios kills the enemies of his faith in brooding silence—speaking only through the certainty of his aim, and the firing of each gun. Though fueled by a poison that renders him mute, he is guided by his sister Alune. From her distant temple sanctuary, she pushes an arsenal of moonstone weapons into his hands. For as long as the moon shines overhead, Aphelios will never be alone.",
 		"moves": {
 			"passive": {
-				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"movename": "Go fuck yourself",
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"q": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"w": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"e": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"r": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
-				},
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
+				}
 		}
 	},
 	"ashe": {
 		"name": "Ashe",
 		"image": " ",
-		"lore": "Iceborn warmother of the Avarosan tribe, Ashe commands the most populous horde in the north.
-		         Stoic, intelligent, and idealistic, yet uncomfortable with her role as leader, she taps into the ancestral
-						 magics of her lineage to wield a bow of True Ice. With her people's belief that she is the mythological hero
-						 Avarosa reincarnated, Ashe hopes to unify the Freljord once more by retaking their ancient, tribal lands.",
+		"lore": "Iceborn warmother of the Avarosan tribe, Ashe commands the most populous horde in the north. Stoic, intelligent, and idealistic, yet uncomfortable with her role as leader, she taps into the ancestral magics of her lineage to wield a bow of True Ice. With her people's belief that she is the mythological hero Avarosa reincarnated, Ashe hopes to unify the Freljord once more by retaking their ancient, tribal lands.",
 		"moves": {
 			"passive": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"q": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"w": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"e": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"r": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
-				},
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
+				}
 		}
 	},
 	"azir": {
 		"name": "Azir",
 		"image": " ",
-		"lore": "Azir was a mortal emperor of Shurima in a far distant age, a proud man who stood at the cusp of
-		         immortality. His hubris saw him betrayed and murdered at the moment of his greatest triumph, but
-						 now, millennia later, he has been reborn as an Ascended being of immense power. With his buried
-						 city risen from the sand, Azir seeks to restore Shurima to its former glory.",
+		"lore": "Azir was a mortal emperor of Shurima in a far distant age, a proud man who stood at the cusp of immortality. His hubris saw him betrayed and murdered at the moment of his greatest triumph, but now, millennia later, he has been reborn as an Ascended being of immense power. With his buried city risen from the sand, Azir seeks to restore Shurima to its former glory.",
 		"moves": {
 			"passive": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"q": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"w": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"e": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"r": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
-				},
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
+				}
 		}
 	},
 	"Caitlyn": {
 		"name": "Caitlyn",
 		"image": " ",
-		"lore": "Renowned as its finest peacekeeper, Caitlyn is also Piltover's best shot at ridding the city of its elusive
-		         criminal elements. She is often paired with Vi, acting as a cool counterpoint to her partner's more
-						 impetuous nature. Even though she carries a one-of-a-kind hextech rifle, Caitlyn's most powerful weapon is
-						 her superior intellect, allowing her to lay elaborate traps for any lawbreakers foolish enough to operate in
-						 the City of Progress.",
+		"lore": "Renowned as its finest peacekeeper, Caitlyn is also Piltover's best shot at ridding the city of its elusive criminal elements. She is often paired with Vi, acting as a cool counterpoint to her partner's more impetuous nature. Even though she carries a one-of-a-kind hextech rifle, Caitlyn's most powerful weapon is her superior intellect, allowing her to lay elaborate traps for any lawbreakers foolish enough to operate in the City of Progress.",
 		"moves": {
 			"passive": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"q": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"w": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"e": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"r": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
-				},
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
+				}
 		}
 	},
 	"Corki": {
 		"name": "Corki",
 		"image": " ",
-		"lore": "The yordle pilot Corki loves two things above all others: flying, and his glamorous mustache... though
-		         not necessarily in that order. After leaving Bandle City, he settled in Piltover and fell in love with the
-						 wondrous machines he found there. He dedicated himself to the development of flying contraptions,
-						 leading an aerial defense force of seasoned veterans known as the Screaming Yipsnakes. Calm under fire,
-						 Corki patrols the skies around his adopted home, and has never encountered a problem that a good missile
-						 barrage couldn't solve.",
+		"lore": "The yordle pilot Corki loves two things above all others: flying, and his glamorous mustache... though not necessarily in that order. After leaving Bandle City, he settled in Piltover and fell in love with the wondrous machines he found there. He dedicated himself to the development of flying contraptions, leading an aerial defense force of seasoned veterans known as the Screaming Yipsnakes. Calm under fire, Corki patrols the skies around his adopted home, and has never encountered a problem that a good missile barrage couldn't solve.",
 		"moves": {
 			"passive": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"q": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"w": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"e": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"r": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
-				},
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
+				}
 		}
 	},
 	"Draven": {
 		"name": "Draven",
 		"image": " ",
-		"lore": "In Noxus, warriors known as Reckoners face one another in arenas where blood is spilled and strength
-		         tested—but none has ever been as celebrated as Draven. A former soldier, he found that the crowds
-						 uniquely appreciated his flair for the dramatic, and his unparalleled skill with his spinning axes. Addicted to
-						 the spectacle of his own brash perfection, Draven has sworn to defeat whomever he must to ensure that his
-						 name is chanted throughout the empire forever more.",
+		"lore": "In Noxus, warriors known as Reckoners face one another in arenas where blood is spilled and strength tested—but none has ever been as celebrated as Draven. A former soldier, he found that the crowds uniquely appreciated his flair for the dramatic, and his unparalleled skill with his spinning axes. Addicted to the spectacle of his own brash perfection, Draven has sworn to defeat whomever he must to ensure that his name is chanted throughout the empire forever more.",
 		"moves": {
 			"passive": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"q": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"w": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"e": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"r": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
-				},
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
+				}
 		}
 	},
 	"Ezreal":{
 		"name": "Ezreal",
 		"image": " ",
-		"lore": "A dashing adventurer, unknowingly gifted in the magical arts, Ezreal raids long-lost catacombs, tangles
-		         with ancient curses, and overcomes seemingly impossible odds with ease. His courage and bravado
-						 knowing no bounds, he prefers to improvise his way out of any situation, relying partially on his wits, but
-						 mostly on his mystical Shuriman gauntlet, which he uses to unleash devastating arcane blasts. One thing
-						 is for sure—whenever Ezreal is around, trouble isn't too far behind. Or ahead. Probably everywhere.",
+		"lore": "A dashing adventurer, unknowingly gifted in the magical arts, Ezreal raids long-lost catacombs, tangles with ancient curses, and overcomes seemingly impossible odds with ease. His courage and bravado knowing no bounds, he prefers to improvise his way out of any situation, relying partially on his wits, but mostly on his mystical Shuriman gauntlet, which he uses to unleash devastating arcane blasts. One thing is for sure—whenever Ezreal is around, trouble isn't too far behind. Or ahead. Probably everywhere.",
 		"moves": {
 			"passive": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"q": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"w": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"e": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"r": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
-				},
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
+				}
 		}
 	},
 	"Graves":{
 		"name": "Graves",
 		"image": " ",
-		"lore": "Malcolm Graves is a renowned mercenary, gambler, and thief—a wanted man in every city and empire he
-		         has visited. Even though he has an explosive temper, he possesses a strict sense of criminal honor, often
-						 enforced at the business end of his double-barreled shotgun Destiny. In recent years, he has reconciled a
-						 troubled partnership with Twisted Fate, and together they have prospered once more in the turmoil of
-						 Bilgewater's criminal underbelly.",
+		"lore": "Malcolm Graves is a renowned mercenary, gambler, and thief—a wanted man in every city and empire he has visited. Even though he has an explosive temper, he possesses a strict sense of criminal honor, often enforced at the business end of his double-barreled shotgun Destiny. In recent years, he has reconciled a troubled partnership with Twisted Fate, and together they have prospered once more in the turmoil of Bilgewater's criminal underbelly.",
 		"moves": {
 			"passive": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"q": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"w": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"e": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"r": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
-				},
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
+				}
 		}
 	},
 	"Jayce":{
 		"name": "Jayce",
 		"image": " ",
-		"lore": "Jayce is a brilliant inventor who has pledged his life to the defense of Piltover and its unyielding pursuit of
-		         progress. With his transforming hextech hammer in hand, Jayce uses his strength, courage, and
-						 considerable intelligence to protect his hometown. While revered throughout the city as a hero, he hasn't
-						 taken well to the attention heroism brings. Still, Jayce's heart is in the right place, and even those who
-						 envy his natural skills are grateful for his protection in the City of Progress.",
+		"lore": "Jayce is a brilliant inventor who has pledged his life to the defense of Piltover and its unyielding pursuit of progress. With his transforming hextech hammer in hand, Jayce uses his strength, courage, and considerable intelligence to protect his hometown. While revered throughout the city as a hero, he hasn't taken well to the attention heroism brings. Still, Jayce's heart is in the right place, and even those who envy his natural skills are grateful for his protection in the City of Progress.",
 		"moves": {
 			"passive": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"q": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"w": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"e": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"r": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
-				},
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
+				}
 		}
 	},
 	"Jhin":{
 		"name": "Jhin",
 		"image": " ",
-		"lore": "Jhin is a meticulous criminal psychopath who believes murder is art. Once an Ionian prisoner, but freed by
-		         shadowy elements within Ionia's ruling council, the serial killer now works as their cabal's assassin. Using
-						 his gun as his paintbrush, Jhin creates works of artistic brutality, horrifying victims and onlookers. He
-						 gains a cruel pleasure from putting on his gruesome theater, making him the ideal choice to send the most
-						 powerful of messages: terror.",
+		"lore": "Jhin is a meticulous criminal psychopath who believes murder is art. Once an Ionian prisoner, but freed by shadowy elements within Ionia's ruling council, the serial killer now works as their cabal's assassin. Using his gun as his paintbrush, Jhin creates works of artistic brutality, horrifying victims and onlookers. He gains a cruel pleasure from putting on his gruesome theater, making him the ideal choice to send the most powerful of messages: terror.",
 		"moves": {
 			"passive": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"q": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"w": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"e": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"r": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
-				},
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
+				}
 		}
 	},
 	"Jinx":{
 		"name": "Jinx",
 		"image": " ",
-		"lore": "A manic and impulsive criminal from Zaun, Jinx lives to wreak havoc without care for the consequences. With
-		         an arsenal of deadly weapons, she unleashes the loudest blasts and brightest explosions to leave a trail
-						 of mayhem and panic in her wake. Jinx despises boredom, and gleefully brings her own chaotic brand
-						 of pandemonium wherever she goes.",
+		"lore": "A manic and impulsive criminal from Zaun, Jinx lives to wreak havoc without care for the consequences. With an arsenal of deadly weapons, she unleashes the loudest blasts and brightest explosions to leave a trail of mayhem and panic in her wake. Jinx despises boredom, and gleefully brings her own chaotic brand of pandemonium wherever she goes.",
 		"moves": {
 			"passive": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"q": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"w": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"e": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"r": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
-				},
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
+				}
 		}
 	},
 	"Kai'Sa":{
 		"name": "Kai'Sa",
 		"image": " ",
-		"lore": "Claimed by the Void when she was only a child, Kai'Sa managed to survive through sheer tenacity and
-		         strength of will. Her experiences have made her a deadly hunter and, to some, the harbinger of a future
-						 they would rather not live to see. Having entered into an uneasy symbiosis with a living Void carapace, the
-						 time will soon come when she must decide whether to forgive those mortals who would call her a monster,
-						 and defeat the coming darkness together… or simply to forget, as the Void consumes the world that left her behind.",
+		"lore": "Claimed by the Void when she was only a child, Kai'Sa managed to survive through sheer tenacity and strength of will. Her experiences have made her a deadly hunter and, to some, the harbinger of a future they would rather not live to see. Having entered into an uneasy symbiosis with a living Void carapace, the time will soon come when she must decide whether to forgive those mortals who would call her a monster, and defeat the coming darkness together… or simply to forget, as the Void consumes the world that left her behind.",
 		"moves": {
 			"passive": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"q": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"w": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"e": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"r": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
-				},
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
+				}
 		}
 	},
 	"Kalista":{
 		"name": "Kalista",
 		"image": " ",
-		"lore": "A specter of wrath and retribution, Kalista is the undying spirit of vengeance, an armored nightmare
-		         summoned from the Shadow Isles to hunt deceivers and traitors. The betrayed may cry out in blood to be
-						 avenged, but Kalista only answers those willing to pay with their very souls. Those who become the
-						 focus of Kalista's wrath should make their final peace, for any pact sealed with this grim hunter can
-						 only end with the cold, piercing fire of her soul-spears.",
+		"lore": "A specter of wrath and retribution, Kalista is the undying spirit of vengeance, an armored nightmare summoned from the Shadow Isles to hunt deceivers and traitors. The betrayed may cry out in blood to be avenged, but Kalista only answers those willing to pay with their very souls. Those who become the focus of Kalista's wrath should make their final peace, for any pact sealed with this grim hunter can only end with the cold, piercing fire of her soul-spears.",
 		"moves": {
 			"passive": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"q": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"w": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"e": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"r": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
-				},
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
+				}
 		}
 	},
 	"Kennen": {
 		"name": "Kennen",
 		"image": " ",
-		"lore": "More than just the lightning-quick enforcer of Ionian balance, Kennen is the only yordle member of the
-		         Kinkou. Despite his small, furry stature, he is eager to take on any threat with a whirling storm of
-						 shuriken and boundless enthusiasm. Alongside his master Shen, Kennen patrols the spirit realm,
-						 employing devastating electrical energy to strike down his enemies.",
+		"lore": "More than just the lightning-quick enforcer of Ionian balance, Kennen is the only yordle member of the Kinkou. Despite his small, furry stature, he is eager to take on any threat with a whirling storm of shuriken and boundless enthusiasm. Alongside his master Shen, Kennen patrols the spirit realm, employing devastating electrical energy to strike down his enemies.",
 		"moves": {
 			"passive": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"q": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"w": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"e": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"r": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
-				},
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
+				}
 		}
 	},
 	"Kindred": {
 		"name": "Kindred",
 		"image": " ",
-		"lore": "Separate, but never parted, Kindred represents the twin essences of death. Lamb's bow offers a swift
-		         release from the mortal realm for those who accept their fate. Wolf hunts down those who run from their
-						 end, delivering violent finality within his crushing jaws. Though interpretations of Kindred's nature
-						 vary across Runeterra, every mortal must choose the true face of their death.",
+		"lore": "Separate, but never parted, Kindred represents the twin essences of death. Lamb's bow offers a swift release from the mortal realm for those who accept their fate. Wolf hunts down those who run from their end, delivering violent finality within his crushing jaws. Though interpretations of Kindred's nature vary across Runeterra, every mortal must choose the true face of their death.",
 		"moves": {
 			"passive": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"q": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"w": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"e": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"r": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
-				},
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
+				}
 		}
 	},
 	"Kog'Maw": {
 		"name": "Kog'Maw",
 		"image": " ",
-		"lore": "Belched forth from a rotting Void incursion deep in the wastelands of Icathia, Kog'Maw is an inquisitive
-		         yet putrid creature with a caustic, gaping mouth. This particular Void-spawn needs to gnaw and drool
-						 on anything within reach to truly understand it. Though not inherently evil, Kog'Maw's beguiling
-						 naiveté is dangerous, as it often precedes a feeding frenzy—not for sustenance, but to satisfy its unending curiosity.",
+		"lore": "Belched forth from a rotting Void incursion deep in the wastelands of Icathia, Kog'Maw is an inquisitive yet putrid creature with a caustic, gaping mouth. This particular Void-spawn needs to gnaw and drool on anything within reach to truly understand it. Though not inherently evil, Kog'Maw's beguiling naiveté is dangerous, as it often precedes a feeding frenzy—not for sustenance, but to satisfy its unending curiosity.",
 		"moves": {
 			"passive": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"q": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"w": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"e": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"r": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
-				},
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
+				}
 		}
 	},
 	"Lucian": {
 		"name": "Lucian",
 		"image": " ",
-		"lore": "Lucian, a Sentinel of Light, is a grim hunter of undying spirits, pursuing them relentlessly and
-		         annihilating them with his twin relic pistols. After the wraith Thresh slew his wife, Lucian embarked on the
-						 path of vengeance—but even with her return to life, his rage is undiminished. Merciless and single-
-						 minded, Lucian will stop at nothing to protect the living from the long-dead horrors of the Black Mist.",
+		"lore": "Lucian, a Sentinel of Light, is a grim hunter of undying spirits, pursuing them relentlessly and annihilating them with his twin relic pistols. After the wraith Thresh slew his wife, Lucian embarked on the path of vengeance—but even with her return to life, his rage is undiminished. Merciless and single- minded, Lucian will stop at nothing to protect the living from the long-dead horrors of the Black Mist.",
 		"moves": {
 			"passive": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"q": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"w": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"e": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"r": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
-				},
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
+				}
 		}
 	},
 	"Miss Fortune": {
 		"name": "Miss Fortune",
 		"image": " ",
-		"lore": "A Bilgewater captain famed for her looks but feared for her ruthlessness, Sarah Fortune paints a stark
-		         figure among the hardened criminals of the port city. As a child, she witnessed the reaver king Gangplank
-						 murder her family—an act she brutally avenged years later, blowing up his flagship while he was still
-						 aboard. Those who underestimate her will face a beguiling and unpredictable opponent… and, likely, a
-						 bullet or two in their guts.",
+		"lore": "A Bilgewater captain famed for her looks but feared for her ruthlessness, Sarah Fortune paints a stark figure among the hardened criminals of the port city. As a child, she witnessed the reaver king Gangplank murder her family—an act she brutally avenged years later, blowing up his flagship while he was still aboard. Those who underestimate her will face a beguiling and unpredictable opponent… and, likely, a bullet or two in their guts.",
 		"moves": {
 			"passive": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"q": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"w": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"e": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"r": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
-				},
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
+				}
 		}
 	},
 	"Quinn": {
 		"name": "Quinn",
 		"image": " ",
-		"lore": "Quinn is an elite ranger-knight of Demacia, who undertakes dangerous missions deep in enemy
-		         territory. She and her legendary eagle, Valor, share an unbreakable bond, and their foes are often slain
-				     before they realize they are fighting not one, but two of the kingdom's greatest heroes. Nimble and
-						 acrobatic when required, Quinn takes aim with her crossbow while Valor marks their elusive targets
-						 from above, making them a deadly pair on the battlefield.",
+		"lore": "Quinn is an elite ranger-knight of Demacia, who undertakes dangerous missions deep in enemy territory. She and her legendary eagle, Valor, share an unbreakable bond, and their foes are often slain before they realize they are fighting not one, but two of the kingdom's greatest heroes. Nimble and acrobatic when required, Quinn takes aim with her crossbow while Valor marks their elusive targets from above, making them a deadly pair on the battlefield.",
 		"moves": {
 			"passive": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"q": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"w": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"e": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"r": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
-				},
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
+				}
 		}
 	},
 	"Senna": {
 		"name": "Senna",
 		"image": " ",
-		"lore": "Cursed from childhood to be haunted by the supernatural Black Mist, Senna joined a sacred
-		         order known as the Sentinels of Light, and fiercely fought back—only to be killed, her soul imprisoned
-						 in a lantern by the cruel wraith Thresh. But refusing to lose hope, within the lantern Senna learned to
-						 use the Mist, and reemerged to new life, forever changed. Now wielding darkness along with light,
-						 Senna seeks to end the Black Mist by turning it against itself—with every blast of her relic weapon,
-						 redeeming the souls lost within.",
+		"lore": "Cursed from childhood to be haunted by the supernatural Black Mist, Senna joined a sacred order known as the Sentinels of Light, and fiercely fought back—only to be killed, her soul imprisoned in a lantern by the cruel wraith Thresh. But refusing to lose hope, within the lantern Senna learned to use the Mist, and reemerged to new life, forever changed. Now wielding darkness along with light, Senna seeks to end the Black Mist by turning it against itself—with every blast of her relic weapon, redeeming the souls lost within.",
 		"moves": {
 			"passive": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"q": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"w": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"e": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"r": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
-				},
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
+				}
 		}
 	},
 	"Sivir": {
 		"name": "Sivir",
 		"image": " ",
-		"lore": "Sivir is a renowned fortune hunter and mercenary captain who plies her trade in the deserts of
-		         Shurima. Armed with her legendary jeweled crossblade, she has fought and won countless
-						 battles for those who can afford her exorbitant price. Known for her fearless resolve and endless
-						 ambition, she prides herself on recovering buried treasures from the perilous tombs of Shurima—for a
-						 generous bounty. With ancient forces stirring the very bones of Shurima, Sivir finds herself torn
-						 between conflicting destinies.",
+		"lore": "Sivir is a renowned fortune hunter and mercenary captain who plies her trade in the deserts of Shurima. Armed with her legendary jeweled crossblade, she has fought and won countless battles for those who can afford her exorbitant price. Known for her fearless resolve and endless ambition, she prides herself on recovering buried treasures from the perilous tombs of Shurima—for a generous bounty. With ancient forces stirring the very bones of Shurima, Sivir finds herself torn between conflicting destinies.",
 		"moves": {
 			"passive": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"q": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"w": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"e": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"r": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
-				},
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
+				}
 		}
 	},
 	"Teemo": {
 		"name": "Teemo",
 		"image": " ",
-		"lore": "Undeterred by even the most dangerous and threatening of obstacles, Teemo scouts the world
-		         with boundless enthusiasm and a cheerful spirit. A yordle with an unwavering sense of morality, he
-						 takes pride in following the Bandle Scout's Code, sometimes with such eagerness that he is unaware
-						 of the broader consequences of his actions. Though some say the existence of the Scouts is
-						 questionable, one thing is for certain: Teemo's conviction is nothing to be trifled with.",
+		"lore": "Undeterred by even the most dangerous and threatening of obstacles, Teemo scouts the world with boundless enthusiasm and a cheerful spirit. A yordle with an unwavering sense of morality, he takes pride in following the Bandle Scout's Code, sometimes with such eagerness that he is unaware of the broader consequences of his actions. Though some say the existence of the Scouts is questionable, one thing is for certain: Teemo's conviction is nothing to be trifled with.",
 		"moves": {
 			"passive": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"q": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"w": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"e": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"r": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
-				},
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
+				}
 		}
 	},
 	"Tristana": {
 		"name": "Tristina",
 		"image": " ",
-		"lore": "While many other yordles channel their energy into discovery, invention, or just plain mischief-making,
-		         Tristana was always inspired by the adventures of great warriors. She had heard much about
-						 Runeterra, its factions, and its wars, and believed her kind could become worthy of legend too. Setting
-						 foot in the world for the first time, she took up her trusty cannon Boomer, and now leaps into battle
-						 with steadfast courage and optimism.",
+		"lore": "While many other yordles channel their energy into discovery, invention, or just plain mischief-making, Tristana was always inspired by the adventures of great warriors. She had heard much about Runeterra, its factions, and its wars, and believed her kind could become worthy of legend too. Setting foot in the world for the first time, she took up her trusty cannon Boomer, and now leaps into battle with steadfast courage and optimism.",
 		"moves": {
 			"passive": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"q": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"w": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"e": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"r": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
-				},
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
+				}
 		}
 	},
 	"Twitch": {
 		"name": "Twitch",
 		"image": " ",
-		"lore": "A Zaunite plague rat by birth, but a connoisseur of filth by passion, Twitch is not afraid to get his paws
-		         dirty. Aiming a chem-powered crossbow at the gilded heart of Piltover, he has vowed to show those in the
-						 city above just how filthy they really are. Always a sneaky sneak, when he's not rooting around in the
-						 Sump, he's digging deep into other people's garbage for discarded treasures… and perhaps a moldy sandwich.",
+		"lore": "A Zaunite plague rat by birth, but a connoisseur of filth by passion, Twitch is not afraid to get his paws dirty. Aiming a chem-powered crossbow at the gilded heart of Piltover, he has vowed to show those in the city above just how filthy they really are. Always a sneaky sneak, when he's not rooting around in the Sump, he's digging deep into other people's garbage for discarded treasures… and perhaps a moldy sandwich.",
 		"moves": {
 			"passive": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"q": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"w": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"e": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"r": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
-				},
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
+				}
 		}
 	},
 	"Varus": {
 		"name": "Varus",
 		"image": " ",
-		"lore": "One of the ancient darkin, Varus was a deadly killer who loved to torment his foes, driving them almost
-		         to insanity before delivering the killing arrow. He was imprisoned at the end of the Great Darkin War,
-						 but escaped centuries later in the remade flesh of two Ionian hunters—they had unwittingly released
-						 him, cursed to bear the bow containing his bound essence. Varus now seeks out those who trapped
-						 him, in order to enact his brutal vengeance, but the mortal souls within still resist him every step of the way.",
+		"lore": "One of the ancient darkin, Varus was a deadly killer who loved to torment his foes, driving them almost to insanity before delivering the killing arrow. He was imprisoned at the end of the Great Darkin War, but escaped centuries later in the remade flesh of two Ionian hunters—they had unwittingly released him, cursed to bear the bow containing his bound essence. Varus now seeks out those who trapped him, in order to enact his brutal vengeance, but the mortal souls within still resist him every step of the way.",
 		"moves": {
 			"passive": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"q": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"w": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"e": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"r": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
-				},
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
+				}
 		}
 	},
 	"Vayne": {
 		"name": "Vayne",
 		"image": " ",
-		"lore": "Shauna Vayne is a deadly, remorseless Demacian monster hunter, who has dedicated her life to
-		         finding and destroying the demon that murdered her family. Armed with a wrist-mounted crossbow and a
-						 heart full of vengeance, she is only truly happy when slaying practitioners or creations of the dark arts,
-						 striking from the shadows with a flurry of silver bolts.",
+		"lore": "Shauna Vayne is a deadly, remorseless Demacian monster hunter, who has dedicated her life to finding and destroying the demon that murdered her family. Armed with a wrist-mounted crossbow and a heart full of vengeance, she is only truly happy when slaying practitioners or creations of the dark arts, striking from the shadows with a flurry of silver bolts.",
 		"moves": {
 			"passive": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"q": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"w": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"e": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"r": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
-				},
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
+				}
 		}
 	},
 	"Xayah": {
 		"name": "Xayah",
 		"image": " ",
-		"lore": "Deadly and precise, Xayah is a vastayan revolutionary waging a personal war to save her
-		         people. She uses her speed, guile, and razor-sharp feather blades to cut down anyone who stands in
-						 her way. Xayah fights alongside her partner and lover, Rakan, to protect their dwindling tribe, and
-						 restore their race to her vision of its former glory.",
+		"lore": "Deadly and precise, Xayah is a vastayan revolutionary waging a personal war to save her people. She uses her speed, guile, and razor-sharp feather blades to cut down anyone who stands in her way. Xayah fights alongside her partner and lover, Rakan, to protect their dwindling tribe, and restore their race to her vision of its former glory.",
 		"moves": {
 			"passive": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"q": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"w": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"e": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
 				},
 
 			"r": {
 				"movename": "",
-				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
-				},
+				"info": {
+					"desc": "Champion's Move Description",
+					"cool": "Cooldown Time: #",
+					"mana": "Mana Cost: ###"
+					}
+				}
 		}
 	}
 }
