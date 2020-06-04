@@ -40,7 +40,7 @@ app.get('/Champions/:name', function (req, res, next) {
 });
 
 app.get('*', function (req, res) {
-	res.status(404).sendFile(path.join(__dirname + "/public/404.html"));
+	res.status(404).render('404');
 });
 
 app.listen(port, function () {

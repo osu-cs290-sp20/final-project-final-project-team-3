@@ -76,3 +76,42 @@ body main {
 	color: black;
 	text-decoration: none;
 }
+
+.nav /*This is the container for All Champions return button*/{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #3E3D3D;/*This is the container's background color*/
+    display: block;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+
+
+}.return /*This is the text container for 'All Champions' return button*/{
+    color: #FFFFFF;/*Default text color for 'All Champions'*/
+    text-decoration: none;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-weight: 700;
+    font-size: xx-large;
+    text-align: center;
+    display: block;
+}.error {
+    text-align: center;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-variant: small-caps;
+    font-weight: 900;
+    font-size: xx-large;
+    background-image: url(Champions/Champion-Images/bck-grnd-color.PNG);
+    -webkit-box-shadow: 0px 0px;
+    box-shadow: 0px 0px;
+    color: gold;
+    background-repeat: repeat-x;
+    padding: 45px 45px 45px 45px;
+    display: inline-block;
+    margin-top: 300px;
+    margin-left: 33%;
+}
+.hidden {
+    display: none;
+}
