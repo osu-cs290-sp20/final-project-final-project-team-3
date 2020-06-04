@@ -10,6 +10,9 @@ var logger = require('./logger');
 var champCard = require('./champCards');
 console.log("== champions:", champCard);
 
+var champData = require('./champData');
+console.log("== champion's full:", champData);
+
 app.use(logger);
 
 app.engine('handlebars', exphbs({defaultLayout: 'main'}));
@@ -20,8 +23,6 @@ app.use(express.static(__dirname+ "/public"));
 
 
 app.get('/', function(req, res){
-	/* res.status(200).sendFile(path.join(__dirname + "/public/index.html")); */
-	
 	res.status(200).render('homepage',{
 		Champions: champCard
 	});
@@ -61,9 +62,9 @@ app.get('/Champions/:name', function (req, res, next) {
   console.log("== req.params:", req.params);
   var name = req.params.name;
   if (legends.indexOf(name) >= 0) {
-    res.status(200).sendFile(
-      __dirname + "/public/Champions/" + name + ".html"
-    );
+    res.status(200).render('championPage',{
+			Champions: champData[legend]
+	});
   } else {
     next();
   }
