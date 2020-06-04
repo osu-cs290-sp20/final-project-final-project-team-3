@@ -28,46 +28,15 @@ app.get('/', function(req, res){
 	});
 });
 
-var legends = [ 
-	'aphelios',
-	'ashe',
-	'azir',
-	'caitlyn',
-	'corki',
-	'draven',
-	'ezreal',
-	'graves',
-	'jayce',
-	'jhin',
-	'jinx',
-	"kai'sa",
-	'kalista',
-	'kennen',
-	'kindred',
-	"kog'maw",
-	'lucian',
-	'miss_fortune',
-	'quinn',
-	'senna',
-	'sivir',
-	'teemo',
-	'tristana',
-	'twitch',
-	'varus',
-	'vayne',
-	'xayah'
-];
 
 app.get('/Champions/:name', function (req, res, next) {
-  console.log("== req.params:", req.params);
-  var name = req.params.name;
-  if (legends.indexOf(name) >= 0) {
-    res.status(200).render('championPage',{
-			Champions: champData[legend]
-	});
-  } else {
-    next();
-  }
+	console.log("== req.params:", req.params);
+	var name = req.params.name;
+	if (champData[name]) {
+		res.status(200).render('championPage',champData[name]);
+	} else {
+		next();
+	}
 });
 
 app.get('*', function (req, res) {
@@ -75,5 +44,5 @@ app.get('*', function (req, res) {
 });
 
 app.listen(port, function () {
-  console.log("== Server is listening on port", port);
+	console.log("== Server is listening on port", port);
 });

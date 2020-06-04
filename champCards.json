@@ -2,126 +2,126 @@
 	{
 		"name": "Aphelios",
 		"image": "aphelios.jpg",
-		"html": "aphelios.html"
+		"html": "aphelios"
 	},
 	{
 		"name": "Ashe",
 		"image": "ashe.jpg",
-		"html": "ashe.html"
+		"html": "ashe"
 	},
 	{
 		"name": "Azir",
 		"image": "azir.jpg",
-		"html": "azir.html"
+		"html": "azir"
 	},
 	{
 		"name": "Caitlyn",
 		"image": "caitlyn.jpg",
-		"html": "caitlyn.html"
+		"html": "caitlyn"
 	},
 	{
 		"name": "Corki",
 		"image": "corki.jpg",
-		"html": "corki.html"
+		"html": "corki"
 	},
 	{
 		"name": "Draven",
 		"image": "draven.jpg",
-		"html": "draven.html"
+		"html": "draven"
 	},
 	{
 		"name": "Ezreal",
 		"image": "ezreal.jpg",
-		"html": "ezreal.html"
+		"html": "ezreal"
 	},
 	{
 		"name": "Jayce",
 		"image": "jayce.jpg",
-		"html": "jayce.html"
+		"html": "jayce"
 	},
 	{
 		"name": "Jhin",
 		"image": "jhin.jpg",
-		"html": "jhin.html"
+		"html": "jhin"
 	},
 	{
 		"name": "Jinx",
 		"image": "jinx.jpg",
-		"html": "jinx.html"
+		"html": "jinx"
 	},
 	{
 		"name": "Kai'Sa",
 		"image": "kaisa.jpg",
-		"html": "kaisa.html"
+		"html": "kaisa"
 	},
 	{
 		"name": "Kalista",
 		"image": "kalista.jpg",
-		"html": "kalista.html"
+		"html": "kalista"
 	},
 	{
 		"name": "Kennen",
 		"image": "kennen.jpg",
-		"html": "kennen.html"
+		"html": "kennen"
 	},
 	{
 		"name": "Kindred",
 		"image": "kindred.jpg",
-		"html": "kindred.html"
+		"html": "kindred"
 	},
 	{
 		"name": "Kog'Maw",
 		"image": "kogmaw.jpg",
-		"html": "kogmaw.html"
+		"html": "kogmaw"
 	},
 	{
 		"name": "Lucian",
 		"image": "lucian.jpg",
-		"html": "lucian.html"
+		"html": "lucian"
 	},
 	{
 		"name": "Miss Fortune",
 		"image": "miss_fortune.jpg",
-		"html": "miss_fortune.html"
+		"html": "miss_fortune"
 	},
 	{
 		"name": "Quinn",
 		"image": "quinn.jpg",
-		"html": "quinn.html"
+		"html": "quinn"
 	},
 	{
 		"name": "Senna",
 		"image": "senna.jpg",
-		"html": "senna.html"
+		"html": "senna"
 	},
 	{
 		"name": "Teemo",
 		"image": "teemo.jpg",
-		"html": "teemo.html"
+		"html": "teemo"
 	},
 	{
 		"name": "Tristana",
 		"image": "tristana.jpg",
-		"html": "tristana.html"
+		"html": "tristana"
 	},
 	{
 		"name": "Twitch",
 		"image": "twitch.jpg",
-		"html": "twitch.html"
+		"html": "twitch"
 	},
 	{
 		"name": "Varus",
 		"image": "varus.jpg",
-		"html": "varus.html"
+		"html": "varus"
 	},
 	{
 		"name": "Vayne",
 		"image": "vayne.jpg",
-		"html": "vayne.html"
+		"html": "vayne"
 	},
 	{
 		"name": "Xayah",
 		"image": "xayah.jpg",
-		"html": "xayah.html"
+		"html": "xayah"
 	}
 ]
