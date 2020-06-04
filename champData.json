@@ -1,72 +1,4 @@
-// JSON Document
 {
-	"aatrox": {
-		"name": "Aatrox",
-		"image": " ", 
-		"lore": " ",    
-		"moves": [
-			"passive": "Champion's Passive Move Description 
-
-						Cooldown Time: # Seconds
-						Mana Cost: ###",
-			"q": "Champion's Move Description
-			
-					Cooldown Time: # Seconds 
-					Mana Cost: ###",
-			"w": "Champion's Move Description 
-			
-					Cooldown Time: # Seconds 
-					Mana Cost: ###",
-			"e": "Champion's Move Description 
-			
-					Cooldown Time: # Seconds
-					Mana Cost: ###",
-			"r": "Champion's Move Description 
-			
-					Cooldown Time: # Seconds 
-					Mana Cost: ###"
-		]
-	},
-	"ahri": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"alistar": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"amumu": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"anivia": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"annie": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
 	"aphelios": {
 		"name": "Aphelios",
 		"image": " ",
@@ -75,9 +7,32 @@
 						 by a poison that renders him mute, he is guided by his sister Alune. From her distant temple sanctuary, she
 						 pushes an arsenal of moonstone weapons into his hands. For as long as the moon shines overhead,
 						 Aphelios will never be alone.",
-		"moves": [
+		"moves": {
+			"passive": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
+			"q": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+
+			"w": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+
+			"e": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+
+			"r": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+		}
 	},
 	"ashe": {
 		"name": "Ashe",
@@ -86,17 +41,32 @@
 		         Stoic, intelligent, and idealistic, yet uncomfortable with her role as leader, she taps into the ancestral
 						 magics of her lineage to wield a bow of True Ice. With her people's belief that she is the mythological hero
 						 Avarosa reincarnated, Ashe hopes to unify the Freljord once more by retaking their ancient, tribal lands.",
-		"moves": [
+		"moves": {
+			"passive": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"aurelion sol": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"q": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
+			"w": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+
+			"e": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+
+			"r": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+		}
 	},
 	"azir": {
 		"name": "Azir",
@@ -105,41 +75,32 @@
 		         immortality. His hubris saw him betrayed and murdered at the moment of his greatest triumph, but
 						 now, millennia later, he has been reborn as an Ascended being of immense power. With his buried
 						 city risen from the sand, Azir seeks to restore Shurima to its former glory.",
-		"moves": [
+		"moves": {
+			"passive": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"bard": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"q": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"blitzcrank": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"w": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"brand": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"e": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Braum": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
+			"r": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+		}
 	},
 	"Caitlyn": {
 		"name": "Caitlyn",
@@ -149,33 +110,32 @@
 						 impetuous nature. Even though she carries a one-of-a-kind hextech rifle, Caitlyn's most powerful weapon is
 						 her superior intellect, allowing her to lay elaborate traps for any lawbreakers foolish enough to operate in
 						 the City of Progress.",
-		"moves": [
+		"moves": {
+			"passive": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Camille": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"q": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Cassiopeia": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"w": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Cho'Gath": {
-		"name": "",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"e": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
+			"r": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+		}
 	},
 	"Corki": {
 		"name": "Corki",
@@ -186,33 +146,32 @@
 						 leading an aerial defense force of seasoned veterans known as the Screaming Yipsnakes. Calm under fire,
 						 Corki patrols the skies around his adopted home, and has never encountered a problem that a good missile
 						 barrage couldn't solve.",
-		"moves": [
+		"moves": {
+			"passive": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Darius": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"q": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Diana": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"w": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Dr. Mundo": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"e": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
+			"r": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+		}
 	},
 	"Draven": {
 		"name": "Draven",
@@ -222,33 +181,32 @@
 						 uniquely appreciated his flair for the dramatic, and his unparalleled skill with his spinning axes. Addicted to
 						 the spectacle of his own brash perfection, Draven has sworn to defeat whomever he must to ensure that his
 						 name is chanted throughout the empire forever more.",
-		"moves": [
+		"moves": {
+			"passive": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Ekko":{
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"q": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Elise":{
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"w": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Evelynn":{
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"e": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
+			"r": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+		}
 	},
 	"Ezreal":{
 		"name": "Ezreal",
@@ -258,73 +216,32 @@
 						 knowing no bounds, he prefers to improvise his way out of any situation, relying partially on his wits, but
 						 mostly on his mystical Shuriman gauntlet, which he uses to unleash devastating arcane blasts. One thing
 						 is for sure—whenever Ezreal is around, trouble isn't too far behind. Or ahead. Probably everywhere.",
-		"moves": [
+		"moves": {
+			"passive": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Fiddlesticks":{
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"q": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Fiora":{
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"w": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Fizz":{
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"e": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Galio":{
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Gangplank":{
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Garen":{
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Gnar":{
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Gragas":{
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
+			"r": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+		}
 	},
 	"Graves":{
 		"name": "Graves",
@@ -334,73 +251,32 @@
 						 enforced at the business end of his double-barreled shotgun Destiny. In recent years, he has reconciled a
 						 troubled partnership with Twisted Fate, and together they have prospered once more in the turmoil of
 						 Bilgewater's criminal underbelly.",
-		"moves": [
+		"moves": {
+			"passive": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Hecarim":{
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"q": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Heimerdinger":{
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"w": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Illaoi":{
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"e": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Irelia":{
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Ivern":{
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Janna":{
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Jarvan IV":{
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Jax":{
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
+			"r": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+		}
 	},
 	"Jayce":{
 		"name": "Jayce",
@@ -410,9 +286,32 @@
 						 considerable intelligence to protect his hometown. While revered throughout the city as a hero, he hasn't
 						 taken well to the attention heroism brings. Still, Jayce's heart is in the right place, and even those who
 						 envy his natural skills are grateful for his protection in the City of Progress.",
-		"moves": [
+		"moves": {
+			"passive": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
+			"q": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+
+			"w": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+
+			"e": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+
+			"r": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+		}
 	},
 	"Jhin":{
 		"name": "Jhin",
@@ -422,9 +321,32 @@
 						 his gun as his paintbrush, Jhin creates works of artistic brutality, horrifying victims and onlookers. He
 						 gains a cruel pleasure from putting on his gruesome theater, making him the ideal choice to send the most
 						 powerful of messages: terror.",
-		"moves": [
+		"moves": {
+			"passive": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
+			"q": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+
+			"w": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+
+			"e": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+
+			"r": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+		}
 	},
 	"Jinx":{
 		"name": "Jinx",
@@ -433,9 +355,32 @@
 		         an arsenal of deadly weapons, she unleashes the loudest blasts and brightest explosions to leave a trail
 						 of mayhem and panic in her wake. Jinx despises boredom, and gleefully brings her own chaotic brand
 						 of pandemonium wherever she goes.",
-		"moves": [
+		"moves": {
+			"passive": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
+			"q": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+
+			"w": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+
+			"e": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+
+			"r": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+		}
 	},
 	"Kai'Sa":{
 		"name": "Kai'Sa",
@@ -445,9 +390,32 @@
 						 they would rather not live to see. Having entered into an uneasy symbiosis with a living Void carapace, the
 						 time will soon come when she must decide whether to forgive those mortals who would call her a monster,
 						 and defeat the coming darkness together… or simply to forget, as the Void consumes the world that left her behind.",
-		"moves": [
+		"moves": {
+			"passive": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
+			"q": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+
+			"w": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+
+			"e": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+
+			"r": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+		}
 	},
 	"Kalista":{
 		"name": "Kalista",
@@ -457,57 +425,32 @@
 						 avenged, but Kalista only answers those willing to pay with their very souls. Those who become the
 						 focus of Kalista's wrath should make their final peace, for any pact sealed with this grim hunter can
 						 only end with the cold, piercing fire of her soul-spears.",
-		"moves": [
+		"moves": {
+			"passive": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Karma":{
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"q": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Karthus":{
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"w": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Kassadin":{
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"e": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Katarina":{
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Kayle":{
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Kayn":{
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
+			"r": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+		}
 	},
 	"Kennen": {
 		"name": "Kennen",
@@ -516,17 +459,32 @@
 		         Kinkou. Despite his small, furry stature, he is eager to take on any threat with a whirling storm of
 						 shuriken and boundless enthusiasm. Alongside his master Shen, Kennen patrols the spirit realm,
 						 employing devastating electrical energy to strike down his enemies.",
-		"moves": [
+		"moves": {
+			"passive": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Kha'Zix": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"q": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
+			"w": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+
+			"e": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+
+			"r": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+		}
 	},
 	"Kindred": {
 		"name": "Kindred",
@@ -535,17 +493,32 @@
 		         release from the mortal realm for those who accept their fate. Wolf hunts down those who run from their
 						 end, delivering violent finality within his crushing jaws. Though interpretations of Kindred's nature
 						 vary across Runeterra, every mortal must choose the true face of their death.",
-		"moves": [
+		"moves": {
+			"passive": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Kled": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"q": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
+			"w": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+
+			"e": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+
+			"r": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+		}
 	},
 	"Kog'Maw": {
 		"name": "Kog'Maw",
@@ -554,41 +527,32 @@
 		         yet putrid creature with a caustic, gaping mouth. This particular Void-spawn needs to gnaw and drool
 						 on anything within reach to truly understand it. Though not inherently evil, Kog'Maw's beguiling
 						 naiveté is dangerous, as it often precedes a feeding frenzy—not for sustenance, but to satisfy its unending curiosity.",
-		"moves": [
+		"moves": {
+			"passive": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"LeBlanc": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"q": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Lee Sin": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"w": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Leona": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"e": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Lissandra": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
+			"r": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+		}
 	},
 	"Lucian": {
 		"name": "Lucian",
@@ -597,57 +561,32 @@
 		         annihilating them with his twin relic pistols. After the wraith Thresh slew his wife, Lucian embarked on the
 						 path of vengeance—but even with her return to life, his rage is undiminished. Merciless and single-
 						 minded, Lucian will stop at nothing to protect the living from the long-dead horrors of the Black Mist.",
-		"moves": [
+		"moves": {
+			"passive": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Lulu": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"q": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Lux": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"w": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Malphite": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"e": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Malzahar": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Maokai": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Master Yi": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
+			"r": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+		}
 	},
 	"Miss Fortune": {
 		"name": "Miss Fortune",
@@ -657,137 +596,32 @@
 						 murder her family—an act she brutally avenged years later, blowing up his flagship while he was still
 						 aboard. Those who underestimate her will face a beguiling and unpredictable opponent… and, likely, a
 						 bullet or two in their guts.",
-		"moves": [
+		"moves": {
+			"passive": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Mordekaiser": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"q": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Morgana": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"w": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Nami": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"e": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Nasus": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Nautilus": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Neeko": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Nidalee": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Nocturne": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Nunu and Willump": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Olaf": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Orianna": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Ornn": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Pantheon": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Poppy": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Pyke": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Qiyana": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
+			"r": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+		}
 	},
 	"Quinn": {
 		"name": "Quinn",
@@ -797,81 +631,32 @@
 				     before they realize they are fighting not one, but two of the kingdom's greatest heroes. Nimble and
 						 acrobatic when required, Quinn takes aim with her crossbow while Valor marks their elusive targets
 						 from above, making them a deadly pair on the battlefield.",
-		"moves": [
+		"moves": {
+			"passive": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Rakan": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"q": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Rammus": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"w": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Rek'Sai": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"e": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Renekton": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Rengar": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Riven": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Rumble": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Ryze": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Sejuani": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
+			"r": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+		}
 	},
 	"Senna": {
 		"name": "Senna",
@@ -882,57 +667,32 @@
 						 use the Mist, and reemerged to new life, forever changed. Now wielding darkness along with light,
 						 Senna seeks to end the Black Mist by turning it against itself—with every blast of her relic weapon,
 						 redeeming the souls lost within.",
-		"moves": [
+		"moves": {
+			"passive": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Sett": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"q": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Shaco": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"w": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Shen": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"e": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Shyvana": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Singed": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Sion": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
+			"r": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+		}
 	},
 	"Sivir": {
 		"name": "Sivir",
@@ -943,89 +703,32 @@
 						 ambition, she prides herself on recovering buried treasures from the perilous tombs of Shurima—for a
 						 generous bounty. With ancient forces stirring the very bones of Shurima, Sivir finds herself torn
 						 between conflicting destinies.",
-		"moves": [
+		"moves": {
+			"passive": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Skarner": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"q": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Sona": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"w": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Soraka": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"e": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Swain": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Sylas": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Syndra": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Tahm Kench": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Taliyah": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Talon": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Taric": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
+			"r": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+		}
 	},
 	"Teemo": {
 		"name": "Teemo",
@@ -1035,17 +738,32 @@
 						 takes pride in following the Bandle Scout's Code, sometimes with such eagerness that he is unaware
 						 of the broader consequences of his actions. Though some say the existence of the Scouts is
 						 questionable, one thing is for certain: Teemo's conviction is nothing to be trifled with.",
-		"moves": [
+		"moves": {
+			"passive": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Thresh": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"q": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
+			"w": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+
+			"e": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+
+			"r": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+		}
 	},
 	"Tristana": {
 		"name": "Tristina",
@@ -1055,33 +773,32 @@
 						 Runeterra, its factions, and its wars, and believed her kind could become worthy of legend too. Setting
 						 foot in the world for the first time, she took up her trusty cannon Boomer, and now leaps into battle
 						 with steadfast courage and optimism.",
-		"moves": [
+		"moves": {
+			"passive": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Trundle": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"q": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Tryndamere": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"w": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Twisted Fate": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"e": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
+			"r": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+		}
 	},
 	"Twitch": {
 		"name": "Twitch",
@@ -1090,25 +807,32 @@
 		         dirty. Aiming a chem-powered crossbow at the gilded heart of Piltover, he has vowed to show those in the
 						 city above just how filthy they really are. Always a sneaky sneak, when he's not rooting around in the
 						 Sump, he's digging deep into other people's garbage for discarded treasures… and perhaps a moldy sandwich.",
-		"moves": [
+		"moves": {
+			"passive": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Udyr": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"q": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Urgot": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"w": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
+			"e": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+
+			"r": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+		}
 	},
 	"Varus": {
 		"name": "Varus",
@@ -1118,9 +842,32 @@
 						 but escaped centuries later in the remade flesh of two Ionian hunters—they had unwittingly released
 						 him, cursed to bear the bow containing his bound essence. Varus now seeks out those who trapped
 						 him, in order to enact his brutal vengeance, but the mortal souls within still resist him every step of the way.",
-		"moves": [
+		"moves": {
+			"passive": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
+			"q": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+
+			"w": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+
+			"e": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+
+			"r": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+		}
 	},
 	"Vayne": {
 		"name": "Vayne",
@@ -1129,73 +876,32 @@
 		         finding and destroying the demon that murdered her family. Armed with a wrist-mounted crossbow and a
 						 heart full of vengeance, she is only truly happy when slaying practitioners or creations of the dark arts,
 						 striking from the shadows with a flurry of silver bolts.",
-		"moves": [
+		"moves": {
+			"passive": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Veigar": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"q": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Vel'Koz": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"w": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Vi": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"e": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Viktor": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Vladimir": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Volibear": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Warwick": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Wukong": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
+			"r": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+		}
 	},
 	"Xayah": {
 		"name": "Xayah",
@@ -1204,96 +910,31 @@
 		         people. She uses her speed, guile, and razor-sharp feather blades to cut down anyone who stands in
 						 her way. Xayah fights alongside her partner and lover, Rakan, to protect their dwindling tribe, and
 						 restore their race to her vision of its former glory.",
-		"moves": [
+		"moves": {
+			"passive": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Xerath": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"q": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Xin Zhao": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"w": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Yasuo": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
+			"e": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
 
-		]
-	},
-	"Yorick": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Yuumi": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Zac": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Zed": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Ziggs": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Zilean": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Zoe": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
-	},
-	"Zyra": {
-		"name": " ",
-		"image": " ",
-		"lore": " ",
-		"moves": [
-
-		]
+			"r": {
+				"movename": "",
+				"info": "Champion's Move Description \\n\\nCooldown Time: # \\n Mana Cost: ###"
+				},
+		}
 	}
 }
