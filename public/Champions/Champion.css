@@ -1,6 +1,7 @@
 .border /*Configures containers with borders. Usefully to make borders uniform*/{
     border-width: medium;
-    border-style: solid;
+    border-style: inset;
+	border-color: gold;
     margin: 0px 0px 0px 0px;
 }
 .nav /*This is the container for All Champions return button*/{
@@ -84,7 +85,6 @@ body {
 	background: rgba(0,0,0,0.7);
 }
 .Moves-Container #passive-container /*This is the Passive Move Container*/{
-	background-image: url("Champion-Images/bck-grnd-color.PNG");
 	background: rgba(0,0,0,0.7);
 }
 #passive-container .border #passive /*This is the 'Passive' text*/{
@@ -96,7 +96,7 @@ body {
     padding-left: 50px;
 }
 #passiveborder {
-    min-width: 80%;
+    min-width: 85.9%;
     padding-left: 0px;
 }
 
@@ -115,6 +115,7 @@ body {
     margin-right: 200px;
     margin-left: 200px;
     margin-bottom: 0px;
+	background: rgba(0,0,0,0.7);
 }
 
 .Moves-Container .move .key /*This is the Container for the move's key Ex. Q W E R Containers*/{
@@ -131,16 +132,15 @@ body {
 }
 .Moves-Container .move .description /*This is the Move's Description Container*/{
     grid-area: main;
-    min-width: 83%;
-    max-width: 83%;
+    border: inset;
+    border-color: gold;
+    min-width: 88.9%;
 }
 .move-name   /*This is the 'Move's Name' text*/{
     text-decoration: underline;
     text-align: center;
     margin: 0px 0px 0px 0px;
     font-size: x-large;
-	background-image: url("Champion-Images/bck-grnd-color.PNG");
-	background: rgba(0,0,0,0.7);
 }
 .move .description .move-desc /*This is the Move's Description Text*/{
     margin: 0px 0px 0px 0px;
@@ -149,6 +149,4 @@ body {
     padding-bottom: 10px;
     padding-left: 10px;
     line-height: 122%;
-	background-image: url("Champion-Images/bck-grnd-color.PNG");
-	background: rgba(0,0,0,0.7);
 }
