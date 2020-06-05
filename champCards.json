@@ -95,6 +95,11 @@
 		"html": "senna"
 	},
 	{
+		"name": "Sivir",
+		"image": "sivir.jpg",
+		"html": "sivir"
+	},
+	{
 		"name": "Teemo",
 		"image": "teemo.jpg",
 		"html": "teemo"
