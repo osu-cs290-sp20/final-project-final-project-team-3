@@ -152,7 +152,7 @@
 				}
 		}
 	},
-	"caitlyn": {
+	"Caitlyn": {
 		"name": "Caitlyn",
 		"image": " ",
 		"lore": "Renowned as its finest peacekeeper, Caitlyn is also Piltover's best shot at ridding the city of its elusive criminal elements. She is often paired with Vi, acting as a cool counterpoint to her partner's more impetuous nature. Even though she carries a one-of-a-kind hextech rifle, Caitlyn's most powerful weapon is her superior intellect, allowing her to lay elaborate traps for any lawbreakers foolish enough to operate in the City of Progress.",
@@ -203,7 +203,7 @@
 				}
 		}
 	},
-	"corki": {
+	"Corki": {
 		"name": "Corki",
 		"image": " ",
 		"lore": "The yordle pilot Corki loves two things above all others: flying, and his glamorous mustache... though not necessarily in that order. After leaving Bandle City, he settled in Piltover and fell in love with the wondrous machines he found there. He dedicated himself to the development of flying contraptions, leading an aerial defense force of seasoned veterans known as the Screaming Yipsnakes. Calm under fire, Corki patrols the skies around his adopted home, and has never encountered a problem that a good missile barrage couldn't solve.",
@@ -254,7 +254,7 @@
 				}
 		}
 	},
-	"draven": {
+	"Draven": {
 		"name": "Draven",
 		"image": " ",
 		"lore": "In Noxus, warriors known as Reckoners face one another in arenas where blood is spilled and strength tested—but none has ever been as celebrated as Draven. A former soldier, he found that the crowds uniquely appreciated his flair for the dramatic, and his unparalleled skill with his spinning axes. Addicted to the spectacle of his own brash perfection, Draven has sworn to defeat whomever he must to ensure that his name is chanted throughout the empire forever more.",
@@ -305,7 +305,7 @@
 				}
 		}
 	},
-	"ezreal":{
+	"Ezreal":{
 		"name": "Ezreal",
 		"image": " ",
 		"lore": "A dashing adventurer, unknowingly gifted in the magical arts, Ezreal raids long-lost catacombs, tangles with ancient curses, and overcomes seemingly impossible odds with ease. His courage and bravado knowing no bounds, he prefers to improvise his way out of any situation, relying partially on his wits, but mostly on his mystical Shuriman gauntlet, which he uses to unleash devastating arcane blasts. One thing is for sure—whenever Ezreal is around, trouble isn't too far behind. Or ahead. Probably everywhere.",
@@ -356,7 +356,7 @@
 				}
 		}
 	},
-	"graves":{
+	"Graves":{
 		"name": "Graves",
 		"image": " ",
 		"lore": "Malcolm Graves is a renowned mercenary, gambler, and thief—a wanted man in every city and empire he has visited. Even though he has an explosive temper, he possesses a strict sense of criminal honor, often enforced at the business end of his double-barreled shotgun Destiny. In recent years, he has reconciled a troubled partnership with Twisted Fate, and together they have prospered once more in the turmoil of Bilgewater's criminal underbelly.",
@@ -407,7 +407,7 @@
 				}
 		}
 	},
-	"jayce":{
+	"Jayce":{
 		"name": "Jayce",
 		"image": " ",
 		"lore": "Jayce is a brilliant inventor who has pledged his life to the defense of Piltover and its unyielding pursuit of progress. With his transforming hextech hammer in hand, Jayce uses his strength, courage, and considerable intelligence to protect his hometown. While revered throughout the city as a hero, he hasn't taken well to the attention heroism brings. Still, Jayce's heart is in the right place, and even those who envy his natural skills are grateful for his protection in the City of Progress.",
@@ -458,7 +458,7 @@
 				}
 		}
 	},
-	"jhin":{
+	"Jhin":{
 		"name": "Jhin",
 		"image": " ",
 		"lore": "Jhin is a meticulous criminal psychopath who believes murder is art. Once an Ionian prisoner, but freed by shadowy elements within Ionia's ruling council, the serial killer now works as their cabal's assassin. Using his gun as his paintbrush, Jhin creates works of artistic brutality, horrifying victims and onlookers. He gains a cruel pleasure from putting on his gruesome theater, making him the ideal choice to send the most powerful of messages: terror.",
@@ -509,7 +509,7 @@
 				}
 		}
 	},
-	"jinx":{
+	"Jinx":{
 		"name": "Jinx",
 		"image": " ",
 		"lore": "A manic and impulsive criminal from Zaun, Jinx lives to wreak havoc without care for the consequences. With an arsenal of deadly weapons, she unleashes the loudest blasts and brightest explosions to leave a trail of mayhem and panic in her wake. Jinx despises boredom, and gleefully brings her own chaotic brand of pandemonium wherever she goes.",
@@ -560,7 +560,7 @@
 				}
 		}
 	},
-	"kaisa":{
+	"Kai'Sa":{
 		"name": "Kai'Sa",
 		"image": " ",
 		"lore": "Claimed by the Void when she was only a child, Kai'Sa managed to survive through sheer tenacity and strength of will. Her experiences have made her a deadly hunter and, to some, the harbinger of a future they would rather not live to see. Having entered into an uneasy symbiosis with a living Void carapace, the time will soon come when she must decide whether to forgive those mortals who would call her a monster, and defeat the coming darkness together… or simply to forget, as the Void consumes the world that left her behind.",
@@ -611,7 +611,7 @@
 				}
 		}
 	},
-	"kalista":{
+	"Kalista":{
 		"name": "Kalista",
 		"image": " ",
 		"lore": "A specter of wrath and retribution, Kalista is the undying spirit of vengeance, an armored nightmare summoned from the Shadow Isles to hunt deceivers and traitors. The betrayed may cry out in blood to be avenged, but Kalista only answers those willing to pay with their very souls. Those who become the focus of Kalista's wrath should make their final peace, for any pact sealed with this grim hunter can only end with the cold, piercing fire of her soul-spears.",
@@ -662,7 +662,7 @@
 				}
 		}
 	},
-	"kennen": {
+	"Kennen": {
 		"name": "Kennen",
 		"image": " ",
 		"lore": "More than just the lightning-quick enforcer of Ionian balance, Kennen is the only yordle member of the Kinkou. Despite his small, furry stature, he is eager to take on any threat with a whirling storm of shuriken and boundless enthusiasm. Alongside his master Shen, Kennen patrols the spirit realm, employing devastating electrical energy to strike down his enemies.",
@@ -713,7 +713,7 @@
 				}
 		}
 	},
-	"kindred": {
+	"Kindred": {
 		"name": "Kindred",
 		"image": "kindred.jpg",
 		"lore": "Separate, but never parted, Kindred represents the twin essences of death. Lamb's bow offers a swift release from the mortal realm for those who accept their fate. Wolf hunts down those who run from their end, delivering violent finality within his crushing jaws. Though interpretations of Kindred's nature vary across Runeterra, every mortal must choose the true face of their death.",
@@ -722,8 +722,8 @@
 				"movename": "Mark of the Kindred",
 				"info": {
 					"desc": "Kindred can mark targets to Hunt. Successfully completing a Hunt permanently empowers Kindred's basic abilities. Every 4 hunts completed also increases Kindred's basic attack range.",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"cool": "Cooldown Time: None",
+					"mana": "Mana Cost: None"
 					}
 				},
 
@@ -759,12 +759,12 @@
 				"info": {
 					"desc": "Lamb grants all living things inside a zone a respite from death. Until the effect ends, nothing can die. At the end, units are healed.",
 					"cool": "Cooldown Time: 180 / 150 / 120",
-					"mana": "Mana Cost: 100
+					"mana": "Mana Cost: 100"
 					}
 				}
 		}
 	},
-	"kogmaw": {
+	"Kog'Maw": {
 		"name": "Kog'Maw",
 		"image": "kogmaw.jpg",
 		"lore": "Belched forth from a rotting Void incursion deep in the wastelands of Icathia, Kog'Maw is an inquisitive yet putrid creature with a caustic, gaping mouth. This particular Void-spawn needs to gnaw and drool on anything within reach to truly understand it. Though not inherently evil, Kog'Maw's beguiling naiveté is dangerous, as it often precedes a feeding frenzy—not for sustenance, but to satisfy its unending curiosity.",
@@ -773,8 +773,8 @@
 				"movename": "Icathian Suprise",
 				"info": {
 					"desc": "Upon dying, Kog'Maw starts a chain reaction in his body which causes him to move faster and detonate after 4 seconds; dealing 100 + (25 x lvl) true damage to surrounding enemies.",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"cool": "Cooldown Time: None",
+					"mana": "Mana Cost: None"
 					}
 				},
 
@@ -782,8 +782,8 @@
 				"movename": "Caustic Spittle",
 				"info": {
 					"desc": "Kog'Maw launches a corrosive projectile which deals magic damage and corrodes the target's armor and magic resist for a short time. Kog'Maw also gains additional attack speed.",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"cool": "Cooldown Time: 8",
+					"mana": "Mana Cost: 40"
 					}
 				},
 
@@ -791,8 +791,8 @@
 				"movename": "Bio-Arcane Barrage",
 				"info": {
 					"desc": "Kog'Maw's attacks gain range and deal a percent of the target's maximum health as magic damage.",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"cool": "Cooldown Time: 17",
+					"mana": "Mana Cost: 40"
 					}
 				},
 
@@ -800,8 +800,8 @@
 				"movename": "Void Ooze",
 				"info": {
 					"desc": "Kog'Maw launches a peculiar ooze which damages all enemies it passes through and leaves a trail which slows enemies who stand on it.",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"cool": "Cooldown Time: 12",
+					"mana": "Mana Cost: 80 / 90 / 100 / 110 / 120"
 					}
 				},
 
@@ -809,13 +809,13 @@
 				"movename": "Living Artillery",
 				"info": {
 					"desc": "Kog'Maw fires an artillery shell at a great distance dealing magic damage (increased significantly on low health enemies) and revealing non-stealthed targets. Additionally, multiple Living Artilleries in a short period of time cause them to cost additional Mana.",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"cool": "Cooldown Time: 2 / 1.5/ 1",
+					"mana": "Mana Cost: 40 - 400 (based on casts)"
 					}
 				}
 		}
 	},
-	"lucian": {
+	"Lucian": {
 		"name": "Lucian",
 		"image": "lucian.jpg",
 		"lore": "Lucian, a Sentinel of Light, is a grim hunter of undying spirits, pursuing them relentlessly and annihilating them with his twin relic pistols. After the wraith Thresh slew his wife, Lucian embarked on the path of vengeance—but even with her return to life, his rage is undiminished. Merciless and single- minded, Lucian will stop at nothing to protect the living from the long-dead horrors of the Black Mist.",
@@ -824,8 +824,8 @@
 				"movename": "Lightslinger",
 				"info": {
 					"desc": "Whenever Lucian uses an ability, his next attack becomes a double-shot.",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"cool": "Cooldown Time: None",
+					"mana": "Mana Cost: None"
 					}
 				},
 
@@ -833,8 +833,8 @@
 				"movename": "Piercing Light",
 				"info": {
 					"desc": "Lucian shoots a bolt of piercing light through a target.",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"cool": "Cooldown Time: 9 / 8 / 7 / 6 / 5",
+					"mana": "Mana Cost: 50 / 60 / 70 / 80 / 90"
 					}
 				},
 
@@ -842,8 +842,8 @@
 				"movename": "Ardent Blaze",
 				"info": {
 					"desc": "Lucian shoots a missile that explodes in a star shape, marking and briefly revealing enemies. Lucian gains Movement Speed for attacking marked enemies.",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"cool": "Cooldown Time: 14 / 13 / 12 / 11 / 10",
+					"mana": "Mana Cost: 70"
 					}
 				},
 
@@ -851,8 +851,8 @@
 				"movename": "Relentless Pursuit",
 				"info": {
 					"desc": "Lucian quickly dashes a short distance. Lightslinger attacks reduce Relentless Pursuit's cooldown.",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"cool": "Cooldown Time: 22 / 20 / 18 / 16 / 14",
+					"mana": "Mana Cost: 40 / 30 / 20 / 10 / 0"
 					}
 				},
 
@@ -860,13 +860,13 @@
 				"movename": "The Culling",
 				"info": {
 					"desc": "Lucian unleashes a torrent of shots from his weapons.",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"cool": "Cooldown Time: 100",
+					"mana": "Mana Cost: 110 / 100 / 90"
 					}
 				}
 		}
 	},
-	"miss_fortune": {
+	"Miss Fortune": {
 		"name": "Miss Fortune",
 		"image": "miss_fortune.jpg",
 		"lore": "A Bilgewater captain famed for her looks but feared for her ruthlessness, Sarah Fortune paints a stark figure among the hardened criminals of the port city. As a child, she witnessed the reaver king Gangplank murder her family—an act she brutally avenged years later, blowing up his flagship while he was still aboard. Those who underestimate her will face a beguiling and unpredictable opponent… and, likely, a bullet or two in their guts.",
@@ -875,8 +875,8 @@
 				"movename": "Love Tap",
 				"info": {
 					"desc": "Miss Fortune deals bonus physical damage whenever she basic attacks a new target.",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"cool": "Cooldown Time: None",
+					"mana": "Mana Cost: None"
 					}
 				},
 
@@ -884,8 +884,8 @@
 				"movename": "Double Up",
 				"info": {
 					"desc": "Miss Fortune fires a bullet at an enemy, damaging them and a target behind them. Both strikes can also apply Love Tap.",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"cool": "Cooldown Time: 7 / 6 / 5 / 4 / 3",
+					"mana": "Mana Cost: 43 / 46 / 49 / 52 / 55"
 					}
 				},
 
@@ -893,8 +893,8 @@
 				"movename": "Struct",
 				"info": {
 					"desc": "Miss Fortune passively  gains Movement Speed when not attacked. This ability can be activated to grant bonus Attack Speed for a short duration. While it's on cooldown, Love Taps reduce the remaining cooldown of Strut.",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"cool": "Cooldown Time: 12",
+					"mana": "Mana Cost: 30"
 					}
 				},
 
@@ -902,8 +902,8 @@
 				"movename": "Make it Rain",
 				"info": {
 					"desc": "Miss Fortune reveals an area with a flurry of bullets, dealing waves of damage to opponents and slowing them.",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"cool": "Cooldown Time: 18 / 16 / 14 / 12 / 10",
+					"mana": "Mana Cost: 80"
 					}
 				},
 
@@ -911,13 +911,13 @@
 				"movename": "Bullet Time",
 				"info": {
 					"desc": "Miss Fortune channels a barrage of bullets into a cone in front of her, dealing large amounts of damage to enemies. Each wave of Bullet Time can critically strike",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"cool": "Cooldown Time: 120 / 110 / 100",
+					"mana": "Mana Cost: 200"
 					}
 				}
 		}
 	},
-	"quinn": {
+	"Quinn": {
 		"name": "Quinn",
 		"image": "quinn.jpg",
 		"lore": "Quinn is an elite ranger-knight of Demacia, who undertakes dangerous missions deep in enemy territory. She and her legendary eagle, Valor, share an unbreakable bond, and their foes are often slain before they realize they are fighting not one, but two of the kingdom's greatest heroes. Nimble and acrobatic when required, Quinn takes aim with her crossbow while Valor marks their elusive targets from above, making them a deadly pair on the battlefield.",
@@ -926,8 +926,8 @@
 				"movename": "Harrier",
 				"info": {
 					"desc": "Valor, Quinn's Demacian eagle, periodically marks enemies as Vulnerable. Quinn's first basic attack against Vulnerable targets will deal bonus physical damage.",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"cool": "Cooldown Time: None",
+					"mana": "Mana Cost: None"
 					}
 				},
 
@@ -935,8 +935,8 @@
 				"movename": "Blinding Assault",
 				"info": {
 					"desc": "Quinn calls Valor to mark an enemy and hinder its vision before damaging all enemies in the immediate area.",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"cool": "Cooldown Time:  11 / 10.5 / 10 / 9.5 / 9",
+					"mana": "Mana Cost: 50 / 55 / 60 / 65 / 70"
 					}
 				},
 
@@ -944,8 +944,8 @@
 				"movename": "Heightened Senses",
 				"info": {
 					"desc": "Passively grants Quinn Attack Speed and Movement Speed after she attacks a Vulnerable target. Activate to have Valor reveal a large area nearby.",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"cool": "Cooldown Time: 50 / 45 / 40 / 35 / 30",
+					"mana": "Mana Cost: None"
 					}
 				},
 
@@ -953,8 +953,8 @@
 				"movename": "Vault",
 				"info": {
 					"desc": "Quinn dashes to an enemy, dealing physical damage and slowing the target's Movement Speed. Upon reaching the target, she leaps off the target, briefly interrupting it, and lands near her maximum Attack Range away from the target.",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"cool": "Cooldown Time: 12 / 11 / 10 / 9 / 8",
+					"mana": "Mana Cost: 50"
 					}
 				},
 
@@ -962,13 +962,13 @@
 				"movename": "Behind Enemy Lines",
 				"info": {
 					"desc": "Quinn and Valor team up to fly around at great speed. Ending the ability casts Skystrike, which deals damage to nearby enemies and marks champions as Vulnerable.",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"cool": "Cooldown Time: None",
+					"mana": "Mana Cost: 100 / 50 / 0"
 					}
 				}
 		}
 	},
-	"senna": {
+	"Senna": {
 		"name": "Senna",
 		"image": "senna.jpg",
 		"lore": "Cursed from childhood to be haunted by the supernatural Black Mist, Senna joined a sacred order known as the Sentinels of Light, and fiercely fought back—only to be killed, her soul imprisoned in a lantern by the cruel wraith Thresh. But refusing to lose hope, within the lantern Senna learned to use the Mist, and reemerged to new life, forever changed. Now wielding darkness along with light, Senna seeks to end the Black Mist by turning it against itself—with every blast of her relic weapon, redeeming the souls lost within.",
@@ -977,8 +977,8 @@
 				"movename": "Absolution",
 				"info": {
 					"desc": "When units die near Senna, their souls are periodically trapped by the Black Mist. Senna can attack these souls to free them, absorbing the Mist that held them in death. Mist fuels her Relic Cannon's power with increased Attack Damage, Attack Range, and Critical Strike Chance. Attacks from Senna's Relic Cannon take longer to fire, deals bonus damage , and briefly grant her a portion of her target's Movement Speed.",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"cool": "Cooldown Time: None",
+					"mana": "Mana Cost: None"
 					}
 				},
 
@@ -986,8 +986,8 @@
 				"movename": "Piercing Darkness",
 				"info": {
 					"desc": "From the twin barrels of her Relic Cannon, Senna fires a unified beam of light and shadow through a target, healing allies and damaging enemies.",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"cool": "Cooldown Time: 15",
+					"mana": "Mana Cost: 70 / 80 / 90 / 100 / 110"
 					}
 				},
 
@@ -995,8 +995,8 @@
 				"movename": "Last Embrace",
 				"info": {
 					"desc": "Senna sends forth a wave of Black Mist. If it hits an enemy it latches onto them hungrily, rooting them and everything nearby after a brief delay.",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"cool": "Cooldown Time: 11",
+					"mana": "Mana Cost: 50 / 55 / 60 / 65 / 70"
 					}
 				},
 
@@ -1004,8 +1004,8 @@
 				"movename": "Curse of the Black Mist",
 				"info": {
 					"desc": "Senna draws the Mist she has stored in her weapon into a storm around her, embracing darkness and becoming a wraith within. Allies who enter the area are camouflaged and also appear as wraiths as the Mist shrouds them. Wraiths gain increased movement speed, are unselectable, and hide their identities.",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"cool": "Cooldown Time: 26 / 24.5 / 23 / 21.5 / 20",
+					"mana": "Mana Cost: 70"
 					}
 				},
 
@@ -1013,13 +1013,13 @@
 				"movename": "Dawning Shadow",
 				"info": {
 					"desc": "Senna calls upon the relic stones of fallen Sentinels, splitting her relic cannon into a holy array of shadow and light. She then fires a global beam that shields allies from harm, while damaging enemies caught in the center.",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"cool": "Cooldown Time: 160 / 140 / 120",
+					"mana": "Mana Cost: 100"
 					}
 				}
 		}
 	},
-	"sivir": {
+	"Sivir": {
 		"name": "Sivir",
 		"image": "sivir.jpg",
 		"lore": "Sivir is a renowned fortune hunter and mercenary captain who plies her trade in the deserts of Shurima. Armed with her legendary jeweled crossblade, she has fought and won countless battles for those who can afford her exorbitant price. Known for her fearless resolve and endless ambition, she prides herself on recovering buried treasures from the perilous tombs of Shurima—for a generous bounty. With ancient forces stirring the very bones of Shurima, Sivir finds herself torn between conflicting destinies.",
@@ -1028,8 +1028,8 @@
 				"movename": "Fleet of Foot",
 				"info": {
 					"desc": "Sivir gains a short burst of Movement Speed when she attacks an enemy champion.",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"cool": "Cooldown Time: None",
+					"mana": "Mana Cost: None"
 					}
 				},
 
@@ -1037,8 +1037,8 @@
 				"movename": "Boomerang Blade",
 				"info": {
 					"desc": "Sivir hurls her crossblade like a boomerang, dealing damage each way.",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"cool": "Cooldown Time: 7",
+					"mana": "Mana Cost:  70 / 80 / 90 / 100 / 110 "
 					}
 				},
 
@@ -1046,8 +1046,8 @@
 				"movename": "Ricochet",
 				"info": {
 					"desc": "Sivir's next few basic attacks will bounce to nearby targets, dealing reduced damage to secondary targets.",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"cool": "Cooldown Time: 12 / 10.5 / 9 / 7.5 / 6",
+					"mana": "Mana Cost: 75"
 					}
 				},
 
@@ -1055,8 +1055,8 @@
 				"movename": "Spell Shield",
 				"info": {
 					"desc": "Creates a magical barrier that blocks a single enemy ability cast on Sivir. She receives Mana back if a spell is blocked.",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"cool": "Cooldown Time: 22 / 19 / 16 / 13 / 10",
+					"mana": "Mana Cost: None"
 					}
 				},
 
@@ -1064,13 +1064,13 @@
 				"movename": "On the Hunt",
 				"info": {
 					"desc": "Sivir leads her allies in battle, granting them a surge Movement Speed for a period of time. Additionally passively grants Sivir bonus Attack Speed while Ricochet is active.",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"cool": "Cooldown Time: 120 / 100 / 80",
+					"mana": "Mana Cost: 100"
 					}
 				}
 		}
 	},
-	"teemo": {
+	"Teemo": {
 		"name": "Teemo",
 		"image": " ",
 		"lore": "Undeterred by even the most dangerous and threatening of obstacles, Teemo scouts the world with boundless enthusiasm and a cheerful spirit. A yordle with an unwavering sense of morality, he takes pride in following the Bandle Scout's Code, sometimes with such eagerness that he is unaware of the broader consequences of his actions. Though some say the existence of the Scouts is questionable, one thing is for certain: Teemo's conviction is nothing to be trifled with.",
@@ -1121,7 +1121,7 @@
 				}
 		}
 	},
-	"tristana": {
+	"Tristana": {
 		"name": "Tristina",
 		"image": " ",
 		"lore": "While many other yordles channel their energy into discovery, invention, or just plain mischief-making, Tristana was always inspired by the adventures of great warriors. She had heard much about Runeterra, its factions, and its wars, and believed her kind could become worthy of legend too. Setting foot in the world for the first time, she took up her trusty cannon Boomer, and now leaps into battle with steadfast courage and optimism.",
@@ -1172,7 +1172,7 @@
 				}
 		}
 	},
-	"twitch": {
+	"Twitch": {
 		"name": "Twitch",
 		"image": " ",
 		"lore": "A Zaunite plague rat by birth, but a connoisseur of filth by passion, Twitch is not afraid to get his paws dirty. Aiming a chem-powered crossbow at the gilded heart of Piltover, he has vowed to show those in the city above just how filthy they really are. Always a sneaky sneak, when he's not rooting around in the Sump, he's digging deep into other people's garbage for discarded treasures… and perhaps a moldy sandwich.",
@@ -1223,7 +1223,7 @@
 				}
 		}
 	},
-	"varus": {
+	"Varus": {
 		"name": "Varus",
 		"image": " ",
 		"lore": "One of the ancient darkin, Varus was a deadly killer who loved to torment his foes, driving them almost to insanity before delivering the killing arrow. He was imprisoned at the end of the Great Darkin War, but escaped centuries later in the remade flesh of two Ionian hunters—they had unwittingly released him, cursed to bear the bow containing his bound essence. Varus now seeks out those who trapped him, in order to enact his brutal vengeance, but the mortal souls within still resist him every step of the way.",
@@ -1274,7 +1274,7 @@
 				}
 		}
 	},
-	"vayne": {
+	"Vayne": {
 		"name": "Vayne",
 		"image": " ",
 		"lore": "Shauna Vayne is a deadly, remorseless Demacian monster hunter, who has dedicated her life to finding and destroying the demon that murdered her family. Armed with a wrist-mounted crossbow and a heart full of vengeance, she is only truly happy when slaying practitioners or creations of the dark arts, striking from the shadows with a flurry of silver bolts.",
@@ -1325,7 +1325,7 @@
 				}
 		}
 	},
-	"xayah": {
+	"Xayah": {
 		"name": "Xayah",
 		"image": " ",
 		"lore": "Deadly and precise, Xayah is a vastayan revolutionary waging a personal war to save her people. She uses her speed, guile, and razor-sharp feather blades to cut down anyone who stands in her way. Xayah fights alongside her partner and lover, Rakan, to protect their dwindling tribe, and restore their race to her vision of its former glory.",
