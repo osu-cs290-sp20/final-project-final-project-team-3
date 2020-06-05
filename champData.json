@@ -731,8 +731,8 @@
 				"movename": "Dance of Arrows",
 				"info": {
 					"desc": "Kindred tumbles and shoots up to three arrows at nearby targets.",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"cool": "Cooldown Time: 4 / 3.5 / 3 / 2.5 / 2",
+					"mana": "Mana Cost: 35"
 					}
 				},
 
@@ -740,8 +740,8 @@
 				"movename": "Wolf's Frenzy",
 				"info": {
 					"desc": "Wolf enrages and attacks enemies around him. Lamb passively gains stacks by moving and attacking. When fully charged, Lamb's next attack restores health.",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"cool": "Cooldown Time: 18 / 17 / 16 / 15 / 14",
+					"mana": "Mana Cost: 40"
 					}
 				},
 
@@ -749,8 +749,8 @@
 				"movename": "Mounting Dread",
 				"info": {
 					"desc": "Lamb fires a carefully placed shot, slowing the target. If Lamb attacks the target two more times, her third attack instead directs Wolf to pounce on the enemy, savaging them for massive damage.",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"cool": "Cooldown Time: 16 / 15 / 14 / 13 / 12",
+					"mana": "Mana Cost: 50"
 					}
 				},
 
@@ -758,8 +758,8 @@
 				"movename": "Lamb's Respite",
 				"info": {
 					"desc": "Lamb grants all living things inside a zone a respite from death. Until the effect ends, nothing can die. At the end, units are healed.",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"cool": "Cooldown Time: 180 / 150 / 120",
+					"mana": "Mana Cost: 100
 					}
 				}
 		}
