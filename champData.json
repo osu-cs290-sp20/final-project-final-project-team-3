@@ -715,100 +715,100 @@
 	},
 	"Kindred": {
 		"name": "Kindred",
-		"image": " ",
+		"image": "kindred.jpg",
 		"lore": "Separate, but never parted, Kindred represents the twin essences of death. Lamb's bow offers a swift release from the mortal realm for those who accept their fate. Wolf hunts down those who run from their end, delivering violent finality within his crushing jaws. Though interpretations of Kindred's nature vary across Runeterra, every mortal must choose the true face of their death.",
 		"moves": {
 			"passive": {
-				"movename": "",
+				"movename": "Mark of the Kindred",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Kindred can mark targets to Hunt. Successfully completing a Hunt permanently empowers Kindred's basic abilities. Every 4 hunts completed also increases Kindred's basic attack range.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"q": {
-				"movename": "",
+				"movename": "Dance of Arrows",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Kindred tumbles and shoots up to three arrows at nearby targets.",
+					"cool": "Cooldown Time: 4 / 3.5 / 3 / 2.5 / 2",
+					"mana": "Mana Cost: 35"
 					}
 				},
 
 			"w": {
-				"movename": "",
+				"movename": "Wolf's Frenzy",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Wolf enrages and attacks enemies around him. Lamb passively gains stacks by moving and attacking. When fully charged, Lamb's next attack restores health.",
+					"cool": "Cooldown Time: 18 / 17 / 16 / 15 / 14",
+					"mana": "Mana Cost: 40"
 					}
 				},
 
 			"e": {
-				"movename": "",
+				"movename": "Mounting Dread",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Lamb fires a carefully placed shot, slowing the target. If Lamb attacks the target two more times, her third attack instead directs Wolf to pounce on the enemy, savaging them for massive damage.",
+					"cool": "Cooldown Time: 16 / 15 / 14 / 13 / 12",
+					"mana": "Mana Cost: 50"
 					}
 				},
 
 			"r": {
-				"movename": "",
+				"movename": "Lamb's Respite",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Lamb grants all living things inside a zone a respite from death. Until the effect ends, nothing can die. At the end, units are healed.",
+					"cool": "Cooldown Time: 180 / 150 / 120",
+					"mana": "Mana Cost: 100
 					}
 				}
 		}
 	},
 	"Kog'Maw": {
 		"name": "Kog'Maw",
-		"image": " ",
+		"image": "kogmaw.jpg",
 		"lore": "Belched forth from a rotting Void incursion deep in the wastelands of Icathia, Kog'Maw is an inquisitive yet putrid creature with a caustic, gaping mouth. This particular Void-spawn needs to gnaw and drool on anything within reach to truly understand it. Though not inherently evil, Kog'Maw's beguiling naiveté is dangerous, as it often precedes a feeding frenzy—not for sustenance, but to satisfy its unending curiosity.",
 		"moves": {
 			"passive": {
-				"movename": "",
+				"movename": "Icathian Suprise",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Upon dying, Kog'Maw starts a chain reaction in his body which causes him to move faster and detonate after 4 seconds; dealing 100 + (25 x lvl) true damage to surrounding enemies.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"q": {
-				"movename": "",
+				"movename": "Caustic Spittle",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Kog'Maw launches a corrosive projectile which deals magic damage and corrodes the target's armor and magic resist for a short time. Kog'Maw also gains additional attack speed.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"w": {
-				"movename": "",
+				"movename": "Bio-Arcane Barrage",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Kog'Maw's attacks gain range and deal a percent of the target's maximum health as magic damage.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"e": {
-				"movename": "",
+				"movename": "Void Ooze",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Kog'Maw launches a peculiar ooze which damages all enemies it passes through and leaves a trail which slows enemies who stand on it.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"r": {
-				"movename": "",
+				"movename": "Living Artillery",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Kog'Maw fires an artillery shell at a great distance dealing magic damage (increased significantly on low health enemies) and revealing non-stealthed targets. Additionally, multiple Living Artilleries in a short period of time cause them to cost additional Mana.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
@@ -817,49 +817,49 @@
 	},
 	"Lucian": {
 		"name": "Lucian",
-		"image": " ",
+		"image": "lucian.jpg",
 		"lore": "Lucian, a Sentinel of Light, is a grim hunter of undying spirits, pursuing them relentlessly and annihilating them with his twin relic pistols. After the wraith Thresh slew his wife, Lucian embarked on the path of vengeance—but even with her return to life, his rage is undiminished. Merciless and single- minded, Lucian will stop at nothing to protect the living from the long-dead horrors of the Black Mist.",
 		"moves": {
 			"passive": {
-				"movename": "",
+				"movename": "Lightslinger",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Whenever Lucian uses an ability, his next attack becomes a double-shot.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"q": {
-				"movename": "",
+				"movename": "Piercing Light",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Lucian shoots a bolt of piercing light through a target.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"w": {
-				"movename": "",
+				"movename": "Ardent Blaze",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Lucian shoots a missile that explodes in a star shape, marking and briefly revealing enemies. Lucian gains Movement Speed for attacking marked enemies.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"e": {
-				"movename": "",
+				"movename": "Relentless Pursuit",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Lucian quickly dashes a short distance. Lightslinger attacks reduce Relentless Pursuit's cooldown.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"r": {
-				"movename": "",
+				"movename": "The Culling",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Lucian unleashes a torrent of shots from his weapons.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
@@ -868,49 +868,49 @@
 	},
 	"Miss Fortune": {
 		"name": "Miss Fortune",
-		"image": " ",
+		"image": "miss_fortune.jpg",
 		"lore": "A Bilgewater captain famed for her looks but feared for her ruthlessness, Sarah Fortune paints a stark figure among the hardened criminals of the port city. As a child, she witnessed the reaver king Gangplank murder her family—an act she brutally avenged years later, blowing up his flagship while he was still aboard. Those who underestimate her will face a beguiling and unpredictable opponent… and, likely, a bullet or two in their guts.",
 		"moves": {
 			"passive": {
-				"movename": "",
+				"movename": "Love Tap",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Miss Fortune deals bonus physical damage whenever she basic attacks a new target.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"q": {
-				"movename": "",
+				"movename": "Double Up",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Miss Fortune fires a bullet at an enemy, damaging them and a target behind them. Both strikes can also apply Love Tap.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"w": {
-				"movename": "",
+				"movename": "Struct",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Miss Fortune passively  gains Movement Speed when not attacked. This ability can be activated to grant bonus Attack Speed for a short duration. While it's on cooldown, Love Taps reduce the remaining cooldown of Strut.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"e": {
-				"movename": "",
+				"movename": "Make it Rain",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Miss Fortune reveals an area with a flurry of bullets, dealing waves of damage to opponents and slowing them.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"r": {
-				"movename": "",
+				"movename": "Bullet Time",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Miss Fortune channels a barrage of bullets into a cone in front of her, dealing large amounts of damage to enemies. Each wave of Bullet Time can critically strike",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
@@ -919,49 +919,49 @@
 	},
 	"Quinn": {
 		"name": "Quinn",
-		"image": " ",
+		"image": "quinn.jpg",
 		"lore": "Quinn is an elite ranger-knight of Demacia, who undertakes dangerous missions deep in enemy territory. She and her legendary eagle, Valor, share an unbreakable bond, and their foes are often slain before they realize they are fighting not one, but two of the kingdom's greatest heroes. Nimble and acrobatic when required, Quinn takes aim with her crossbow while Valor marks their elusive targets from above, making them a deadly pair on the battlefield.",
 		"moves": {
 			"passive": {
-				"movename": "",
+				"movename": "Harrier",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Valor, Quinn's Demacian eagle, periodically marks enemies as Vulnerable. Quinn's first basic attack against Vulnerable targets will deal bonus physical damage.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"q": {
-				"movename": "",
+				"movename": "Blinding Assault",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Quinn calls Valor to mark an enemy and hinder its vision before damaging all enemies in the immediate area.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"w": {
-				"movename": "",
+				"movename": "Heightened Senses",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Passively grants Quinn Attack Speed and Movement Speed after she attacks a Vulnerable target. Activate to have Valor reveal a large area nearby.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"e": {
-				"movename": "",
+				"movename": "Vault",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Quinn dashes to an enemy, dealing physical damage and slowing the target's Movement Speed. Upon reaching the target, she leaps off the target, briefly interrupting it, and lands near her maximum Attack Range away from the target.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"r": {
-				"movename": "",
+				"movename": "Behind Enemy Lines",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Quinn and Valor team up to fly around at great speed. Ending the ability casts Skystrike, which deals damage to nearby enemies and marks champions as Vulnerable.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
@@ -970,49 +970,49 @@
 	},
 	"Senna": {
 		"name": "Senna",
-		"image": " ",
+		"image": "senna.jpg",
 		"lore": "Cursed from childhood to be haunted by the supernatural Black Mist, Senna joined a sacred order known as the Sentinels of Light, and fiercely fought back—only to be killed, her soul imprisoned in a lantern by the cruel wraith Thresh. But refusing to lose hope, within the lantern Senna learned to use the Mist, and reemerged to new life, forever changed. Now wielding darkness along with light, Senna seeks to end the Black Mist by turning it against itself—with every blast of her relic weapon, redeeming the souls lost within.",
 		"moves": {
 			"passive": {
-				"movename": "",
+				"movename": "Absolution",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "When units die near Senna, their souls are periodically trapped by the Black Mist. Senna can attack these souls to free them, absorbing the Mist that held them in death. Mist fuels her Relic Cannon's power with increased Attack Damage, Attack Range, and Critical Strike Chance. Attacks from Senna's Relic Cannon take longer to fire, deals bonus damage , and briefly grant her a portion of her target's Movement Speed.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"q": {
-				"movename": "",
+				"movename": "Piercing Darkness",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "From the twin barrels of her Relic Cannon, Senna fires a unified beam of light and shadow through a target, healing allies and damaging enemies.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"w": {
-				"movename": "",
+				"movename": "Last Embrace",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Senna sends forth a wave of Black Mist. If it hits an enemy it latches onto them hungrily, rooting them and everything nearby after a brief delay.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"e": {
-				"movename": "",
+				"movename": "Curse of the Black Mist",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Senna draws the Mist she has stored in her weapon into a storm around her, embracing darkness and becoming a wraith within. Allies who enter the area are camouflaged and also appear as wraiths as the Mist shrouds them. Wraiths gain increased movement speed, are unselectable, and hide their identities.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"r": {
-				"movename": "",
+				"movename": "Dawning Shadow",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Senna calls upon the relic stones of fallen Sentinels, splitting her relic cannon into a holy array of shadow and light. She then fires a global beam that shields allies from harm, while damaging enemies caught in the center.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
@@ -1021,49 +1021,49 @@
 	},
 	"Sivir": {
 		"name": "Sivir",
-		"image": " ",
+		"image": "sivir.jpg",
 		"lore": "Sivir is a renowned fortune hunter and mercenary captain who plies her trade in the deserts of Shurima. Armed with her legendary jeweled crossblade, she has fought and won countless battles for those who can afford her exorbitant price. Known for her fearless resolve and endless ambition, she prides herself on recovering buried treasures from the perilous tombs of Shurima—for a generous bounty. With ancient forces stirring the very bones of Shurima, Sivir finds herself torn between conflicting destinies.",
 		"moves": {
 			"passive": {
-				"movename": "",
+				"movename": "Fleet of Foot",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Sivir gains a short burst of Movement Speed when she attacks an enemy champion.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"q": {
-				"movename": "",
+				"movename": "Boomerang Blade",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Sivir hurls her crossblade like a boomerang, dealing damage each way.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"w": {
-				"movename": "",
+				"movename": "Ricochet",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Sivir's next few basic attacks will bounce to nearby targets, dealing reduced damage to secondary targets.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"e": {
-				"movename": "",
+				"movename": "Spell Shield",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Creates a magical barrier that blocks a single enemy ability cast on Sivir. She receives Mana back if a spell is blocked.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"r": {
-				"movename": "",
+				"movename": "On the Hunt",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Sivir leads her allies in battle, granting them a surge Movement Speed for a period of time. Additionally passively grants Sivir bonus Attack Speed while Ricochet is active.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
