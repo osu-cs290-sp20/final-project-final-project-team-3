@@ -5,45 +5,45 @@
 		"lore": "Emerging from moonlight's shadow with weapons drawn, Aphelios kills the enemies of his faith in brooding silence—speaking only through the certainty of his aim, and the firing of each gun. Though fueled by a poison that renders him mute, he is guided by his sister Alune. From her distant temple sanctuary, she pushes an arsenal of moonstone weapons into his hands. For as long as the moon shines overhead, Aphelios will never be alone.",
 		"moves": {
 			"passive": {
-				"movename": "",
+				"movename": "The Hitman And The Seer",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Aphelios wields 5 Lunari Weapons made by his sister Alune. He has access to two at a time: one main-hand and one off-hand. Each weapon has a unique Basic Attack and Activated Ability. Attacks and abilities consume a weapon's ammo. When out of ammo, Aphelios discards the weapon and Alune summons the next of the 5.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"q": {
-				"movename": "",
+				"movename": "Weapon Abilities",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Aphelios has 5 different activated abilities, based on his main-hand weapon: Calibrum (Rifle): Long range shot that marks its target for a long-range follow-up attack. Severum (Scythe Pistol): Run fast while attacking nearby enemies with both weapons. Gravitum (Cannon): Root all enemies slowed by this weapon. Infernum (Flamethrower): Blast enemies in a cone and attack them with your off-hand weapon. Crescendum (Chakram): Deploy a sentry that shoots your off-hand weapon.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"w": {
-				"movename": "",
+				"movename": "Phase",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Aphelios swaps his main-hand gun with his off-hand gun, replacing his basic attack and activated ability.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"e": {
-				"movename": "",
+				"movename": "Weapon Queue System",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Aphelios has no third ability. This slot shows the next weapon Alune will give him. Weapon order begins fixed but may change over game time -- when a weapon is out of ammo it goes to the end of the order.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"r": {
-				"movename": "",
+				"movename": "Moonlight Vigil",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Fire a concentrated blast of moonlight that explodes on enemy champions. Applies the unique effect of Aphelios' main-hand gun.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
@@ -56,45 +56,45 @@
 		"lore": "Iceborn warmother of the Avarosan tribe, Ashe commands the most populous horde in the north. Stoic, intelligent, and idealistic, yet uncomfortable with her role as leader, she taps into the ancestral magics of her lineage to wield a bow of True Ice. With her people's belief that she is the mythological hero Avarosa reincarnated, Ashe hopes to unify the Freljord once more by retaking their ancient, tribal lands.",
 		"moves": {
 			"passive": {
-				"movename": "",
+				"movename": "FROST SHOT",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Ashe's attacks slow their target, causing her to deal increased damage to these targets. Ashe's critical strikes deal no bonus damage but apply an empowered slow to the target.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"q": {
-				"movename": "",
+				"movename": "RANGER'S FOCUS",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Ashe builds up Focus by attacking. At maximum Focus, Ashe can cast Ranger's Focus to consume all stacks of Focus, temporarily increasing her Attack Speed and transforming her basic attack into a powerful flurry attack for the duration.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"w": {
-				"movename": "",
+				"movename": "VOLLEY",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Ashe fires 9 arrows in a cone for increased damage. Also applies Frost Shot.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"e": {
-				"movename": "",
+				"movename": "HAWKSHOT",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Ashe sends her Hawk Spirit on a scouting mission anywhere on the map.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"r": {
-				"movename": "",
+				"movename": "ENCHANTED CRYSTAL ARROW",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Ashe fires a missile of ice in a straight line. If the arrow collides with an enemy Champion, it deals damage and stuns the Champion, stunning for longer the farther arrow has traveled. In addition, surrounding enemy units take damage and are slowed.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
@@ -107,45 +107,45 @@
 		"lore": "Azir was a mortal emperor of Shurima in a far distant age, a proud man who stood at the cusp of immortality. His hubris saw him betrayed and murdered at the moment of his greatest triumph, but now, millennia later, he has been reborn as an Ascended being of immense power. With his buried city risen from the sand, Azir seeks to restore Shurima to its former glory.",
 		"moves": {
 			"passive": {
-				"movename": "",
+				"movename": "SHURIMA'S LEGACY",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Azir can summon the Disc of the Sun from the ruins of allied or enemy turrets.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"q": {
-				"movename": "",
+				"movename": "CONQUERING SANDS",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Azir sends all Sand Soldiers towards a location. Sand Soldiers deal magic damage to enemies they pass through and apply a slow for 1 second.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"w": {
-				"movename": "",
+				"movename": "ARISE!",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Azir summons a Sand Soldier to attack nearby targets for him, replacing his basic attack against targets within the soldier's range. Their attacks deal magic damage to enemies in a line. Arise! also passively grants attack speed to Azir and his Sand Soldiers.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"e": {
-				"movename": "",
+				"movename": "SHIFTING SANDS",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Azir shields himself briefly and dashes to one of his Sand Soldiers, damaging enemies. If he hits an enemy champion, he instantly readies a new Sand Soldier for deployment and halts his dash.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"r": {
-				"movename": "",
+				"movename": "EMPEROR'S DIVIDE",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Azir summons a wall of soldiers which charge forward, knocking back and damaging enemies.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
@@ -158,45 +158,45 @@
 		"lore": "Renowned as its finest peacekeeper, Caitlyn is also Piltover's best shot at ridding the city of its elusive criminal elements. She is often paired with Vi, acting as a cool counterpoint to her partner's more impetuous nature. Even though she carries a one-of-a-kind hextech rifle, Caitlyn's most powerful weapon is her superior intellect, allowing her to lay elaborate traps for any lawbreakers foolish enough to operate in the City of Progress.",
 		"moves": {
 			"passive": {
-				"movename": "",
+				"movename": "HEADSHOT",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Every few basic attacks, or against a target she has trapped or netted, Caitlyn will fire a headshot dealing bonus damage that scales with her critical strike chance. On trapped or netted targets, Caitlyn's Headshot attack range is doubled.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"q": {
-				"movename": "",
+				"movename": "PILTOVER PEACEMAKER",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Caitlyn revs up her rifle for 1 second to unleash a penetrating shot that deals physical damage (deals less damage to subsequent targets).",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"w": {
-				"movename": "",
+				"movename": "YORDLE SNAP TRAP",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Caitlyn sets a trap to find sneaky yordles. When sprung, the trap reveals and immobilizes the enemy champion for 1.5 seconds, granting Caitlyn an empowered Headshot.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"e": {
-				"movename": "",
+				"movename": "90 CALIBER NET",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Caitlyn fires a heavy net to slow her target. The recoil knocks Caitlyn back.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"r": {
-				"movename": "",
+				"movename": "ACE IN THE HOLE",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Caitlyn takes time to line up the perfect shot, dealing massive damage to a single target at a huge range. Enemy champions can intercept the bullet for their ally.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
@@ -209,45 +209,45 @@
 		"lore": "The yordle pilot Corki loves two things above all others: flying, and his glamorous mustache... though not necessarily in that order. After leaving Bandle City, he settled in Piltover and fell in love with the wondrous machines he found there. He dedicated himself to the development of flying contraptions, leading an aerial defense force of seasoned veterans known as the Screaming Yipsnakes. Calm under fire, Corki patrols the skies around his adopted home, and has never encountered a problem that a good missile barrage couldn't solve.",
 		"moves": {
 			"passive": {
-				"movename": "",
+				"movename": "HEXTECH MUNITIONS",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Corki's basic attack deals a percentage of their damage as magic instead of physical. Every once in a while, The Package arrives in Corki's base to be picked up, temporarily granting him out of combat Movement Speed and upgrading Valkyrie into Special Delivery.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"q": {
-				"movename": "",
+				"movename": "PHOSPHORUS BOMB",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Corki fires a flash bomb at a target location, dealing magic damage to enemies in the area. This attack additionally reveals units in the area for a duration.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"w": {
-				"movename": "",
+				"movename": "VALKYRIE",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Corki flies a short distance, dropping bombs that create a trail of fire that damages opponents who remain in it.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"e": {
-				"movename": "",
+				"movename": "GATLING GUN",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Corki's gatling gun rapidly fires in a cone in front of him, dealing damage and reducing enemy Armor and Magic Resist.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"r": {
-				"movename": "",
+				"movename": "MISSILE BARRAGE",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Corki fires a missile toward his target location that explodes on impact, dealing damage to enemies in an area. Corki stores missiles over time, up to a maximum. Every 3rd missile fired will be a Big One, dealing extra damage.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
@@ -260,45 +260,45 @@
 		"lore": "In Noxus, warriors known as Reckoners face one another in arenas where blood is spilled and strength tested—but none has ever been as celebrated as Draven. A former soldier, he found that the crowds uniquely appreciated his flair for the dramatic, and his unparalleled skill with his spinning axes. Addicted to the spectacle of his own brash perfection, Draven has sworn to defeat whomever he must to ensure that his name is chanted throughout the empire forever more.",
 		"moves": {
 			"passive": {
-				"movename": "",
+				"movename": "LEAGUE OF DRAVEN",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Draven gains his fans' Adoration when he catches a Spinning Axe or kills a minion, monster, or tower. Killing enemy champions grants Draven bonus gold based on how much Adoration he has.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"q": {
-				"movename": "",
+				"movename": "SPINNING AXE",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Draven's next attack will deal bonus physical damage. This axe will ricochet off the target high up into the air. If Draven catches it, he automatically readies another Spinning Axe. Draven can have two Spinning Axes at once.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"w": {
-				"movename": "",
+				"movename": "BLOOD RUSH",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Draven gains increased Movement Speed and Attack Speed. The Movement Speed bonus decreases rapidly over its duration. Catching a Spinning Axe will refresh the cooldown of Blood Rush.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"e": {
-				"movename": "",
+				"movename": "STAND ASIDE",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Draven throws his axes, dealing physical damage to targets hit and knocking them aside. Targets hit are slowed.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"r": {
-				"movename": "",
+				"movename": "WHIRLING DEATH",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Draven hurls two massive axes to deal physical damage to each unit struck. Whirling Death slowly reverses direction and returns to Draven after striking an enemy champion. Draven may also activate this ability while the axes are in flight to cause it to return early. Deals less damage for each unit hit and resets when the axes reverse direction.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
@@ -311,45 +311,45 @@
 		"lore": "A dashing adventurer, unknowingly gifted in the magical arts, Ezreal raids long-lost catacombs, tangles with ancient curses, and overcomes seemingly impossible odds with ease. His courage and bravado knowing no bounds, he prefers to improvise his way out of any situation, relying partially on his wits, but mostly on his mystical Shuriman gauntlet, which he uses to unleash devastating arcane blasts. One thing is for sure—whenever Ezreal is around, trouble isn't too far behind. Or ahead. Probably everywhere.",
 		"moves": {
 			"passive": {
-				"movename": "",
+				"movename": "RISING SPELL FORCE",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Ezreal gains increasing Attack Speed each time he successfully hits a spell, stacking up to 5 times.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"q": {
-				"movename": "",
+				"movename": "MYSTIC SHOT",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Ezreal fires a damaging bolt of energy which reduces all of his cooldowns slightly if it strikes an enemy unit.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"w": {
-				"movename": "",
+				"movename": "ESSENCE FLUX",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Ezreal fires an orb that sticks to the first champion or objective hit. If Ezreal hits an enemy with the orb, it detonates and deals damage.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"e": {
-				"movename": "",
+				"movename": "ARCANE SHIFT",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Ezreal teleports to a target nearby location and fires a homing bolt which strikes the nearest enemy unit. Prioritizes enemies stuck with Essence Flux.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"r": {
-				"movename": "",
+				"movename": "TRUESHOT BARRAGE",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Ezreal winds up before firing a powerful barrage of energy that deals massive damage to each unit it passes through (damage is reduced for minions and non-epic monsters).",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
