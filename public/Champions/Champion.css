@@ -120,7 +120,7 @@ body {
 
 .Moves-Container .move .key /*This is the Container for the move's key Ex. Q W E R Containers*/{
     grid-area: menu;
-    width: 400px;
+    width: 800px;
 	background-image: url("Champion-Images/bck-grnd-color.PNG");
 	background: rgba(0,0,0,0.7);
 }
