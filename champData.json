@@ -8,8 +8,8 @@
 				"movename": "The Hitman And The Seer",
 				"info": {
 					"desc": "Aphelios wields 5 Lunari Weapons made by his sister Alune. He has access to two at a time: one main-hand and one off-hand. Each weapon has a unique Basic Attack and Activated Ability. Attacks and abilities consume a weapon's ammo. When out of ammo, Aphelios discards the weapon and Alune summons the next of the 5.",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"cool": "Cooldown Time: None",
+					"mana": "Mana Cost: None"
 					}
 				},
 
@@ -17,8 +17,8 @@
 				"movename": "Weapon Abilities",
 				"info": {
 					"desc": "Aphelios has 5 different activated abilities, based on his main-hand weapon: Calibrum (Rifle): Long range shot that marks its target for a long-range follow-up attack. Severum (Scythe Pistol): Run fast while attacking nearby enemies with both weapons. Gravitum (Cannon): Root all enemies slowed by this weapon. Infernum (Flamethrower): Blast enemies in a cone and attack them with your off-hand weapon. Crescendum (Chakram): Deploy a sentry that shoots your off-hand weapon.",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"cool": "Cooldown Time: Varies based on one of unique 5 weapons",
+					"mana": "Cost: Weapon Attack: 1 moonlight / Active: 10 moonlight + 60 mana"
 					}
 				},
 
@@ -26,8 +26,8 @@
 				"movename": "Phase",
 				"info": {
 					"desc": "Aphelios swaps his main-hand gun with his off-hand gun, replacing his basic attack and activated ability.",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"cool": "Cooldown Time: 0.8",
+					"mana": "Mana Cost: None"
 					}
 				},
 
@@ -35,8 +35,8 @@
 				"movename": "Weapon Queue System",
 				"info": {
 					"desc": "Aphelios has no third ability. This slot shows the next weapon Alune will give him. Weapon order begins fixed but may change over game time -- when a weapon is out of ammo it goes to the end of the order.",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"cool": "Cooldown Time: None",
+					"mana": "Mana Cost: None"
 					}
 				},
 
@@ -44,8 +44,8 @@
 				"movename": "Moonlight Vigil",
 				"info": {
 					"desc": "Fire a concentrated blast of moonlight that explodes on enemy champions. Applies the unique effect of Aphelios' main-hand gun.",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"cool": "Cooldown Time: 120 / 110 / 100",
+					"mana": "Mana Cost: 100"
 					}
 				}
 		}
