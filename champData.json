@@ -362,47 +362,47 @@
 		"lore": "Malcolm Graves is a renowned mercenary, gambler, and thief—a wanted man in every city and empire he has visited. Even though he has an explosive temper, he possesses a strict sense of criminal honor, often enforced at the business end of his double-barreled shotgun Destiny. In recent years, he has reconciled a troubled partnership with Twisted Fate, and together they have prospered once more in the turmoil of Bilgewater's criminal underbelly.",
 		"moves": {
 			"passive": {
-				"movename": "",
+				"movename": "New Destiny",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Graves' basic attacks will consume ammunition for 2 shells. He will reload over a few seconds after expending all shells or withholding leftover shells for a while, with the time being reduced by Graves' level and bonus attack speed.",
+					"cool": "Cooldown Time: None",
+					"mana": "Mana Cost: None"
 					}
 				},
 
 			"q": {
-				"movename": "",
+				"movename": "End of the Line",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Graves fires a round in the target direction that deals physical damage to all enemies it passes through and leaves behind a powder trail. After 2 seconds or after 0.25 upon impacting with a structure or terrain, the round detonates dealing physical damage to all enemies in a wide perpendicular area and in a reverse wave along the powder trail.",
+					"cool": "Cooldown Time: 12 / 11 / 10 / 9 / 8",
+					"mana": "Mana Cost: 60"
 					}
 				},
 
 			"w": {
-				"movename": "",
+				"movename": "Smoke Screen",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Graves fires a smoke canister at the target area, dealing magic damage and slowing enemies upon impact by 50% for .5 seconds. The canister creates a cloud of smoke for 4 seconds that applies nearsight of outside the area to all enemies within, reducing their sight radius to 250 units relative to the center.",
+					"cool": "Cooldown Time: 26 / 24 / 22 / 20 / 18",
+					"mana": "Mana Cost: 70 / 75 / 80 / 85 / 90"
 					}
 				},
 
 			"e": {
-				"movename": "",
+				"movename": "Quickdraw",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Graves dashes in the target direction, resetting his basic attack timer and reloading one shell while gaining a stack of True Grit for 4 seconds, stacking up to 8 times. Dashing towards an enemy grants 2 stacks of True Grit. Quickdraw's cooldown is reduced by 0.5 seconds for every pellet impacting an enemy. True Grit: Graves gains bonus armor. Attacks versus non-minions will refresh the duration of True Grit. If Graves dashes while reloading, he can cast his other abilities during the dash.",
+					"cool": "Cooldown Time: 16 / 15 / 14 / 13 / 12",
+					"mana": "Mana Cost: 40"
 					}
 				},
 
 			"r": {
-				"movename": "",
+				"movename": "Collateral Damage",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Graves fires an explosive shell in the target direction which deals physical damage while also recoiling in the opposite direction. After hitting a champion or reaching the end of its range, the shell explodes to deal 80% of its original damage in a cone. The same unit cannot be damaged by both the shell and the explosion.",
+					"cool": "Cooldown Time: 120 / 90 / 60",
+					"mana": "Mana Cost: 100"
 					}
 				}
 		}
@@ -413,47 +413,47 @@
 		"lore": "Jayce is a brilliant inventor who has pledged his life to the defense of Piltover and its unyielding pursuit of progress. With his transforming hextech hammer in hand, Jayce uses his strength, courage, and considerable intelligence to protect his hometown. While revered throughout the city as a hero, he hasn't taken well to the attention heroism brings. Still, Jayce's heart is in the right place, and even those who envy his natural skills are grateful for his protection in the City of Progress.",
 		"moves": {
 			"passive": {
-				"movename": "",
+				"movename": "Hextech Capacitor",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Each time jayce switches between Hammer Stance and Cannon Stance he is ghosted and gains 40 bonus movement speed for 1.25 seconds.",
+					"cool": "Cooldown Time: None",
+					"mana": "Mana Cost: None"
 					}
 				},
 
 			"q": {
-				"movename": "",
+				"movename": "To the Skies!",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Jayce leaps  to the target enemy's location and smashes his hammer on the ground, dealing physical damage to all enemies in the area and slowing them for 2 seconds.",
+					"cool": "Cooldown Time: 16 / 14 / 12 / 10 / 8 / 6",
+					"mana": "Mana Cost: 40"
 					}
 				},
 
 			"w": {
-				"movename": "",
+				"movename": "Lightning Field",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Jayce passively restores mana each time he hits an enemy with a basic attack. Upon activation, Jayce surrounds himself with an electric field for 4 seconds, dealing  magic damage each second to all nearby enemies.",
+					"cool": "Cooldown Time: 10",
+					"mana": "Mana Cost: 40"
 					}
 				},
 
 			"e": {
-				"movename": "",
+				"movename": "Thundering Blow",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Jayce swings his hammer at the target enemy, dealing magic damage, capped against monsters, while also marking a location 500 units away from him in the direction of the target, pulling them to it.",
+					"cool": "Cooldown Time: 20 / 18 / 16 / 14 / 12 / 10",
+					"mana": "Mana Cost: 55"
 					}
 				},
 
 			"r": {
-				"movename": "",
+				"movename": "Transform Mercury Cannon",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Jayce transforms the Mercury Hammer into the Mercury Cannon, gaining access to its abilities, having Ranged role ranged attacks with 500 range, and causing his next basic attack to reduce his target's armor and magic resistance by 10 / 15 / 20 / 25% (based on level) for 5 seconds. Jayce begins the game with Transform but cannot increase its rank. Instead, his basic abilities each have 6 ranks.",
+					"cool": "Cooldown Time: 6",
+					"mana": "Mana Cost: None"
 					}
 				}
 		}
@@ -464,47 +464,47 @@
 		"lore": "Jhin is a meticulous criminal psychopath who believes murder is art. Once an Ionian prisoner, but freed by shadowy elements within Ionia's ruling council, the serial killer now works as their cabal's assassin. Using his gun as his paintbrush, Jhin creates works of artistic brutality, horrifying victims and onlookers. He gains a cruel pleasure from putting on his gruesome theater, making him the ideal choice to send the most powerful of messages: terror.",
 		"moves": {
 			"passive": {
-				"movename": "",
+				"movename": "Whisper",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Jhin's basic attacks consume ammunition, requiring him to reload after 4 rounds, which takes 2.5 seconds. Jhin will also begin reloading partial ammunition after 10 seconds out of combat, which can be interrupted by declaring an attack or casting an ability. Jhin's fourth attack will become an unstoppable basic attack, critically striking and dealing 15 / 20 / 25% (based on level) of the target's missing health as bonus physical damage. This critical strike will occur versus structures but deals only 20% AD bonus physical damage. EVERY MOMENT MATTERS: Jhin gains 4% − 44% (based on level) bonus attack damage.",
+					"cool": "Cooldown Time: None",
+					"mana": "Mana Cost: None"
 					}
 				},
 
 			"q": {
-				"movename": "",
+				"movename": "Dancing Grenade",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Jhin launches a canister at the target enemy, dealing physical damage. Dancing Grenade bounces to up to three additional enemies beyond the first, with each kill it performs increasing its damage by 35% of the base damage. The damage will also increase if Jhin kills the target the grenade last bounced off.",
+					"cool": "Cooldown Time: 7 / 6.5 / 6 / 5.5 / 5",
+					"mana": "Mana Cost: 40 / 45 / 50 / 55 / 60"
 					}
 				},
 
 			"w": {
-				"movename": "",
+				"movename": "Deadly Flourish",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Enemy champions are passively slowed by a Lotus Trap or damaged by Jhin or his allies, are Caught Out for 4 seconds. Upon activation, Jhin fires a shot in the target direction that deals physical damage to all enemies in a line until colliding with an enemy champion. Deals 75% damage against non-champions. Caught Out champions are also rooted, granting Jhin Every Moment Matters' Movement speed icon bonus movement speed.",
+					"cool": "Cooldown Time: 7 / 6.5 / 6 / 5.5 / 5",
+					"mana": "Mana Cost: 40 / 45 / 50 / 55 / 60"
 					}
 				},
 
 			"e": {
-				"movename": "",
+				"movename": "Captive Audience",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Jhin passively summons a blooming Lotus Trap under every enemy champion he kills. Upon activation, Jhin places a Lotus Trap at the target location which stealths and arms after a brief delay, lasting up to 180 seconds. The Lotus Trap blooms upon enemy contact, revealing enemies in the area for 4 seconds. Blooming Lotus Traps slow enemies for 35% for 2 seconds before detonating, dealing magic damage. Lotus Traps deal 65% damage against non-champions and champions recently hit by one.",
+					"cool": "Cooldown Time: 2",
+					"mana": "Mana Cost: 30 / 35 / 40 / 45 / 50 + 1 CHARGE"
 					}
 				},
 
 			"r": {
-				"movename": "",
+				"movename": "Curtain Call",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Jhin begins channeling, gaining a wider field of view, though not a larger vision range, during which he has the ability to cancel or recast Curtain Call up to four times. Jhin cannot cancel the channeling or fire the first shot until after 1 second, and has 10 seconds in which to use all casts. Upom recasting, After 0.25 seconds, Jhin fires a round in the target direction that deals physical damage to all enemies hit, increased by 0% − 300% (based on target's missing health), until colliding with an enemy champion, revealing the traveled area for 0.5 seconds and all enemies hit for 2 seconds while also slowing them by 80% for 0.5 seconds. The fourth shot will critically strike for bonus physical damage.",
+					"cool": "Cooldown Time: 120 / 105 / 90",
+					"mana": "Mana Cost: 100"
 					}
 				}
 		}
@@ -515,47 +515,47 @@
 		"lore": "A manic and impulsive criminal from Zaun, Jinx lives to wreak havoc without care for the consequences. With an arsenal of deadly weapons, she unleashes the loudest blasts and brightest explosions to leave a trail of mayhem and panic in her wake. Jinx despises boredom, and gleefully brings her own chaotic brand of pandemonium wherever she goes.",
 		"moves": {
 			"passive": {
-				"movename": "",
+				"movename": "Get Excited!",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Whenever an enemy champion, epic monster, turret or inhibitor dies within 3 seconds of being damaged by Jinx, she gains 175% bonus movement speed which decays over 6 seconds. Additionally, she gains 15% total attack speed and removes the attack speed cap for the same duration.",
+					"cool": "Cooldown Time: None",
+					"mana": "Mana Cost: None"
 					}
 				},
 
 			"q": {
-				"movename": "",
+				"movename": "Switcheroo!",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Jinx's basic attacks passively make her Rev's up for 2.5 seconds, granting bonus attack spreed, stacking up to 3 times. FISHBONES: Jinx loses 25% of her bonus attack speed and her basic attacks cost mana on-attack. They gain bonus range, deal 110% damage, and deal their damage to all enemies near the main target. The first Rev'd up stack is twice as potent as the others, and stacks decay one at a time when Jinx stops attacking. Fishbones will not refresh the stack timer and only its first basic attack after using Switcheroo! will gain the bonus attack speed.",
+					"cool": "Cooldown Time: None",
+					"mana": "Mana Cost: 20 Per Attack"
 					}
 				},
 
 			"w": {
-				"movename": "",
+				"movename": "Zap!",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "After 0.6 − 0.4 (based on bonus attack speed) seconds, Jinx fires a shock blast that deals physical damage to the first enemy it hits, revealing and slowing them for 2 seconds.",
+					"cool": "Cooldown Time: 8 / 7 / 6 / 5 / 4",
+					"mana": "Mana Cost: 50 / 60 / 70 / 80 / 90"
 					}
 				},
 
 			"e": {
-				"movename": "",
+				"movename": "Flame Chompers!",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Jinx tosses out 3 Chompers that arm after 0.7 seconds and explode after 5 seconds, dealing magic damage over 1.5 seconds to all enemies within a small area. Chompers prematurely explode on contact with an enemy champion, knocking down and rooting them for the same duration. An enemy champion can only set off and be damaged by one Chomper.",
+					"cool": "Cooldown Time: 24 / 20.5 / 17 / 13.5 / 10",
+					"mana": "Mana Cost: 70"
 					}
 				},
 
 			"r": {
-				"movename": "",
+				"movename": "Super Mega Death Rocket!",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Jinx fires a rocket in the target direction, briefly revealing the area it flies through. The rocket explodes upon enemy champion contact, dealing physical damage and briefly revealing the area around them. The rocket deals 10% − 100% (based on distance traveled) of its flat damage, reaching the maximum at 1 second of travel time. Enemies surrounding the main target also take 80% damage.",
+					"cool": "Cooldown Time: 90 / 75 / 60",
+					"mana": "Mana Cost: 100"
 					}
 				}
 		}
@@ -566,47 +566,47 @@
 		"lore": "Claimed by the Void when she was only a child, Kai'Sa managed to survive through sheer tenacity and strength of will. Her experiences have made her a deadly hunter and, to some, the harbinger of a future they would rather not live to see. Having entered into an uneasy symbiosis with a living Void carapace, the time will soon come when she must decide whether to forgive those mortals who would call her a monster, and defeat the coming darkness together… or simply to forget, as the Void consumes the world that left her behind.",
 		"moves": {
 			"passive": {
-				"movename": "",
+				"movename": "Second Skin",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Kai'Sa's basic attacks deal 4 − 10 (based on level) (+ 1 − 5 (based on level) per Plasma stack) (+ 10% − 20% (based on Plasma stacks) AP) bonus magic damage. Kai'Sa's basic attacks, Void Seeker, and nearby allies' immobilizing effects mark enemies with Plasma for 4 seconds, stacking up to 4 times. Kai'Sa's attacks or Void Seeker can then rupture enemies with 4 Plasma, consuming them to deal 15% (+ 2.5% per 100 AP) of the target's missing health magic damage, capped at 400 against monsters. Upon gaining a set amount of permanent stats from items and stat growth, Kai'Sa can evolve the related basic ability. This has a channel time of 2 seconds, and the upgrade is lost if the stat requirement is no longer met.",
+					"cool": "Cooldown Time: None",
+					"mana": "Mana Cost: None"
 					}
 				},
 
 			"q": {
-				"movename": "",
+				"movename": "Icathian Rain",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": " Kai'Sa releases a swarm of 6 missiles that evenly distributes among nearby visible enemies, each dealing physical damage. Minions below35% health take double damage. Non-minions take 25% damage from missiles beyond their first.",
+					"cool": "Cooldown Time: 8 / 7.5 / 7 / 6.5 / 6",
+					"mana": "Mana Cost: 55"
 					}
 				},
 
 			"w": {
-				"movename": "",
+				"movename": "Void Seeker",
 				"info": {
-					"desc": "Champion's Move Description",
+					"desc": "Kai'Sa fires a Void blast in the target direction, stopping at the first enemy hit, dealing magic damage, gaining true sight of them for 4 seconds and applying 2 Plasma.",
 					"cool": "Cooldown Time: #",
 					"mana": "Mana Cost: ###"
 					}
 				},
 
 			"e": {
-				"movename": "",
+				"movename": "Supercharge",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Kai'Sa charges for the duration of the cast time, during which she's still allowed to move, is ghosted and gains bonus movement speed, increased by 0% − 100% (based on bonus attack speed). After charging up, Kai'Sa gains bonus attack speed and her basic attack windup percentage is reduced to 6.44% for 4 seconds. Supercharge's cooldown is reduced by 0.5 seconds on-attack.",
+					"cool": "Cooldown Time: 16 / 15 / 14 / 13 / 12",
+					"mana": "Mana Cost: 30"
 					}
 				},
 
 			"r": {
-				"movename": "",
+				"movename": "Killer Instinct",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Kai'Sa shields herself and swiftly dashes to a target location near an enemy champion recently affected by Plasma. The shield holds for 2 seconds upon arrival. Killer Instinct resets Kai'Sa's basic attack timer.",
+					"cool": "Cooldown Time: 110 / 90 / 70",
+					"mana": "Mana Cost: 100"
 					}
 				}
 		}
@@ -617,47 +617,47 @@
 		"lore": "A specter of wrath and retribution, Kalista is the undying spirit of vengeance, an armored nightmare summoned from the Shadow Isles to hunt deceivers and traitors. The betrayed may cry out in blood to be avenged, but Kalista only answers those willing to pay with their very souls. Those who become the focus of Kalista's wrath should make their final peace, for any pact sealed with this grim hunter can only end with the cold, piercing fire of her soul-spears.",
 		"moves": {
 			"passive": {
-				"movename": "",
+				"movename": "Martial Poise",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Kalista's basic attack has unique properties: deals 90% physical damage, misses if she loses sight of her target before they are hit, is an unstoppable basic attack, can switch targets mid attack windup, makes her dash in the target direction after issuing a movement command during windup or after casting Pierce. Additionally, Kalista begins the game with an exclusive Black Spear.",
+					"cool": "Cooldown Time: None",
+					"mana": "Mana Cost: None"
 					}
 				},
 
 			"q": {
-				"movename": "",
+				"movename": "Pierce",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Kalista hurls a fast and narrow spear, dealing Attack damage physical damage to the first enemy hit. If Pierce kills its target, the spear continues onward, transferring all of the dead victim's Rend stacks to the next enemy it hits. This can repeat indefinitely until the spear reaches its maximum distance.",
+					"cool": "Cooldown Time: 8",
+					"mana": "Mana Cost: 50 / 55 / 60 / 65 / 70"
 					}
 				},
 
 			"w": {
-				"movename": "",
+				"movename": "Sentinel",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "While Kalista and her Oathsworn are linked, their basic attacks and Pierce apply a Soul-Mark to their targets. If both Soul-Marks are applied within 4 seconds, the target takes bonus magic damage (capped against non-champions), and cannot be Soul-Marked for 10 seconds. Soul-Mark deals 75 minimum damage to minions and executes them if they're below n 125 health. Upon activation, Kalista summons a Sentiel to patrol along the target area.",
+					"cool": "Cooldown Time: 30",
+					"mana": "Mana Cost: None"
 					}
 				},
 
 			"e": {
-				"movename": "",
+				"movename": "Rend",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Kalista's basic attacks and Pierce passively lodge a spear in the target for 4 seconds, stacking up to 254 times. Upon activation, Kalista rips all lodged spears from nearby enemies, dealing physical damage and slowing them for 2 seconds. The damage is increased with additional spears, but with reduced efficiency. Rend deals 50% reduced damage against epic monsters. Rend resets its cooldown and refunds mana if kills at least one target within a very brief time.",
+					"cool": "Cooldown Time: 14 / 12.5 / 11 / 9.5 / 8",
+					"mana": "Mana Cost: 30"
 					}
 				},
 
 			"r": {
-				"movename": "",
+				"movename": "Fate's Call",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Kalista invokes her Black Spearlink, retrieving her Oathsworn and cleansing them from all crowd control while rendering them invulnerable and untargetable but also unable to move, declare attacks, cast abilities, or use item actives or movement summoner spells for 4 seconds. Kalista's Oathsworn can emerge to a target location, stopping at the first enemy champion hit, knocking up all surrounding enemies and landing themselves at their basic attack range relative to the target hit.",
+					"cool": "Cooldown Time: 150 / 120 / 90",
+					"mana": "Mana Cost: 100"
 					}
 				}
 		}
@@ -668,47 +668,47 @@
 		"lore": "More than just the lightning-quick enforcer of Ionian balance, Kennen is the only yordle member of the Kinkou. Despite his small, furry stature, he is eager to take on any threat with a whirling storm of shuriken and boundless enthusiasm. Alongside his master Shen, Kennen patrols the spirit realm, employing devastating electrical energy to strike down his enemies.",
 		"moves": {
 			"passive": {
-				"movename": "",
+				"movename": "Mark of the Storm",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Enemies hit by Kennen's abilities receive a Mark of the Storm for 6 seconds, stacking up to 3 times. At three stacks, the marks consume themselves to stun the target for 1.25 seconds and restore 25 energy. If the stun is applied more than once within 6 seconds, its duration is reduced to 0.5 seconds.",
+					"cool": "Cooldown Time: None",
+					"mana": "Mana Cost: None"
 					}
 				},
 
 			"q": {
-				"movename": "",
+				"movename": "Thundering Storm",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Kennen throws a charged shuriken in a line in front of him, dealing magic damage to the first enemy it hits.",
+					"cool": "Cooldown Time: 8 / 7 / 6 / 5 / 4",
+					"mana": "Mana Cost: 60 / 55 / 50 / 45 / 40"
 					}
 				},
 
 			"w": {
-				"movename": "",
+				"movename": "Electrical Surge",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Basic attacks passively grant a stack of Electrical Surge on-attack. Upon reaching 4 stacks Kennen's next basic attack against non-turret structures is empowered to deal bonus magic damage, apply a Mark of the Storm and consume all stacks on-hit. Upon activation, Kennen sends out a surge of electricity to all nearby enemies afflicted by Mark of the Storm or caught in Slicing Maelstrom, dealing magic damage.",
+					"cool": "Cooldown Time: 14 / 12 / 10 / 8 / 6",
+					"mana": "Mana Cost: 40"
 					}
 				},
 
 			"e": {
-				"movename": "",
+				"movename": "Lightning Rush",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Kennen transforms into a ball of electricity, becoming unable to declare basic attacks but becoming ghosted and gaining 100% bonus movement speed for 2 seconds. After a 0.5-second delay, Kennen can reactivate Lightning Rush. Kennen deals magic damage to all enemies he passes through, halved against non-champions and restores 40 energy the first time Lightning Rush damages an enemy. Kennen gains bonus attack speed for 4 seconds upon exiting Lightning Rush. Upon recast, Kennen ends Lightning Rush early.",
+					"cool": "Cooldown Time: 10 / 9 / 8 / 7 / 6",
+					"mana": "Mana Cost: 100 / 95 / 90 / 85 / 80"
 					}
 				},
 
 			"r": {
-				"movename": "",
+				"movename": "Slicing Maelstrom",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Kennen summons Shuriken Storm, a magical storm around himself for 3 seconds, gaining bonus armor and bonus magic resistance and dealing magic damage to all enemies within range every 0.5 seconds. Each maelstrom hit applies a Mark of the Storm, up to a maximum of 3. Slicing Maelstrom deals 10% increased damage with each successive strike against a target, up to a maximum of 150% damage with one strike.",
+					"cool": "Cooldown Time: 120",
+					"mana": "Mana Cost: None"
 					}
 				}
 		}
@@ -890,7 +890,7 @@
 				},
 
 			"w": {
-				"movename": "Struct",
+				"movename": "Strut",
 				"info": {
 					"desc": "Miss Fortune passively  gains Movement Speed when not attacked. This ability can be activated to grant bonus Attack Speed for a short duration. While it's on cooldown, Love Taps reduce the remaining cooldown of Strut.",
 					"cool": "Cooldown Time: 12",
@@ -1076,47 +1076,47 @@
 		"lore": "Undeterred by even the most dangerous and threatening of obstacles, Teemo scouts the world with boundless enthusiasm and a cheerful spirit. A yordle with an unwavering sense of morality, he takes pride in following the Bandle Scout's Code, sometimes with such eagerness that he is unaware of the broader consequences of his actions. Though some say the existence of the Scouts is questionable, one thing is for certain: Teemo's conviction is nothing to be trifled with.",
 		"moves": {
 			"passive": {
-				"movename": "",
+				"movename": "Guerrilla Warfare",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Teemo gains invisibility if he stands still for 1.5 seconds without acting or being acted upon. He will remain invisible so long as he does not move or act, and is not displaced. If within brush, Teemo gains invisibility after 1.5 seconds while moving and may move freely withing its boundaries without breaking stealth.",
+					"cool": "Cooldown Time: None",
+					"mana": "Mana Cost: None"
 					}
 				},
 
 			"q": {
-				"movename": "",
+				"movename": "Blinding Dart",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Teemo shoots a dart at the target enemy, dealing them magic damage and blinding them for a short duration. The blind duration is doubled against minions and monsters.",
+					"cool": "Cooldown Time: 8",
+					"mana": "Mana Cost: 70 / 75 / 80 / 85 / 90"
 					}
 				},
 
 			"w": {
-				"movename": "",
+				"movename": "Move Quick",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Teemo passively gains bonus movement speed if he hasn't taken damage from enemy champions or turrets for 5 seconds. Upon activation of this ability, Teemo doubles his bonus movement speed for 3 seconds and prevents it from being disabled by damage for the duration.",
+					"cool": "Cooldown Time: 17",
+					"mana": "Mana Cost: 40"
 					}
 				},
 
 			"e": {
-				"movename": "",
+				"movename": "Toxic Shot",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Teemo's basic attacks passively deal bonus magic damage and poison his target. Poisoned targets suffer magic damage for 4 seconds, with subsequent attacks refreshing the poison's duration. The total damage is increased by 50% against monsters.",
+					"cool": "Cooldown Time: None",
+					"mana": "Mana Cost: None"
 					}
 				},
 
 			"r": {
-				"movename": "",
+				"movename": "Noxious Trap",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Teemo passively stores a Noxious Trap charge periodically, up to a maximum amount of 5. Upon activation of this ability, Teemo tosses a stealthed trap on the ground, which stealths and arms after 1 second, granting sight of its surroundings and lasting for up to 5 minutes. Noxious Trap bounces forward if it lands on top of another. If an enemy steps on the trap, it detonates, poisoning all nearby enemies, slowing them, granting sight of them, and dealing them magic damage over 4 seconds",
+					"cool": "Cooldown Time: 30 / 25 / 20",
+					"mana": "Mana Cost: 75"
 					}
 				}
 		}
@@ -1127,47 +1127,47 @@
 		"lore": "While many other yordles channel their energy into discovery, invention, or just plain mischief-making, Tristana was always inspired by the adventures of great warriors. She had heard much about Runeterra, its factions, and its wars, and believed her kind could become worthy of legend too. Setting foot in the world for the first time, she took up her trusty cannon Boomer, and now leaps into battle with steadfast courage and optimism.",
 		"moves": {
 			"passive": {
-				"movename": "",
+				"movename": "Draw a Bead",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "The range of Tristana's basic attacks, Explosive Charge and Buster Shot are increased by 0 - 136 (based on level) for a total of 525 - 661 (based on level) range.",
+					"cool": "Cooldown Time: None",
+					"mana": "Mana Cost: None"
 					}
 				},
 
 			"q": {
-				"movename": "",
+				"movename": "Rapid Fire",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Tristana empowers her cannon, gaining bonus attack speed for 7 seconds.",
+					"cool": "Cooldown Time: 20 / 19 / 18 / 17 / 16",
+					"mana": "Mana Cost: None"
 					}
 				},
 
 			"w": {
-				"movename": "",
+				"movename": "Rocket Jump",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Tristana jumps to the target location, dealing magic damage to all nearby enemies on impact and slowing htem by 60%. On enemy champion takedowns or upon detonating Explosive Charge at maximum stacks on an enemy champion, Rocket Jump's cooldown is reset.",
+					"cool": "Cooldown Time: 22 / 20 / 18 / 16 / 14",
+					"mana": "Mana Cost: 60"
 					}
 				},
 
 			"e": {
-				"movename": "",
+				"movename": "Explosive Charge",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Enimies explode passively when killed by Tristana's basic attacks, dealing magic damage to all nearby enemies. Upon ability activation, Tristana places an explosive charge on the target enemy or turret. After 4 seconds, the charge detonates, dealing physical damage to nearby enemies, including structures. The explosion radius is increased when used on a turret. Tristana's basic attacks and abilities against the target increase Explosive Charge's damage by 30%, stacking up to 4 times for a maximum of 120% increase, upon which the charge also explodes instantly.",
+					"cool": "Cooldown Time: 16 / 15.5 / 15 / 14.5 / 14",
+					"mana": "Mana Cost: 50 / 55 / 60 / 65 / 70"
 					}
 				},
 
 			"r": {
-				"movename": "",
+				"movename": "Buster Shot",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Tristana fires a massive cannonball at the target enemy, dealing magic damage and knocking back the target and all enemies around them.",
+					"cool": "Cooldown Time: 120 / 110 / 100",
+					"mana": "Mana Cost: 100"
 					}
 				}
 		}
@@ -1178,47 +1178,47 @@
 		"lore": "A Zaunite plague rat by birth, but a connoisseur of filth by passion, Twitch is not afraid to get his paws dirty. Aiming a chem-powered crossbow at the gilded heart of Piltover, he has vowed to show those in the city above just how filthy they really are. Always a sneaky sneak, when he's not rooting around in the Sump, he's digging deep into other people's garbage for discarded treasures… and perhaps a moldy sandwich.",
 		"moves": {
 			"passive": {
-				"movename": "",
+				"movename": "Deadly Venom",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Twitch's basic attacks poison his target with Deadly Venom, each attack adding one stack on-hit. Each deadly venom stack deals true damage per second over 6 seconds, stacking up to 6 times. Each application of Deadly Venom resets the duration.",
+					"cool": "Cooldown Time: None",
+					"mana": "Mana Cost: None"
 					}
 				},
 
 			"q": {
-				"movename": "",
+				"movename": "Ambush",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "After a 1 second delay, twitch becomes camouflaged for a duration. Entering stealth cancels Twitch's current basic attack. Attacking or casting Venom Cask or Contaminate breaks the stealth immediately. While entering stealth he gains 10% bonus movement speed, increased to 30% when he moves toward enemy champions within a 1000-range radius who cannot see him. Upon breaking stealth he gains bonus attack speed for 5 seconds. Ambush's cooldown is reset if an enemy champion dies while poisoned by deadly venom.",
+					"cool": "Cooldown Time: 16",
+					"mana": "Mana Cost: 40"
 					}
 				},
 
 			"w": {
-				"movename": "",
+				"movename": "Venom Cask",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Twitch hurls a cask of venom at the target area, infecting all enemies hit with a Deadly Venom stack and revealing the area. The target area becomes contaminated for 3 seconds, applying a Deadly Venom stack each second and slowing all enemies inside it.",
+					"cool": "Cooldown Time: 13 / 12 / 11 / 10 / 9",
+					"mana": "Mana Cost: 70"
 					}
 				},
 
 			"e": {
-				"movename": "",
+				"movename": "Contaminate",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Twitch sends out a lethal toxin to each nearby enemy afflicted by Deadly Venom, dealing physical damage, increased for each stack of Deadly Venom on the target.",
+					"cool": "Cooldown Time: 12 / 11 / 10 / 9 / 8",
+					"mana": "Mana Cost: 50 / 60 / 70 / 80 / 90"
 					}
 				},
 
 			"r": {
-				"movename": "",
+				"movename": "Spray and Pray",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Twitch gains bonus attack damage and 300 bonus attack range for 5 seconds, during which his basic attacks are replaced by bolts that travel slightly further than his attack range in a straight line, damaging every enemy in their path. The bolts deal physical damage, apply on-hit effects, and can critically strike against each individual target.",
+					"cool": "Cooldown Time: 90",
+					"mana": "Mana Cost: 100"
 					}
 				}
 		}
@@ -1229,47 +1229,47 @@
 		"lore": "One of the ancient darkin, Varus was a deadly killer who loved to torment his foes, driving them almost to insanity before delivering the killing arrow. He was imprisoned at the end of the Great Darkin War, but escaped centuries later in the remade flesh of two Ionian hunters—they had unwittingly released him, cursed to bear the bow containing his bound essence. Varus now seeks out those who trapped him, in order to enact his brutal vengeance, but the mortal souls within still resist him every step of the way.",
 		"moves": {
 			"passive": {
-				"movename": "",
+				"movename": "Living Vengeance",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Varus gains 40% bonus attack speed for 5 seconds upon an enemy champion takedown, and 20% bonus attack speed on non-champion kills.",
+					"cool": "Cooldown Time: None",
+					"mana": "Mana Cost: None"
 					}
 				},
 
 			"q": {
-				"movename": "",
+				"movename": "Piercing Arrow",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Varus charges for up to 4 seconds to gradually increase Piercing Arrow's range and damage over the next 2 seconds, during whihc he is slowed by 20%. Piercing Arrow can be recast at any time within its duration. If the charge completes without reactivation, Piercing Arrow is cancelled, refunding half of the mana cost. Upon recast, Varus fires a piercing arrow dealing physical damage to all enimies struck, which is increased by 0%-50% (based on Channel time). The arrow's damage is reduced to 100%-30% (based on enemy hit). Detonating Blight stacks on an anemy champion reduces Piercing Arrow's cooldown by 3 seconds.",
+					"cool": "Cooldown Time: 18 / 16 / 14 / 12 / 10",
+					"mana": "Mana Cost: 70 / 75 / 80 / 85 / 90"
 					}
 				},
 
 			"w": {
-				"movename": "",
+				"movename": "Blighted Quiver",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Varus basic attacks passively deal bonus magical damage and apply Blight for 6 seconds, stacking up to 3 times. Varus' other abilities detonate Blight on enemies upon damaging them, dealing magical damage for each stack. This damage is capped at 360 against monsters. Upon activation, Varus' nect Piercing arrow deals bonus damage. This is capped at 360 against monsters. Blighted quiver can be recast after 1 second if Varus is not charging Piercing Arrow. Blighted Quiver can be cast during the first .25 seconds of Piercing Arrow. Blighted Quiver is placed on full cooldown even if the duration ends and the arrow is not fired or if the charge is interrupted. Upon recast, Blighted Quiver is cancelled and put on a 1 second cooldown.",
+					"cool": "Cooldown Time: 40",
+					"mana": "Mana Cost: None"
 					}
 				},
 
 			"e": {
-				"movename": "",
+				"movename": "Hail of Arrows",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Varus fires a hail of arrows at the target location, dealing physical damage to all enemies hit on impact. The area is desecrated for 4 seconds, slowing all enemies within and applying Grevious Wounds.",
+					"cool": "Cooldown Time: 18 / 16 /14 / 12 / 10",
+					"mana": "Mana Cost: 80"
 					}
 				},
 
 			"r": {
-				"movename": "",
+				"movename": "Chain of Corruption",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Varus flings out a tendril of corruption in the target direction that inflicts the first enemy champion hit, dealing magical damage and revealing and rooting them for 2 seconds while inflicting them with full stacks of Blight over 1.5 seconds. On impact, the tendril seeks out nearby champions for 2 seconds, after which they are also infected. Tendrils will continue to spread until there are no champions in range that have not been affected.",
+					"cool": "Cooldown Time: 110 / 90 / 10",
+					"mana": "Mana Cost: 100"
 					}
 				}
 		}
@@ -1280,47 +1280,47 @@
 		"lore": "Shauna Vayne is a deadly, remorseless Demacian monster hunter, who has dedicated her life to finding and destroying the demon that murdered her family. Armed with a wrist-mounted crossbow and a heart full of vengeance, she is only truly happy when slaying practitioners or creations of the dark arts, striking from the shadows with a flurry of silver bolts.",
 		"moves": {
 			"passive": {
-				"movename": "",
+				"movename": "Night Hunter",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Vayne gains 30 bonus movement speed when moving towars a nearby visible enemy champion. While Final Hour is active, bonus movement speed is tripled.",
+					"cool": "Cooldown Time: None",
+					"mana": "Mana Cost: None"
 					}
 				},
 
 			"q": {
-				"movename": "",
+				"movename": "Tumble",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Vayne dashes forward, though not through terrain, and her next basic attack within 7 seconds deals bonus physical damage. Tumble resets Vayne's basic attack timer.",
+					"cool": "Cooldown Time: 4 / 3.5 / 3 / 2.5 / 2",
+					"mana": "Mana Cost: 30"
 					}
 				},
 
 			"w": {
-				"movename": "",
+				"movename": "Silver Bolts",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Vayne basic attacks and Condemn passively apply a stack of Silver Bolts for 3.5 seconds, up to 3 times. Attacking a new enemy removes all stacks from the previous target. The third stack consumes them all to deal bonus true damage, with a minimum threshold, and capped at 200 against monsters.",
+					"cool": "Cooldown Time: None",
+					"mana": "Mana Cost: None"
 					}
 				},
 
 			"e": {
-				"movename": "",
+				"movename": "Condemn",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Vayne fires a heavy bolt at the target enemy, dealing physical damage, knocking them back 475 units,and applying a Silver Bolts stack. If the target collides with terrain, they take bonus physical damage, and are stunned for 1.5 seconds.",
+					"cool": "Cooldown Time: 20 / 18 / 16 / 14 / 12",
+					"mana": "Mana Cost: 90"
 					}
 				},
 
 			"r": {
-				"movename": "",
+				"movename": "Final Hour",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Vayne arms herself with her crossbow, gaining bonus attack damage and tripling Night Hunter's bonus for a duration. Additionally, tumble gains a cooldown reduction, and casting it grants Vayne invisibility for 1 second. Attacking or casting condemn breaks the stealth immediately. While active, whenever an enemy champion damaged by Vayne dies within 3 seconds, Final Hour's duration is extended by 4 seconds, up to a maximum of the original duration.",
+					"cool": "Cooldown Time: 10 / 85 / 70",
+					"mana": "Mana Cost: 80"
 					}
 				}
 		}
@@ -1331,47 +1331,47 @@
 		"lore": "Deadly and precise, Xayah is a vastayan revolutionary waging a personal war to save her people. She uses her speed, guile, and razor-sharp feather blades to cut down anyone who stands in her way. Xayah fights alongside her partner and lover, Rakan, to protect their dwindling tribe, and restore their race to her vision of its former glory.",
 		"moves": {
 			"passive": {
-				"movename": "",
+				"movename": "Clean Cuts",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "After casting an ability, Xayah's next 3 basic attacks penetrate through all enemies along a 900 range line, dealing 100% damage to her main target and 30 / 40 / 50% (based on level) passthrough damage to other enemies. At the end of their path, a Feather will be left in the ground for 6 seconds. Xayah can store up to 5 empowered attacks for 8 seconds, refreshed with further ability use or upon attacking structures. If either Xayah or Rakan is recalling, the other may move nearby and activate their own recall to join them. Both reach base at the time of which the initiator's call ends.",
+					"cool": "Cooldown Time: None",
+					"mana": "Mana Cost: None"
 					}
 				},
 
 			"q": {
-				"movename": "",
+				"movename": "Double Daggers",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Xayah throws two feather-blades in quick succession, dealing physical damage to all enemies hit and leaving two Feathers on the ground. Targets hit after the first hit take 50% damage.",
+					"cool": "Cooldown Time: 10 / 9 / 8 / 7 / 6",
+					"mana": "Mana Cost: 50"
 					}
 				},
 
 			"w": {
-				"movename": "",
+				"movename": "Deadly Plumage",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Xayah creates a storm of blades for 4 seconds that grants her bonus attack speed and cause her basic attacks to strike an additional time for 20% damage. If Deadly Plumage strikes an enemy champion, Xayah gains 30% bonus movement speed for 1.5 seconds. If Rakan is nearby he will also gain the effects of Deadly Plumage, while also gaining the bonus movement speed when Xayah strikes an enemy champion.",
+					"cool": "Cooldown Time: 20 / 19 / 18 / 17 / 16",
+					"mana": "Mana Cost: 60 / 55 / 50 / 45 / 40"
 					}
 				},
 
 			"e": {
-				"movename": "",
+				"movename": "Bladecaller",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Xayah calls all Feathers back to her, dealing physical damage to enemies they pass through, increased by 0%-50% (based on critical chance). Minions take 50% damage. Enemies take 100%-10% (based on previous feathers hit) damage from a feather. Enemies hit by at least 3 feathers are rooted for 1.25 seconds.",
+					"cool": "Cooldown Time: 12 / 11 / 10 / 9 / 8",
+					"mana": "Mana Cost: 40"
 					}
 				},
 
 			"r": {
-				"movename": "",
+				"movename": "Featherstorm",
 				"info": {
-					"desc": "Champion's Move Description",
-					"cool": "Cooldown Time: #",
-					"mana": "Mana Cost: ###"
+					"desc": "Xayah leaps into the air, becoming untargetable and ghosted for 1.5 seconds, during which she is still able to move, then rains down daggers which deal physical damage and leave behind a line of 5 feathers.",
+					"cool": "Cooldown Time: 160 / 145 / 130",
+					"mana": "Mana Cost: 100"
 					}
 				}
 		}
